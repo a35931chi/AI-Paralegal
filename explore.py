@@ -90,23 +90,74 @@ doc_clean1 = [clean_method1(doc).split() for doc in full_doc]
 print(full_doc[-1])
 print(doc_clean1[-1])
 
-#preparing document-term matrix
-# Importing Gensim
-import gensim
-from gensim import corpora
+def gensim_LDA(list_of_text, num_topics = 3, passes = 50):
+    #preparing document-term matrix
+    # Importing Gensim
+    import gensim
+    from gensim import corpora
 
-# Creating the term dictionary of our courpus, where every unique term is assigned an index. dictionary = corpora.Dictionary(doc_clean)
-dictionary = corpora.Dictionary(doc_clean1)
+    # Creating the term dictionary of our corpus, where every unique term is assigned an index. dictionary = corpora.Dictionary(doc_clean)
+    dictionary = corpora.Dictionary(doc_clean1)
 
-# Converting list of documents (corpus) into Document Term Matrix using dictionary prepared above.
-doc_term_matrix = [dictionary.doc2bow(doc) for doc in doc_clean1]
+    # Converting list of documents (corpus) into Document Term Matrix using dictionary prepared above.
+    doc_term_matrix = [dictionary.doc2bow(doc) for doc in doc_clean1]
 
-# running LDA model
-# Creating the object for LDA model using gensim library
-Lda = gensim.models.ldamodel.LdaModel
+    # running LDA model
+    # Creating the object for LDA model using gensim library
+    Lda = gensim.models.ldamodel.LdaModel
 
-# Running and Trainign LDA model on the document term matrix.
-ldamodel = Lda(doc_term_matrix, num_topics=3, id2word = dictionary, passes=50)
+    # Running and Trainign LDA model on the document term matrix.
+    ldamodel = Lda(doc_term_matrix, num_topics = num_topics, id2word = dictionary,
+                   passes = passes)
 
-#Results
-print(ldamodel.print_topics(num_topics=3, num_words=3))
+    #Results, displaying 3 topics
+    print(ldamodel.print_topics(num_topics=3, num_words=3))
+
+    pass #ideally I want to pass back the model
+
+# reference: https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730
+
+def sklearn_LDA():
+    from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+    from sklearn.datasets import fetch_20newsgroups
+    from sklearn.decomposition import NMF, LatentDirichletAllocation
+
+    def display_topics(model, feature_names, no_top_words):
+        for topic_idx, topic in enumerate(model.components_):
+            print("Topic %d:" % (topic_idx))
+            print(" ".join([feature_names[i] for i in topic.argsort()[:-no_top_words - 1:-1]]))
+
+    dataset = fetch_20newsgroups(shuffle = True, random_state = 1,
+                                 remove = ('headers', 'footers', 'quotes'))
+    documents = dataset.data
+
+    no_features = 1000
+
+    # NMF is able to use tf-idf
+    tfidf_vectorizer = TfidfVectorizer(max_df=0.95, min_df=2, max_features=no_features, stop_words='english')
+    tfidf = tfidf_vectorizer.fit_transform(documents)
+    tfidf_feature_names = tfidf_vectorizer.get_feature_names()
+
+    # LDA can only use raw term counts for LDA because it is a probabilistic graphical model
+    tf_vectorizer = CountVectorizer(max_df=0.95, min_df=2, max_features=no_features, stop_words='english')
+    tf = tf_vectorizer.fit_transform(documents)
+    tf_feature_names = tf_vectorizer.get_feature_names()
+
+    no_topics = 20
+
+    # Run NMF
+    nmf = NMF(n_components = no_topics, random_state = 1, alpha = 0.1,
+              l1_ratio = 0.5, init = 'nndsvd').fit(tfidf)
+
+    # Run LDA
+    lda = LatentDirichletAllocation(n_topics = no_topics, max_iter = 5,
+                                    learning_method = 'online',
+                                    learning_offset = 50., random_state = 0).fit(tf)
+
+    no_top_words = 10
+    display_topics(nmf, tfidf_feature_names, no_top_words)
+    display_topics(lda, tf_feature_names, no_top_words)
+
+    pass
+
+sklearn_LDA()
