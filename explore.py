@@ -62,3 +62,51 @@ print(docket_list[3])
 for i in range(len(docket_list)):
     docket_list[i].to_csv('{} [{}].csv'.format(case_id, i))
 '''
+
+#reference document: http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb
+#https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
+
+#clean and processing
+from nltk.corpus import stopwords
+from nltk.stem.wordnet import WordNetLemmatizer
+import string
+
+stop = set(stopwords.words('english'))
+exclude = set(string.punctuation)
+lemma = WordNetLemmatizer()
+
+def clean_method1(doc):
+    stop_free = ' '.join([i for i in doc.lower().split() if i not in stop])
+    punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
+    normalized = ' '.join(lemma.lemmatize(word) for word in punc_free.split())
+    return normalized
+
+full_doc = list(df_all['Docket Text'])
+
+#note that when we cleaned with normal 
+doc_clean1 = [clean_method1(doc).split() for doc in full_doc]
+
+#do some comparisions:
+print(full_doc[-1])
+print(doc_clean1[-1])
+
+#preparing document-term matrix
+# Importing Gensim
+import gensim
+from gensim import corpora
+
+# Creating the term dictionary of our courpus, where every unique term is assigned an index. dictionary = corpora.Dictionary(doc_clean)
+dictionary = corpora.Dictionary(doc_clean1)
+
+# Converting list of documents (corpus) into Document Term Matrix using dictionary prepared above.
+doc_term_matrix = [dictionary.doc2bow(doc) for doc in doc_clean1]
+
+# running LDA model
+# Creating the object for LDA model using gensim library
+Lda = gensim.models.ldamodel.LdaModel
+
+# Running and Trainign LDA model on the document term matrix.
+ldamodel = Lda(doc_term_matrix, num_topics=3, id2word = dictionary, passes=50)
+
+#Results
+print(ldamodel.print_topics(num_topics=3, num_words=3))
