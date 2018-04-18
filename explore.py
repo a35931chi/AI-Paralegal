@@ -208,13 +208,19 @@ def sklearn_NMF(raw_text, no_topics = 10, no_top_words = 5):
 
 
 if __name__ == '__main__':
+    #current docket text table size/shape: (721, 4), 2018-04-18
     df = grab_dockets()
+    
+    #not changed
     doc_original = list(df['Docket Text'])
-
+    doc_original_split = [doc.split() for doc in doc_original]
     #normal cleaning: lowercase, remove stopwords, punctuations, lemmatized
-    doc_standard = [clean_standard(doc).split() for doc in doc_original]
+    doc_standard = [clean_standard(doc) for doc in doc_original]
+    doc_standard_split = [clean_standard(doc).split() for doc in doc_original]
     #keep all caps cleaning: everything standard, but keeping all caps words/phrases
-    doc_keep_allcaps = [clean_keep_allcaps(doc).split() for doc in doc_original]
+    doc_keep_allcaps = [clean_keep_allcaps(doc) for doc in doc_original]
+    doc_keep_allcaps_split = [clean_keep_allcaps(doc).split() for doc in doc_original]
+    
     
     if False: #output docket text and transformations into .csv
         #output the entired docket text
@@ -234,28 +240,29 @@ if __name__ == '__main__':
     bookmark = input('bookmark')
     '''
 
-
+    files = [doc_original, doc_standard, doc_keep_allcaps]
+    files_split = [doc_original_split, doc_standard_split, doc_keep_allcaps_split]
+    results = {}
+    for i in range(len(files)):
         
+        #output the topic output by different models
+        #sklearn LDA 
+        SKLDA_model, SKLDA_topics = sklearn_LDA(files[i]) #uncleaned text
+        results[('SKLDA', i)] = SKLDA_topics
+        #print('SKLEARN LDA')
+        #print(SKLDA_topics)
 
-    #output the topic output by different models
-    #sklearn LDA
-    SKLDA_model, SKLDA_topics = sklearn_LDA(doc_original) #uncleaned text
-    print('SKLEARN LDA')
-    print(SKLDA_topics)
+        #sklearn MNF
+        SKNMF_model, SKNMF_topics = sklearn_NMF(files[i])
+        results[('SKNMF', i)] = SKNMF_topics
+        #print('SKLEARN NMF')
+        #print(SKNMF_topics)
 
-    SKNMF_model, SKNMF_topics = sklearn_NMF(doc_original)
-    print('SKLEARN NMF')
-    print(SKNMF_topics)
-    
-    GLDA_model, GLDA_topics = gensim_LDA(doc_standard)
-    print('GENSIM LDA')
-    print(GLDA_topics)
+        #gensim LDA
+        GLDA_model, GLDA_topics = gensim_LDA(files_split[i])
+        results[('GLDA', i)] = GLDA_topics
+        #print('GENSIM LDA')
+        #print(GLDA_topics)
     
     
-    #sklearn_LDA([' '.join([word for word in doc_standard[i]]) for i in range(len(doc_standard))]) #standard cleaned text
-    #sklearn_LDA([' '.join([word for word in doc_keep_allcaps[i]]) for i in range(len(doc_keep_allcaps))]) #standard cleaned text
-    #Results, displaying n topics
-    #
-        
-    #sklearn_LDA(doc_standard)
-    #sklearn_NMF(doc_standard)
+    pd.DataFrame(results).to_csv('topics.csv')
