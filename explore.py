@@ -141,7 +141,7 @@ def gensim_LDA(list_of_text, num_topics = 10, passes = 50):
 
 
 # reference: https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730
-def sklearn_LDA(raw_text, no_topics = 10, no_top_words = 5):
+def sklearn_LDA(raw_text, no_topics = 10, no_top_words = 5, lowercase = False):
     
     def output_topics(model, feature_names, no_top_words, display = False):
         output = []
@@ -154,12 +154,14 @@ def sklearn_LDA(raw_text, no_topics = 10, no_top_words = 5):
     no_features = 1000
 
     # LDA can only use raw term counts for LDA because it is a probabilistic graphical model
-    tf_vectorizer = CountVectorizer(max_df = 0.95, min_df = 2,
+    tf_vectorizer = CountVectorizer(max_df = 0.95, min_df = 1,
                                     max_features = no_features,
+                                    lowercase = lowercase,
                                     stop_words = 'english')
-    
+   
     tf = tf_vectorizer.fit_transform(raw_text)
     tf_feature_names = tf_vectorizer.get_feature_names()
+    
     
     # Run LDA
     lda = LatentDirichletAllocation(n_topics = no_topics, max_iter = 5,
@@ -168,6 +170,9 @@ def sklearn_LDA(raw_text, no_topics = 10, no_top_words = 5):
     
 
     topics = output_topics(lda, tf_feature_names, no_top_words, display = False)
+    print(lda.components_.shape)
+    print(tf_feature_names)
+    bookmark = input('bookmark')
 
     return lda, topics
 
@@ -221,7 +226,10 @@ if __name__ == '__main__':
     doc_keep_allcaps = [clean_keep_allcaps(doc) for doc in doc_original]
     doc_keep_allcaps_split = [clean_keep_allcaps(doc).split() for doc in doc_original]
     
-    
+    if True: #this figures out what's wrong with each algo
+        SKLDA_model, SKLDA_topics = sklearn_LDA(doc_original, lowercase = False)
+
+        
     if False: #output docket text and transformations into .csv
         #output the entired docket text
         df = grab_dockets()
@@ -230,39 +238,32 @@ if __name__ == '__main__':
         df['keep_allcaps_clean'] = doc_keep_allcaps
 
         df.to_csv('docket_texts.csv', index = False)
+
+
+    if False: #this outputs the output topics for comparision
+        files = [doc_original, doc_standard, doc_keep_allcaps]
+        files_split = [doc_original_split, doc_standard_split, doc_keep_allcaps_split]
+        results = {}
+        for i in range(len(files)):
+            
+            #output the topic output by different models
+            #sklearn LDA 
+            SKLDA_model, SKLDA_topics = sklearn_LDA(files[i]) #uncleaned text
+            results[('SKLDA', i)] = SKLDA_topics
+            #print('SKLEARN LDA')
+            #print(SKLDA_topics)
+
+            #sklearn MNF
+            SKNMF_model, SKNMF_topics = sklearn_NMF(files[i])
+            results[('SKNMF', i)] = SKNMF_topics
+            #print('SKLEARN NMF')
+            #print(SKNMF_topics)
+
+            #gensim LDA
+            GLDA_model, GLDA_topics = gensim_LDA(files_split[i])
+            results[('GLDA', i)] = GLDA_topics
+            #print('GENSIM LDA')
+            #print(GLDA_topics)
         
-
-
-    '''
-    #do some comparisions:
-    print(doc_original[-1])
-    print(doc_keep_allcaps[-1])
-    bookmark = input('bookmark')
-    '''
-
-    files = [doc_original, doc_standard, doc_keep_allcaps]
-    files_split = [doc_original_split, doc_standard_split, doc_keep_allcaps_split]
-    results = {}
-    for i in range(len(files)):
         
-        #output the topic output by different models
-        #sklearn LDA 
-        SKLDA_model, SKLDA_topics = sklearn_LDA(files[i]) #uncleaned text
-        results[('SKLDA', i)] = SKLDA_topics
-        #print('SKLEARN LDA')
-        #print(SKLDA_topics)
-
-        #sklearn MNF
-        SKNMF_model, SKNMF_topics = sklearn_NMF(files[i])
-        results[('SKNMF', i)] = SKNMF_topics
-        #print('SKLEARN NMF')
-        #print(SKNMF_topics)
-
-        #gensim LDA
-        GLDA_model, GLDA_topics = gensim_LDA(files_split[i])
-        results[('GLDA', i)] = GLDA_topics
-        #print('GENSIM LDA')
-        #print(GLDA_topics)
-    
-    
-    pd.DataFrame(results).to_csv('topics.csv')
+        pd.DataFrame(results).to_csv('topics.csv')
