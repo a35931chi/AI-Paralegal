@@ -1,8 +1,6 @@
 complaint against cardiogenics holdings inc. filing fee receipt number
 be the disclosure statement on civil cover sheet complete -yes file by lg capital funding llc
-steinmetz michael
-additional attachment(s add on civil cover sheet propose summon
-bowens priscilla
+steinmetz michael additional attachment add on civil cover sheet propose summon bowens priscilla
 enter
 case assign to judge ann m donnelly and magistrate judge vera m. scanlon
 please download and review the individual practices of the assign judges locate on website
@@ -1647,8 +1645,7 @@ correction
 notice to attorney kevin kehrli
 the follow case open statistical information be erroneously select enter
 dollar demand county code new york
-the follow correction(s have be make to case entry
-the dollar demand have be modify to the county code have be modify to xx out of state;. rch
+the following correction have be make to case entry the dollar demand have be modify to the county code have be modify to xx out of state;. rch
 enter
 
 notice to attorney regard party modification
@@ -1661,7 +1658,7 @@ enter
 notice to attorney regard deficient request for issuance of summon
 notice to attorney to re file document no
 request for issuance of summons
-the filing be deficient for the following reason(s plaintiff 's attorney 's name and address not list on summons;. re file the document use the event type request for issuance of summons find under the event list service of process select the correct filer filer and attach the correct summon form pdf
+the filing be deficient for the following reason plaintiff 's attorney 's name and address not list on summons;. re file the document use the event type request for issuance of summons find under the event list service of process select the correct filer filer and attach the correct summon form pdf
 rch
 enter
 case opening initial
@@ -1742,8 +1739,8 @@ response due by
 reply due by
 sign by judge andrew l. carter jr on rjm enter
 minute entry for proceeding hold before judge andrew l. carter jr pre motion conference hold on
-kevin kehrli for plaintiff(s
-mark r. basile for defendant(s
+kevin kehrli for plaintiff
+mark r. basile for defendant
 see docket no
 for complete detail
 court reporter
@@ -1840,8 +1837,8 @@ the clerk of the court be respectfully request to close docket entry number
 the party be direct to submit a joint status report on or before september
 sign by judge andrew l. carter jr on kgo enter
 minute entry for proceeding hold before judge andrew l. carter jr pre motion conference hold on
-kevin kehrli for plaintiff(s
-mark r. basile for defendant(s
+kevin kehrli for plaintiff
+mark r. basile for defendant
 see docket no for complete detail
 tdh
 enter
@@ -1974,7 +1971,7 @@ notice to attorney regard case
 open statistical error
 correction
 notice to attorney robert david garson
-the follow case open statistical information be erroneously select enter cause of action code dollar demand county code albany;. the following correction(s have be make to case entry
+the follow case open statistical information be erroneously select enter cause of action code dollar demand county code albany;. the following correction have be make to case entry
 the cause of action code have be modify to the dollar demand have be modify to the county code have be modify to new york;. jvs
 enter
 case opening initial
@@ -2251,12 +2248,12 @@ notice to attorney regard case
 open statistical error
 correction
 notice to attorney robert david garson
-the follow case open statistical information be erroneously select enter cause of action code citizenship plaintiff code citizen of this state citizenship defendant code citizen of another state dollar demand the following correction(s have be make to case entry
-the cause of action code have be modify to the citizenship plaintiff code have be modify to incorporated principal place of business this state the citizenship defendant code have be modify to incorporated principal place of business other state);. jvs enter
+the follow case open statistical information be erroneously select enter cause of action code citizenship plaintiff code citizen of this state citizenship defendant code citizen of another state dollar demand
+the following correction have be make to case entry the cause of action code have be modify to the citizenship plaintiff code have be modify to incorporated principal place of business this state the citizenship defendant code have be modify to incorporated principal place of business other state);. jvs enter
 
 notice to attorney regard deficient civil cover sheet
 notice to attorney robert david garson to re file document no civil cover sheet
-the filing be deficient for the following reason(s courthouse assignment be not choosen;. re file the document use the event type civil cover sheet find under the event list other document and attach the correct pdf
+the filing be deficient for the following reason courthouse assignment be not choosen;. re file the document use the event type civil cover sheet find under the event list other document and attach the correct pdf
 use civil cover sheet issue by s.d.n.y. date april
 the s.d.n.y. civil cover sheet date april be locate athttp://nysd.uscourts.gov file form civil cover sheet
 jvs
@@ -2634,8 +2631,7 @@ correction
 notice to attorney kevin kehrli
 the follow case open statistical information be erroneously select enter
 dollar demand arbitration code e exempt county code albany
-the follow correction(s have be make to case entry
-the dollar demand have be modify to blank the arbitration code have be delete the county code have be modify to king
+the following correction have be make to case entry the dollar demand have be modify to blank the arbitration code have be delete the county code have be modify to king
 pc
 enter
 case opening initial
@@ -2749,9 +2745,8 @@ notice to attorney regard case
 open statistical error
 correction
 notice to attorney chris han
-the follow case open statistical information be erroneously select enter
-dollar demand county code new york;. the follow correction(s have be make to case entry
-the dollar demand have be modify to the county code have be modify to kings;. jvs
+the follow case open statistical information be erroneously select enter dollar demand county code new york;.
+the following correction have be make to case entry the dollar demand have be modify to the county code have be modify to kings;. jvs
 enter
 case opening initial
 assignment notice
@@ -2780,7 +2775,7 @@ the information for the party party have be modify for the following reason reas
 notice to attorney regard deficient request for issuance of summon
 notice to attorney to re file document no
 request for issuance of summons
-the filing be deficient for the following reason(s the form use for the summon be blank;. re file the document use the event type request for issuance of summons find under the event list service of process select the correct filer filer and attach the correct summon form pdf
+the filing be deficient for the following reason the form use for the summon be blank;. re file the document use the event type request for issuance of summons find under the event list service of process select the correct filer filer and attach the correct summon form pdf
 jvs
 enter
 file error deficient summons file against party error request for issuance of summon as to re complaint
@@ -2807,7 +2802,7 @@ enter
 
 notice to attorney regard deficient request for issuance of summon
 notice to attorney to re file document no request for issuance of summons
-the filing be deficient for the following reason(s please enter as to who
+the filing be deficient for the following reason please enter as to who
 the request for issuance of summon be for in the docket entry text re file the document use the event type request for issuance of summons find under the event list service of process select the correct filer filer and attach the correct summon form pdf
 kl
 enter
@@ -2930,7 +2925,7 @@ enter
 
 notice to attorney regard deficient pleading
 notice to attorney kevin kehrli to re file re document no amend complaint
-the filing be deficient for the following reason(s court 's leave have not be grant the amend complaint be file after the due date
+the filing be deficient for the following reason court 's leave have not be grant the amend complaint be file after the due date
 permission from chamber will need to be acquire for the amend complaint to be accept re file the pleading use the event type amend complaint find under the event list complaints and other initiate document attach the correct sign pdf select the individually name filer filer select the individually name party party the pleading be against
 file the exhibit to pleading event find under the event list other document and attach either oppose party 's write consent or court 's leave
 pc
@@ -3185,7 +3180,7 @@ electronic summon issue as to acb associates l.p
 pc
 enter
 ao form copyright case opening submit
-in compliance with the provision of u.s.c. the register of copyrights be hereby advise that a court action have be file on the follow copyright(s in the u.s. district court southern district of new york
+in compliance with the provision of u.s.c. the register of copyrights be hereby advise that a court action have be file on the follow copyright in the u.s. district court southern district of new york
 form e mail to register of copyrights
 pc
 enter
@@ -3365,7 +3360,7 @@ attorney regard civil
 case open statistical error correction
 notice to attorney matthew joel sava
 the follow case open statistical information be erroneously select enter county code new york
-the follow correction(s have be make to case entry the county code have be modify to xx out of u.s. vf
+the following correction have be make to case entry the county code have be modify to xx out of u.s. vf
 enter
 case opening initial
 assignment notice

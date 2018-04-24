@@ -1,8 +1,6 @@
 complaint_against cardiogenics_holdings_inc. filing_fee_receipt_number
 be the disclosure_statement on civil_cover_sheet complete_-yes file by lg_capital_funding_llc
-steinmetz michael
-additional attachment(s add on civil_cover_sheet propose summon
-bowens_priscilla
+steinmetz michael additional attachment add on civil_cover_sheet propose summon bowens_priscilla
 enter
 case assign to judge_ann_m_donnelly and magistrate_judge_vera_m. scanlon
 please_download_and_review the individual_practices of the assign_judges_locate on website
@@ -1640,19 +1638,18 @@ correction
 notice to attorney kevin_kehrli
 the follow_case_open statistical_information be erroneously_select enter
 dollar_demand county_code new_york
-the follow correction(s_have be make to case entry
-the dollar_demand have be modify to the county_code have be modify to xx out of state;. rch
+the following_correction_have be make to case entry the dollar_demand have be modify to the county_code have be modify to xx out of state;. rch
 enter
 notice to attorney_regard party modification
 notice to attorney kevin_kehrli
 the party information for the follow party party have be modify add alias rx sale inc. to genesys_id_inc
-the information for the party party have be modify for the following reason reason alias party name be omit
+the information for the party party have be modify for the following_reason reason alias party name be omit
 rch
 enter
 notice to attorney_regard deficient request for_issuance of summon
 notice to attorney to re file document no
 request for_issuance of summons
-the filing be deficient for the following reason(s plaintiff_'s attorney 's name and address not list on summons;. re file the document use the event_type request for_issuance of summons find_under the event_list service of process select the correct filer filer and attach the correct summon form pdf
+the filing be deficient for the following_reason plaintiff_'s attorney 's name and address not list on summons;. re file the document use the event_type request for_issuance of summons find_under the event_list service of process select the correct filer filer and attach the correct summon form pdf
 rch
 enter
 case_opening_initial
@@ -1732,8 +1729,8 @@ response_due by
 reply_due by
 sign by judge_andrew_l._carter jr on rjm enter
 minute_entry_for proceeding_hold_before judge_andrew_l._carter jr pre_motion_conference hold_on
-kevin_kehrli for plaintiff(s
-mark_r._basile for defendant(s
+kevin_kehrli for plaintiff
+mark_r._basile for defendant
 see docket no
 for complete detail
 court_reporter
@@ -1830,8 +1827,8 @@ the clerk of the court be respectfully request to close docket_entry number
 the party be direct to submit_a_joint status_report on_or_before september
 sign by judge_andrew_l._carter jr on kgo enter
 minute_entry_for proceeding_hold_before judge_andrew_l._carter jr pre_motion_conference hold_on
-kevin_kehrli for plaintiff(s
-mark_r._basile for defendant(s
+kevin_kehrli for plaintiff
+mark_r._basile for defendant
 see docket no for complete detail
 tdh
 enter
@@ -1963,7 +1960,7 @@ notice to attorney_regard case
 open_statistical error
 correction
 notice to attorney robert david garson
-the follow_case_open statistical_information be erroneously_select enter cause of action code dollar_demand county_code albany;. the following correction(s_have be make to case entry
+the follow_case_open statistical_information be erroneously_select enter cause of action code dollar_demand county_code albany;. the following_correction_have be make to case entry
 the cause of action code_have be modify to the dollar_demand have be modify to the county_code have be modify to new york;. jvs
 enter
 case_opening_initial
@@ -2238,11 +2235,11 @@ notice to attorney_regard case
 open_statistical error
 correction
 notice to attorney robert david garson
-the follow_case_open statistical_information be erroneously_select enter cause of action code citizenship plaintiff code citizen of this state citizenship defendant code citizen of another state dollar_demand the following correction(s_have be make to case entry
-the cause of action code_have be modify to the citizenship plaintiff code_have be modify to incorporated principal place of business this state the citizenship defendant code_have be modify to incorporated principal place of business other state);. jvs enter
+the follow_case_open statistical_information be erroneously_select enter cause of action code citizenship plaintiff code citizen of this state citizenship defendant code citizen of another state dollar_demand
+the following_correction_have be make to case entry the cause of action code_have be modify to the citizenship plaintiff code_have be modify to incorporated principal place of business this state the citizenship defendant code_have be modify to incorporated principal place of business other state);. jvs enter
 notice to attorney_regard deficient civil_cover_sheet
 notice to attorney robert david garson to re file document no civil_cover_sheet
-the filing be deficient for the following reason(s courthouse assignment be not choosen;. re file the document use the event_type civil_cover_sheet find_under the event_list other document and attach the correct pdf
+the filing be deficient for the following_reason courthouse assignment be not choosen;. re file the document use the event_type civil_cover_sheet find_under the event_list other document and attach the correct pdf
 use civil_cover_sheet issue by s.d.n.y. date april
 the s.d.n.y. civil_cover_sheet date april be locate athttp://nysd.uscourts.gov file form civil_cover_sheet
 jvs
@@ -2618,8 +2615,7 @@ correction
 notice to attorney kevin_kehrli
 the follow_case_open statistical_information be erroneously_select enter
 dollar_demand arbitration code e exempt county_code albany
-the follow correction(s_have be make to case entry
-the dollar_demand have be modify to blank the arbitration code_have be delete the county_code have be modify to king
+the following_correction_have be make to case entry the dollar_demand have be modify to blank the arbitration code_have be delete the county_code have be modify to king
 pc
 enter
 case_opening_initial
@@ -2732,9 +2728,8 @@ notice to attorney_regard case
 open_statistical error
 correction
 notice to attorney chris_han
-the follow_case_open statistical_information be erroneously_select enter
-dollar_demand county_code new york;. the follow correction(s_have be make to case entry
-the dollar_demand have be modify to the county_code have be modify to kings;. jvs
+the follow_case_open statistical_information be erroneously_select enter dollar_demand county_code new york;.
+the following_correction_have be make to case entry the dollar_demand have be modify to the county_code have be modify to kings;. jvs
 enter
 case_opening_initial
 assignment_notice
@@ -2757,11 +2752,11 @@ enter
 notice to attorney_regard party modification
 notice to attorney chris_han
 the party information for the follow party party have be modify adr provider lg_capital_funding_llc adr provider exeled_holdings_inc. k a energie holdings_inc
-the information for the party party have be modify for the following reason reason party name be enter in all cap party role be enter incorrectly alias party name be omitted;. jvs enter
+the information for the party party have be modify for the following_reason reason party name be enter in all cap party role be enter incorrectly alias party name be omitted;. jvs enter
 notice to attorney_regard deficient request for_issuance of summon
 notice to attorney to re file document no
 request for_issuance of summons
-the filing be deficient for the following reason(s the form use for the summon be blank;. re file the document use the event_type request for_issuance of summons find_under the event_list service of process select the correct filer filer and attach the correct summon form pdf
+the filing be deficient for the following_reason the form use for the summon be blank;. re file the document use the event_type request for_issuance of summons find_under the event_list service of process select the correct filer filer and attach the correct summon form pdf
 jvs
 enter
 file_error_deficient summons file against party error request for_issuance of summon_as to re complaint
@@ -2787,7 +2782,7 @@ han_chris
 enter
 notice to attorney_regard deficient request for_issuance of summon
 notice to attorney to re file document no request for_issuance of summons
-the filing be deficient for the following reason(s please enter as to who
+the filing be deficient for the following_reason please enter as to who
 the request for_issuance of summon be for in the docket_entry text re file the document use the event_type request for_issuance of summons find_under the event_list service of process select the correct filer filer and attach the correct summon form pdf
 kl
 enter
@@ -2909,7 +2904,7 @@ modified_on pc
 enter
 notice to attorney_regard deficient pleading
 notice to attorney kevin_kehrli to re file re document no amend_complaint
-the filing be deficient for the following reason(s court_'s leave have not be grant the amend_complaint be file after the due date
+the filing be deficient for the following_reason court_'s leave have not be grant the amend_complaint be file after the due date
 permission from chamber will need to be acquire for the amend_complaint to be accept re file the pleading use the event_type amend_complaint find_under the event_list complaints and other initiate document attach the correct sign pdf select the individually name filer filer select the individually name party party the pleading be against
 file the exhibit to pleading event find_under the event_list other document and attach either oppose party 's write consent or court_'s leave
 pc
@@ -3164,7 +3159,7 @@ electronic_summon_issue_as to acb_associates l.p
 pc
 enter
 ao form copyright case_opening submit
-in compliance with the provision of u.s.c. the register of copyrights be hereby advise that a court action have be file on the follow copyright(s in the u.s. district_court southern district of new_york
+in compliance with the provision of u.s.c. the register of copyrights be hereby advise that a court action have be file on the follow copyright in the u.s. district_court southern district of new_york
 form e mail to register of copyrights
 pc
 enter
@@ -3330,7 +3325,7 @@ document_file_by hangzhou_kailai_neckwear_apparel co. ltd.,.(sava matthew enter
 notice to attorney_regard party modification
 notice to attorney matthew joel sava
 the party information for the follow party party have be modify ncp_direct_sourcing_inc. ncp_direct_sourcing_inc. thomas_paglia hangzhou_kailai_neckwear_apparel co._ltd.
-the information for the party party have be modify for the following reason reason party role be enter incorrectly party text be omit
+the information for the party party have be modify for the following_reason reason party role be enter incorrectly party text be omit
 vf
 enter
 notice to
@@ -3338,7 +3333,7 @@ attorney_regard civil
 case_open statistical_error correction
 notice to attorney matthew joel sava
 the follow_case_open statistical_information be erroneously_select enter county_code new_york
-the follow correction(s_have be make to case entry the county_code have be modify to xx out of u.s. vf
+the following_correction_have be make to case entry the county_code have be modify to xx out of u.s. vf
 enter
 case_opening_initial
 assignment_notice
