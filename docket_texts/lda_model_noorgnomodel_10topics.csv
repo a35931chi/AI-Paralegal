@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9
+"('motion', 0.108)","('motion', 0.051)","('motion', 0.108)","('order', 0.079)","('order', 0.046)","('motion', 0.054)","('order', 0.104)","('motion', 0.131)","('magistrate', 0.025)","('order', 0.073)"
+"('plaintiff', 0.025)","('sign', 0.043)","('letter', 0.032)","('motion', 0.036)","('request', 0.033)","('order', 0.044)","('motion', 0.033)","('order', 0.049)","('order', 0.023)","('motion', 0.048)"
+"('modify', 0.021)","('notice', 0.03)","('notice', 0.027)","('stipulation', 0.023)","('motion', 0.024)","('sign', 0.024)","('plaintiff', 0.013)","('plaintiff', 0.018)","('counsel', 0.016)","('attachment', 0.024)"
+"('notice', 0.02)","('order', 0.026)","('grant', 0.025)","('court', 0.019)","('plaintiff', 0.022)","('pl', 0.02)","('dismiss', 0.013)","('djc', 0.017)","('notice', 0.015)","('schedule', 0.018)"
+"('order', 0.02)","('case', 0.022)","('order', 0.025)","('schedule', 0.019)","('court', 0.02)","('summary_judgment', 0.016)","('magistrate', 0.013)","('l.p.', 0.017)","('court', 0.014)","('court', 0.013)"
+"('mro', 0.019)","('complaint', 0.022)","('dismiss', 0.016)","('sign', 0.018)","('minute_entry_proceeding_hold', 0.016)","('service_accept', 0.014)","('case', 0.013)","('dismiss', 0.017)","('attachment', 0.014)","('serve', 0.01)"
+"('opposition', 0.013)","('serve_answer_due', 0.018)","('summary_judgment', 0.013)","('magistrate', 0.015)","('judgment', 0.014)","('march', 0.011)","('claim', 0.013)","('notice', 0.016)","('complaint', 0.013)","('regard', 0.01)"
+"('sign', 0.012)","('attorney', 0.013)","('complaint', 0.012)","('sign_magistrate', 0.014)","('dismiss', 0.013)","('memorandum_law_support', 0.011)","('hereby', 0.012)","('memorandum_law_support', 0.013)","('motion', 0.013)","('dismiss', 0.009)"
+"(""'"", 0.011)","('redact_transcript_deadline_set', 0.012)","('amend_complaint', 0.012)","('plaintiff', 0.011)","('conference', 0.012)","('stipulation', 0.011)","('letter', 0.011)","('declaration_support', 0.013)","('plaintiff', 0.011)","('submit', 0.009)"
+"('memorandum_law_support', 0.01)","('rule_statement', 0.011)","(""'"", 0.011)","('attachment', 0.011)","('clerk', 0.011)","('notice', 0.01)","('propose', 0.011)","('declaration_opposition', 0.013)","('reiter', 0.011)","('letter_address', 0.008)"
