@@ -1,0 +1,11 @@
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5
+"('order', 0.058)","('motion', 0.031)","('exhibit', 0.158)","('motion', 0.109)","('exhibit', 0.105)"
+"(""'s"", 0.034)","('court', 0.031)","('motion', 0.024)","('exhibit', 0.066)","('order', 0.075)"
+"('motion', 0.021)","('order', 0.027)","('attachment', 0.024)","('notice', 0.038)","('motion', 0.063)"
+"('request', 0.02)","('case', 0.022)","('order', 0.013)","('order', 0.017)","('sign_judge', 0.015)"
+"('judge', 0.015)","('ex', 0.021)","('b', 0.012)","('inc..', 0.016)","('defendant', 0.015)"
+"('defendant', 0.014)","('defendant', 0.019)","('notice_appearance_behalf', 0.011)","('summary_judgment', 0.014)","('dismiss', 0.014)"
+"('party', 0.013)","('party', 0.018)","('judge', 0.01)","('memorandum_law_support', 0.013)","('shall', 0.013)"
+"('schedule', 0.012)","('shall', 0.015)","('service_accept', 0.01)","(""'s"", 0.013)","('complaint', 0.01)"
+"('grant', 0.01)","('plaintiff', 0.015)","('party', 0.009)","('stipulation', 0.01)","('stipulation', 0.009)"
+"('letter', 0.01)","('date', 0.014)","('inc..', 0.009)","('pennsylvania', 0.009)","('memorandum_law_support', 0.009)"

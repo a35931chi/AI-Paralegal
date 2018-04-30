@@ -1,0 +1,11 @@
+Topic 1,Topic 2
+"('exhibit', 0.12)","('motion', 0.055)"
+"('motion', 0.051)","('order', 0.041)"
+"('order', 0.041)","(""'s"", 0.024)"
+"('defendant', 0.015)","('notice', 0.022)"
+"('party', 0.011)","('sign_judge', 0.014)"
+"('attachment', 0.009)","('shall', 0.012)"
+"('court', 0.009)","('dismiss', 0.01)"
+"('date', 0.009)","('stipulation', 0.009)"
+"('request', 0.009)","('magistrate_judge', 0.009)"
+"('plaintiff', 0.008)","('summary_judgment', 0.009)"
