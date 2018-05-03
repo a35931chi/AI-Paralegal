@@ -1,0 +1,11 @@
+0,1,2,3
+"('order', 0.055)","('motion', 0.027)","('motion', 0.099)","('order', 0.099)"
+"('motion', 0.051)","('order', 0.027)","('order', 0.039)","('motion', 0.038)"
+"('notice', 0.023)","('redact_transcript_deadline', 0.023)","('notice', 0.035)","('conference', 0.016)"
+"('complaint', 0.018)","('request', 0.017)","('dismiss', 0.025)","('notice_appearance_behalf', 0.015)"
+"('modify', 0.017)","('due', 0.017)","('grant', 0.016)","('request', 0.015)"
+"('request', 0.014)","('telephone_conference_hold', 0.015)","('request', 0.015)","('reportertranscriber', 0.014)"
+"('serve', 0.014)","('ltd..', 0.015)","('support', 0.013)","('redaction_request_due', 0.013)"
+"('send_chamber', 0.013)","('amend_complaint', 0.014)","('counsel', 0.012)","('transcript_restriction', 0.013)"
+"('discovery', 0.012)","('schedule', 0.014)","('endorsement', 0.012)","('purchase_reportertranscriber_deadline_release', 0.013)"
+"('minute_entry_proceeding_hold', 0.011)","('minute_entry_proceeding_hold', 0.014)","('electronically_available_public_without', 0.012)","('transcript_view_public_terminal', 0.013)"

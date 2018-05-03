@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+"('order', 0.087)","('motion', 0.038)","('motion', 0.035)","('order', 0.071)","('motion', 0.104)","('motion', 0.11)"
+"('motion', 0.038)","('attachment', 0.02)","('order', 0.034)","('motion', 0.03)","('order', 0.053)","('order', 0.024)"
+"('sign', 0.027)","('djc', 0.015)","('plaintiff', 0.019)","('notice', 0.02)","('request', 0.018)","('dismiss', 0.022)"
+"('notice', 0.018)","('modify', 0.014)","('court', 0.014)","('plaintiff', 0.015)","('memorandum_law_support', 0.017)","('notice', 0.019)"
+"('counsel', 0.015)","('order', 0.013)","('notice', 0.013)","('court', 0.014)","('plaintiff', 0.013)","('letter', 0.015)"
+"('stipulation', 0.015)","('cd', 0.013)","('attachment', 0.012)","('magistrate', 0.012)","('letter', 0.013)","('summary_judgment', 0.014)"
+"('grant', 0.015)","('complaint', 0.013)","(""'"", 0.012)","('may', 0.011)","('notice', 0.013)","('due', 0.014)"
+"('mro', 0.014)","('schedule', 0.012)","('dismiss', 0.012)","('april', 0.011)","('conference', 0.013)","('plaintiff', 0.013)"
+"('court', 0.013)","('request', 0.012)","('case', 0.011)","('attorney', 0.01)","('complaint', 0.012)","('sign', 0.013)"
+"('schedule', 0.013)","('court', 0.011)","('regard', 0.011)","('dismiss', 0.009)","('stipulation', 0.012)","('declaration_support', 0.012)"
