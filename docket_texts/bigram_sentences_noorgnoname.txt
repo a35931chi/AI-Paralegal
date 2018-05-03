@@ -168,8 +168,8 @@ redact_transcript deadline .
 release_transcript restriction .
 letter status
 schedule order telephone_conference pm_courtroom north .
-mr. able participate contact chamber soon possible .
-mr. able participate representative participate .
+able participate contact chamber soon possible .
+able participate representative participate .
 order .
 notice_appearance behalf
 letter telephone_conference status attorney
@@ -634,8 +634,8 @@ schedule order grant motion pre motion conference status_conference hold a.m .
 order .
 minute_entry proceeding_hold status_conference hold .
 scheduling next status_conference hold_a.m. summary counsel record appear require seek excuse attend today conference .
-although mr. express intention file motion leave withdraw counsel record entry yet file motion therefore remain obliged appear conference unless excuse .
-minimize prejudice client lack representation today proceeding respectfully mr. purchase minute conference provide transcript client certify compliance forego directive later .
+although express intention file motion leave withdraw counsel record entry yet file motion therefore remain obliged appear conference unless excuse .
+minimize prejudice client lack representation today proceeding respectfully purchase minute conference provide transcript client certify compliance forego directive later .
 grant request file motion contempt sanction .
 serve motion paper serve response serve reply file motion paper .
 hear argument motion next conference schedule .
@@ -651,7 +651,7 @@ order .
 letter dkt .
 refiled
 order letter file attorney old english sugar land tx engage settlement_discussion behalf appear telephone next conference a.m .
-serve order mr. .
+serve order .
 order .
 motion contempt .
 transcript_proceeding hold .
@@ -665,10 +665,10 @@ release_transcript restriction .
 minute_entry proceeding_hold status_conference hold .
 scheduling next status_conference hold_a.m. summary principal ignore order require appear today conference .
 must appear_person next conference schedule failure comply result recommendation adjudge contempt lawful authority .
-mr. attorney license practice texas acknowledge contact directly without knowledge consent counsel negotiate settlement know represented counsel matter .
+attorney license practice texas acknowledge contact directly without knowledge consent counsel negotiate settlement know represented counsel matter .
 afford opportunity submit affidavit explain circumstance contact refer appropriate disciplinary authority apparent violation applicable rule professional responsibility .
-deny mr. request seek leave behalf mr. appear telephone next conference .
-respectfully mr. provide attach minute order mr. .
+deny request seek leave behalf appear telephone next conference .
+respectfully provide attach minute order .
 order motion contempt respectfully refer united_state report_recommendation .
 order .
 winnethka
@@ -676,8 +676,8 @@ certificate_service flasr inc .
 reply support motion contempt file .
 minute_entry proceeding_hold status_conference hold .
 confer attempt resolve consent pending motion contempt sanction provide status_report matter .
-mr. client confer effort resolve motion leave withdraw counsel record provide status_report matter .
-counsel client work mutually satisfactory arrangement terminate motion moot otherwise grant mr. leave withdraw .
+client confer effort resolve motion leave withdraw counsel record provide status_report matter .
+counsel client work mutually satisfactory arrangement terminate motion moot otherwise grant leave withdraw .
 status_report
 motion substitute attorney letter support
 notice_appearance behalf
@@ -1197,7 +1197,7 @@ file fee_receipt .
 rule certificate file antarctica market rad .
 balentine select bl absolute_return .
 pt .
-fraternity_fund hedge_strategy fund_ibex absolute magnum_growth fund magnum_special sit .
+fraternity_fund hedge_strategy fund_ibex absolute magnum_growth fund_magnum special sit .
 new invst .
 estate_m.l .
 p & alphaplus fund alt .
@@ -1241,7 +1241,7 @@ summons_issue notice pursuant_u.s.c .
 rule certificate file antarctica market rad .
 balentine select bl absolute_return .
 pt .
-fraternity_fund hedge_strategy fund_ibex absolute magnum_growth fund magnum_special sit .
+fraternity_fund hedge_strategy fund_ibex absolute magnum_growth fund_magnum special sit .
 new invst .
 estate_m.l .
 p & alphaplus fund alt .
@@ -1258,9 +1258,9 @@ notice motion asset_alliance order dismssing complaint failure_state relief orde
 rule certificate file
 rule certificate file .
 memorandum_law asset_alliance support motion dismiss
-notice motion asset_alliance order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select_l.p. ground_subject mandatory_arbitration alternative_fail state_relief return_indicate
-memorandum_law asset_alliance support motion order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select_l.p. ground_subject mandatory_arbitration alternative_fail state_relief .
-declaration place document reference accompany memoranda law_support motion dismiss complaint motion dismiss assert complaint solely behalf l.p._balentine global_hedge fund_select l.p .
+notice motion asset_alliance order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select ground_subject mandatory_arbitration alternative_fail state_relief return_indicate
+memorandum_law asset_alliance support motion order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select ground_subject mandatory_arbitration alternative_fail state_relief .
+declaration place document reference accompany memoranda law_support motion dismiss complaint motion dismiss assert complaint solely behalf balentine_global hedge_fund select l.p .
 memoendorsement_letter address .
 request permission file joint memorandum support joint motion dismiss page plus .
 application_grant .
@@ -1274,22 +1274,22 @@ see transcript .
 memorandum_law antarctica market rad .
 balentine select bl absolute_return .
 pt .
-fraternity_fund hedge_strategy fund_ibex absolute magnum_growth fund magnum_special sit .
+fraternity_fund hedge_strategy fund_ibex absolute magnum_growth fund_magnum special sit .
 new invst .
 estate_m.l .
 p & alphaplus fund alt .
-stillwater_market stillwater_market f. opposition motion order pursuant_rule frcp_pslra applicable_law dismiss entirety_correct supplemental complaint file herein motion order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select_l.p. ground_subject mandatory_arbitration alternative_fail state_relief motion order dismssing complaint failure_state relief motion order dismiss complaint failure_plead allegation fraud requisite particularity motion order dismiss complaint purs rule .
+stillwater_market stillwater_market f. opposition motion order pursuant_rule frcp_pslra applicable_law dismiss entirety_correct supplemental complaint file herein motion order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select ground_subject mandatory_arbitration alternative_fail state_relief motion order dismssing complaint failure_state relief motion order dismiss complaint failure_plead allegation fraud requisite particularity motion order dismiss complaint purs rule .
 declaration antarctica market rad .
 balentine select bl absolute_return .
 pt .
-fraternity_fund hedge_strategy fund_ibex absolute magnum_growth fund magnum_special sit .
+fraternity_fund hedge_strategy fund_ibex absolute magnum_growth fund_magnum special sit .
 new invst .
 estate_m.l .
 p & alphaplus fund alt .
-stillwater_market stillwater_market f. van_diversify low support motion order pursuant_rule frcp_pslra applicable_law dismiss entirety_correct supplemental complaint file herein motion order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select_l.p. ground_subject mandatory_arbitration alternative_fail state_relief motion order dismssing complaint failure_state relief motion order dismiss complaint failure_plead allegation fraud requisite particularity motion order dismiss complaint purs rule .
+stillwater_market stillwater_market f. van_diversify low support motion order pursuant_rule frcp_pslra applicable_law dismiss entirety_correct supplemental complaint file herein motion order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select ground_subject mandatory_arbitration alternative_fail state_relief motion order dismssing complaint failure_state relief motion order dismiss complaint failure_plead allegation fraud requisite particularity motion order dismiss complaint purs rule .
 stipulation order substitute place counsel deft modify
-reply memorandum asset_alliance motion order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select_l.p. ground_subject mandatory_arbitration alternative_fail state_relief .
-reply memorandum asset_alliance motion order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select_l.p. ground_subject mandatory_arbitration alternative_fail state_relief .
+reply memorandum asset_alliance motion order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select ground_subject mandatory_arbitration alternative_fail state_relief .
+reply memorandum asset_alliance motion order dismiss assert balentine_global hedge_fund balentine_global hedge_fund select ground_subject mandatory_arbitration alternative_fail state_relief .
 reply memorandum motion order pursuant_rule frcp_pslra applicable_law dismiss entirety_correct supplemental complaint file herein .
 reply memorandum safe_harbor asset motion order dismiss complaint purs rule attach appendix unreported
 transcript_proceeding hold p.m. .
@@ -1309,8 +1309,8 @@ dismiss_lack subject_matter jurisdiction provide however dismissal leave replead
 order resolve item .
 endorsed_letter address_dated granting request allow u submit response joint official liquidator request .
 modify .
-amend_complaint safe_harbor asset management llc.document file master_account l.p._balentine global_hedge fund_select l.p._balentine global_hedge fund_l.p. estate_m.l .
-hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund l.p. van_diversify low volatility fund ltd.ernst & young cayman_island .
+amend_complaint safe_harbor asset management llc.document file master_account balentine_global hedge_fund select balentine_global hedge_fund estate_m.l .
+hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund van_diversify low volatility fund ltd.ernst & young cayman_island .
 modify .
 affidavit_service summons amend_complaint .
 .
@@ -1338,8 +1338,8 @@ notice_appearance behalf .
 affidavit_service summons amend_complaint .
 ernst & young cayman islands serve_answer due .
 service_accept manage partner .
-document file master_account l.p._balentine global_hedge fund_select l.p. l.p. estate_m.l .
-hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund l.p.
+document file master_account balentine_global hedge_fund select estate_m.l .
+hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund
 endorsed_letter address eyci eyus answer otherwise_respond complaint by10152004 respond eycieyus reply .
 order .
 answer_due purs .
@@ -1364,7 +1364,7 @@ document file
 memorandum_law support motion dismiss .
 document file
 declaration .
-placing document reference memorandum_law support motion dismiss first_amend complaint motion dismiss assert complaint solely behalf l.p._balentine global_hedge fund_select l.p .
+placing document reference memorandum_law support motion dismiss first_amend complaint motion dismiss assert complaint solely behalf balentine_global hedge_fund select l.p .
 document file
 order group file motion dismiss complaint .
 memoranda law total approximately page .
@@ -1389,20 +1389,20 @@ rule_disclosure statement .
 document file cayman_island .
 affidavit_service summons amend_complaint serve_answer due .
 service_accept manage director .
-document file master_account l.p._balentine global_hedge fund_select l.p. l.p. estate_m.l .
-hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund l.p. van_diversify low volatility fund ltd..
+document file master_account balentine_global hedge_fund select estate_m.l .
+hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund van_diversify low volatility fund ltd..
 notice motion dismiss amend complt..answering paper reply_paper document file corp..
 rule_disclosure statement .
 document file corp..
 memorandum_law support motion dismiss.. document file amsterdam trust corp..
 memorandum_law opposition motion dismiss .
-document file master_account l.p._balentine global_hedge fund_select l.p._balentine global_hedge fund_l.p. estate_m.l .
-hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund l.p. van_diversify low volatility fund ltd..
+document file master_account balentine_global hedge_fund select balentine_global hedge_fund estate_m.l .
+hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund van_diversify low volatility fund ltd..
 stipulation order serve opposition paper b.v. motion dismiss first_amend complaint receive .
 serve reply_paper support motion dismiss first_amend complaint receive .
 reply due .
 response due
-memorandum_law opposition motion dismiss.. document file master_account l.p._balentine global_hedge fund_select l.p._balentine global_hedge fund_l.p. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund l.p. van_diversify low volatility fund ltd..
+memorandum_law opposition motion dismiss.. document file master_account balentine_global hedge_fund select balentine_global hedge_fund hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund van_diversify low volatility fund ltd..
 reply memorandum_law support motion dismiss.. document file .
 reply memorandum_law support motion dismiss.. document file limited .
 reply memorandum_law support motion dismiss .
@@ -1411,8 +1411,8 @@ document file l.p..
 reply memorandum_law support motion dismiss .
 .
 document file l.p..
-memorandum_law opposition motion dismiss.. document file master_account l.p._balentine global_hedge fund_select l.p._balentine global_hedge fund_l.p. estate_m.l .
-hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund l.p. van_diversify low volatility fund ltd..
+memorandum_law opposition motion dismiss.. document file master_account balentine_global hedge_fund select balentine_global hedge_fund estate_m.l .
+hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund alternative_investment sgr_spa stillwater_market neutral_fund van_diversify low volatility fund ltd..
 reply memorandum_law support motion dismiss.. document file b.v..
 reply memorandum_law support motion dismiss first_amend complaint .
 document file cayman_island .
@@ -1506,33 +1506,33 @@ order purs f.r.c.p .
 .
 file error_electronic filing_nonecf answer amend_complaint .
 document file .
-related document amend_complaint file master_account l.p._balentine global_hedge fund_select l.p. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. .
+related document amend_complaint file master_account balentine_global hedge_fund select hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund .
 modify .
 file error_electronic filing_nonecf answer amend_complaint .
 document file .
-related document amend_complaint file master_account l.p._balentine global_hedge fund_select l.p. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. .
+related document amend_complaint file master_account balentine_global hedge_fund select hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund .
 modify .
 file error_electronic filing_nonecf answer amend_complaint .
 document file .
-related document amend_complaint file master_account l.p._balentine global_hedge fund_select l.p. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. .
+related document amend_complaint file master_account balentine_global hedge_fund select hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund .
 modify .
 file error_electronic filing_nonecf answer amend_complaint .
 document file .
-related document amend_complaint file master_account l.p._balentine global_hedge fund_select l.p. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. .
+related document amend_complaint file master_account balentine_global hedge_fund select hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund .
 modify .
 file error_electronic filing_nonecf answer amend_complaint .
 document file .
-related document amend_complaint file master_account l.p._balentine global_hedge fund_select l.p. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. .
+related document amend_complaint file master_account balentine_global hedge_fund select hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund .
 modify .
 answer amend_complaint .
 document file .
-related document amend_complaint file master_account l.p._balentine global_hedge fund_select l.p. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund l.p .
+related document amend_complaint file master_account balentine_global hedge_fund select hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund l.p .
 note_attorney refile document nonecf_error .
 note_attorney manually_refile document answer amend_complaint .
 .
@@ -1556,8 +1556,8 @@ reply memorandum_law support motion order purs .
 frcp_revise memorandum opinion .
 motion leave file purs_frcp grant leave file propose second_amend complaint .
 motion joinder .
-document file hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. master_account l.p._balentine global_hedge fund_select l.p.
+document file hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund master_account balentine_global hedge_fund select
 reply affidavit support motion order purs_frcp revise memorandum opinion motion leave file purs_frcp grant leave file propose second_amend complaint .
 motion joinder .
 motion order prus frcp_revise memorandum opinion .
@@ -1579,14 +1579,14 @@ document file .
 memo_endorsement
 transmission attorney_admission .
 transmit memo_endorsement attorney_admission update attorney information .
-second_amend complaint amend amended complaint file s.a._alternative asset l.p. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. master_account l.p._balentine global_hedge fund_select l.p. s.a.. related document amend_complaint file master_account l.p._balentine global_hedge fund_select l.p. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. .
+second_amend complaint amend amended complaint file s.a._alternative asset hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund master_account balentine_global hedge_fund select_s.a.. related document amend_complaint file master_account balentine_global hedge_fund select hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund .
 order discovery proceeding matter stay pursuant pslra render decision beacon_hill motion dismiss second_amend complaint .
 document relate .
 letter_address take position respect motion stay discovery .
-document file hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. master_account l.p._s.a. alternative_asset l.p._balentine global_hedge fund_select l.p. s.a..
+document file hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund master_account s.a._alternative asset_balentine global_hedge fund_select s.a..
 affidavit_service subpoena serve .
 affidavit_service subpoena & schedule serve .
 service_accept associate analyst .
@@ -1599,8 +1599,8 @@ document file fraternity_fund ltd..
 affidavit_service second summons amend_complaint .
 serve_answer due .
 service_accept assistant viucepresident .
-document file hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. master_account l.p._s.a. alternative_asset balentine_global hedge_fund select_l.p. s.a.. file associate
+document file hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund master_account s.a._alternative asset_balentine global_hedge fund_select s.a.. file associate
 stipulation order dft move answer otherwise_respond respect sommons second_amend complaint extend .
 event dfts move dismiss second amenhded complaint file response due reply due .
 additional discovery deadline forth order .
@@ -1626,14 +1626,14 @@ event stipulate move dismiss second_amend complaint file opposition reply .
 order .
 answer_due purs .
 stipulation order answer_due answer_due answer_due answer_due answer_due answer_due .
-memorandum_law opposition motion dismiss.. document file hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. master_account l.p._s.a. alternative_asset l.p._balentine global_hedge fund_select l.p. s.a.. file associated
+memorandum_law opposition motion dismiss.. document file hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund master_account s.a._alternative asset_balentine global_hedge fund_select s.a.. file associated
 declaration_support memorandum_law oppisition motion .
-document file hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. master_account l.p._s.a. alternative_asset l.p._balentine global_hedge fund_select l.p. s.a..
+document file hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund master_account s.a._alternative asset_balentine global_hedge fund_select s.a..
 affidavit support memorandum_law oppisition motion .
-document file hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. master_account l.p._s.a. alternative_asset l.p._balentine global_hedge fund_select l.p. s.a..
+document file hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund master_account s.a._alternative asset_balentine global_hedge fund_select s.a..
 notice_change address behalf .
 new address .
 southern boulevard chatham new_jersey .
@@ -1689,15 +1689,15 @@ order .
 file associated
 order whatever extent order dismiss insofar settlement await approval vacate .
 file associated
-stipulation order l.p. forth second_amend complaint file dismissed prejudice stipulation affect .
+stipulation order forth second_amend complaint file dismissed prejudice stipulation affect .
 bear cost .
 file associated modify .
 motion entry order attach_hereto attached motion .
-document file sumnicht money master fund_l.p. sumnicht money master fund ii l.p. gilbraltar fund lp alternative strategiesbalanced growth s.a. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. master_account l.p._s.a. alternative_asset l.p._balentine global_hedge fund_select l.p. s.a..filed associate modify .
+document file sumnicht money master fund sumnicht money master fund ii gilbraltar fund lp alternative strategiesbalanced growth s.a. hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+stillwater_market neutral_fund balentine_global hedge_fund master_account s.a._alternative asset_balentine global_hedge fund_select s.a..filed associate modify .
 motion entry order attach_hereto .
-document file sumnicht money master fund_l.p. sumnicht money master fund ii l.p. gilbraltar fund lp alternative strategiesbalanced growth s.a. hedge_strategy fund_ibex absolute_return fund_l.p. magnum_growth fund_l.p. magnum_special situation_fund estate_m.l .
-alternative_investment sgr_spa stillwater_market neutral_fund l.p._balentine global_hedge fund_l.p. master_account l.p._s.a. alternative_asset l.p._balentine global_hedge fund_select l.p. s.a..filed associate
+document file sumnicht money master fund sumnicht money master fund ii gilbraltar fund lp alternative strategiesbalanced growth s.a. hedge_strategy fund_ibex absolute_return fund_magnum growth_fund magnum_special situation_fund estate_m.l .
+alternative_investment sgr_spa stillwater_market neutral_fund balentine_global hedge_fund master_account s.a._alternative asset_balentine global_hedge fund_select s.a..filed associate
 stipulation discontinuance prejudice_stipulate agree_undersigned attorney respective herein order fully dispose limit fka atc fund_administrator limit b.v. discontinue withdrawn prejudice_stipulate agreed hereto bear attorney_fee cost .
 endorsed_letter address counsel_write jointly request honor extend deadline reinstate fully expect execute settlement agreement .
 endorsement_application grant .
@@ -1712,7 +1712,7 @@ endorse grant .
 order file associated
 bar order order accordance future contribution arise person settle person person whose liability extinguish settlement agreement bar .
 file associated modify .
-bar order whether currently pending contribution limit fka atc fund_administrator limit b.v. andor parent subsidiary affiliate owner shareholder officer director employee agent insurer reinsurers representative trustee successor trustee beneficiary heir whether vested contingent executor administrator successor assign whether arise federal state law law include cause base tort contract statute body law favor person entity relate arise investment l.p. andor management oversight fund among others l.p. favor person entity forever extinguish discharge satisfied bar enjoin .
+bar order whether currently pending contribution limit fka atc fund_administrator limit b.v. andor parent subsidiary affiliate owner shareholder officer director employee agent insurer reinsurers representative trustee successor trustee beneficiary heir whether vested contingent executor administrator successor assign whether arise federal state law law include cause base tort contract statute body law favor person entity relate arise investment andor management oversight fund among others favor person entity forever extinguish discharge satisfied bar enjoin .
 reserve jurisdiction attempt assert extinguish discharge satisfied bar enjoin order .
 file associated
 notice_change address attorney white & llp address fifth avenue new_york new_york fax .
@@ -2318,7 +2318,7 @@ postargument brief support motion dismiss_lack jurisdiction
 postargument memorandum_law newvest_portfolio newvest support motion dismiss_lack jurisdiction .
 memoendorsement_letter address reset plntf brief page due mail .
 memoendorsement_letter address .
-write response mr. letter .
+write response letter .
 counsel serve file page version postargument brief .
 mail .
 affidavit_service memo_endorsement facsimile upon forth document .
@@ -2422,7 +2422,7 @@ certificate_service memo_endorse order newvest_portfolio newvest han_kook fax .
 schedule order telephone_conference matter schedule p.m. counsel instruct initiate call use main number chamber .
 mail .
 status_conference hold .
-order submit swear statement mr. principal treat physician address issue whether mr. depose circumstance .
+order submit swear statement principal treat physician address issue whether depose circumstance .
 newvest promptly update production transaction register forward
 memoendorsement_letter address .
 reset discovery due .
@@ -2442,7 +2442,7 @@ stipulation order dismissal due settlement counterclaim crossclaims assert preju
 close .
 complaint l.p.. document file .
 civil_cover sheet file .
-request_issuance summons l.p. complaint .
+request_issuance summons complaint .
 document file .
 notice_appearance behalf .
 ao copyright notice submission attorney .
@@ -2465,9 +2465,9 @@ ao copyright open submit .
 compliance provision .
 register copyright advise file copyright .
 email register copyright .
-first_amend complaint amend_complaint l.p. company jury demand.document file .
+first_amend complaint amend_complaint company jury demand.document file .
 related document complaint file .
-request_issuance summons new_york observer_l.p. amend_complaint .
+request_issuance summons new_york observer amend_complaint .
 document file .
 request_issuance summons amend_complaint .
 document file .
@@ -2487,43 +2487,43 @@ serve_answer due .
 service_accept business document specialist .
 document file .
 letter motion extension file answer affidavit_service complaint affidavit_service complaint amend_complaint address .
-document file l.p. new_york observer_l.p. .
+document file new_york observer .
 letter response opposition motion address letter motion extension file answer affidavit_service complaint affidavit_service complaint amend_complaint address .
 .
 document file .
 letter reply response motion address letter motion extension file answer affidavit_service complaint affidavit_service complaint amend_complaint address .
 .
-document file l.p. new_york observer_l.p. .
+document file new_york observer .
 order grant answer letter motion extension file answer affidavit_service complaint affidavit_service complaint amend_complaint address .
 grant .
 order .
 answer_due answer_due answer_due answer_due .
 affidavit_service summons amend_complaint .
-l.p. serve_answer due .
+serve_answer due .
 service_accept designate agent office secretary .
 document file .
 file error_deficient entry motion dismiss first_amend complaint .
-document file l.p. new_york observer_l.p. .
+document file new_york observer .
 response due modify .
 memorandum_law opposition motion dismiss first_amend complaint .
 .
 document file .
 reply memorandum_law opposition motion dismiss first_amend complaint .
 opposition motion dismiss first_amend complaint .
-document file l.p. new_york observer_l.p. .
+document file new_york observer .
 notice attorney_refile document deficient_entry error .
 notice attorney_refile document motion dismiss first_amend complaint .
 error supporting document must file separately receive document number .
 declaration_support motion memorandum_law support motion find_event list reply opposition support document .
 motion dismiss first_amend complaint .
-document file l.p. new_york observer_l.p. .
+document file new_york observer .
 memorandum_law support motion dismiss first_amend complaint .
 .
-document file l.p. new_york observer_l.p. .
-declaration_support motion dismiss first_amend complaint.. document file l.p. new_york observer_l.p. .
+document file new_york observer .
+declaration_support motion dismiss first_amend complaint.. document file new_york observer .
 notice_termination counsel .
-document file l.p. new_york observer_l.p. .
-memo_endorsement notice_termination file new_york observer_l.p. l.p. .
+document file new_york observer .
+memo_endorsement notice_termination file new_york observer .
 endorsement order .
 attorney_terminate .
 memorandum & order grant_part deny_part motion dismiss .
@@ -2963,7 +2963,7 @@ declaration_support motion certify_class .
 document file .
 deadlineshearings status_conference courtroom_pearl street_new york_ny .
 associate
-endorsed_letter address_iii mr. kind enough accommodate scheduling problem develop agree conduct schedule argument abovecaptioned_matter instead .
+endorsed_letter address_iii kind enough accommodate scheduling problem develop agree conduct schedule argument abovecaptioned_matter instead .
 endorsement_application grant_part .
 hear argument motion .
 file associated
@@ -3348,8 +3348,8 @@ order attach forward .
 order receive attached letter .
 order attach forward .
 file associated
-letter_address mr. write request refer document legitimate even assign number .
-counsel legally obligate recoup money despite mr. attempt say merit reject false mr. go say important request reimbursement expense .
+letter_address write request refer document legitimate even assign number .
+counsel legally obligate recoup money despite attempt say merit reject false go say important request reimbursement expense .
 file associated
 notice_appearance behalf shona
 final judgment approve allocation_plan .
@@ -3404,7 +3404,7 @@ endorsed_letter address counsel request premotion_conference leave file motion r
 counsel propose brief schedule motion support paper opposition paper reply_paper .
 endorsement_application grant .
 motion cover appellant .
-opposition mr. due .
+opposition due .
 file associated modify .
 setreset_deadline motion due .
 response due reply due .
@@ -3532,7 +3532,7 @@ order .
 send_chamber .
 endorsed_letter address joint request list extension schedule order forth document .
 endorsement_application grant .
-letter_address writing behalf discover response item ii iv mr. letter .
+letter_address writing behalf discover response item ii iv letter .
 document file n.a .
 n.a .
 endorsed_letter address counsel_write jointly behalf discover request extension certain remain deadline designation testimony pretrial scheduling order attach_hereto convenience .
@@ -3812,7 +3812,7 @@ merrill
 motion seal affidavit_jr. c.p.a .
 distribution_residual net_settlement fund .
 document file .
-endorsed_letter address_iii lead_counsel write respectfully_request permission submit motion order class member cease desist communication lead_counsel concern mr. improper demand previously deny receive additional payment settlement foreign transaction fee relate mdl matter currency_conversion fee_antitrust litigation mdl .
+endorsed_letter address_iii lead_counsel write respectfully_request permission submit motion order class member cease desist communication lead_counsel concern improper demand previously deny receive additional payment settlement foreign transaction fee relate mdl matter currency_conversion fee_antitrust litigation mdl .
 master file .
 m2195 et_al .
 v. .
@@ -3842,8 +3842,8 @@ order class member pollins cease desist communication lead_counsel grant motion 
 order .
 jurisdiction subject_matter lead_counsel motion include without limitation class member forth order .
 .
-find good_cause exist entry order pursuant_rule federal_rule civil_procedure mr. cease desist communication lead_counsel .
-mr. cease desist demand additional payment fx fee settlement contact lead_counsel concern fx fee settlement improper payment demand reason .
+find good_cause exist entry order pursuant_rule federal_rule civil_procedure cease desist communication lead_counsel .
+cease desist demand additional payment fx fee settlement contact lead_counsel concern fx fee settlement improper payment demand reason .
 order necessary preserve orderly efficient administration fx fee settlement .
 file associated_et al .
 send .
@@ -4866,7 +4866,7 @@ p.c..
 rejection attempt paper filing ecf .
 document affidavit_service reject must file electronically ecf system .
 affidavit_service .
-l.p. serve_answer due .
+serve_answer due .
 service_accept g.a.. document file l.p..
 affidavit_service summons complaint .
 serve_answer due .
@@ -5117,9 +5117,9 @@ document file .
 answer complaint .
 document file .
 answer complaint .
-crossclaim document file l.p.
+crossclaim document file
 rule_disclosure statement .
-document file l.p.
+document file
 answer complaint .
 crossclaim .
 document file .
@@ -5173,10 +5173,10 @@ document file l.p .
 answer dft .
 .
 crossclaims .
-document file l.p.
-answer crossclaim firecom document file l.p.
+document file
+answer crossclaim firecom document file
 answer crossclaim fire system .
-document file l.p.
+document file
 stipulation order respond architect crossclaims extend reply day thereafter .
 stipulation order respond inc. crossclaims extend reply day thereafter .
 stipulation order respond engineer .
@@ -5385,7 +5385,7 @@ document file firecom related document amend_complaint file certain_underwriter 
 answer amend_complaint .
 document file related document amend_complaint file certain_underwriter .
 answer amend_complaint .
-document file l.p. related document amend_complaint file certain_underwriter .
+document file related document amend_complaint file certain_underwriter .
 order grant motion appear_pro hac_vice .
 motion grant .
 answer amend_complaint .
@@ -5414,11 +5414,11 @@ document file
 affidavit_service summons amend answer crossclaims third serve esq .
 attorney architects .
 service make electronic transmission .
-document file l.p.
+document file
 affidavit_service summons amend answer crossclaims third serve esq .
 attorney .
 service make electronic transmission .
-document file l.p.
+document file
 motion dismiss_thirdparty notice motion dismiss_thirdparty document file
 memorandum_law support motion dismiss_thirdparty notice motion dismiss_thirdparty document file
 affirmation_support motion dismiss_thirdparty notice motion dismiss_thirdparty document file
@@ -5550,13 +5550,13 @@ crossclaim document file
 certificate_service answer affirmative_defense respect .
 document file
 answer crossclaim .
-document file l.p.
-memorandum_law opposition motion dismiss_thirdparty notice motion dismiss_thirdparty inc document file l.p.
-memorandum_law opposition motion dismiss.. document file l.p.
+document file
+memorandum_law opposition motion dismiss_thirdparty notice motion dismiss_thirdparty inc document file
+memorandum_law opposition motion dismiss.. document file
 notice litigation .
 document file control world service inc.
 third_complaint office .
-document file l.p.
+document file
 memo_endorse notice motion admit pro_hac vice endorsement nunc pro tunc submission .
 transmission attorney_admission .
 transmit memo_endorsement attorney_admission update attorney information .
@@ -5612,7 +5612,7 @@ service_accept .
 document file l.p..
 stipulation order dismissal dismiss without_prejudice solely g.c .
 .
-stipulation extend appear stipulate_agree undersigned_attorney hereto third appear answer move_otherwise respond third part complaint l.p. extend_include .
+stipulation extend appear stipulate_agree undersigned_attorney hereto third appear answer move_otherwise respond third part complaint extend_include .
 answer_due purs .
 stipulation order answer_due answer_due .
 stipulation order dismissal_without prejudice deft g.c .
@@ -5669,9 +5669,9 @@ file motion dismiss_thirdparty notice motion dismiss_thirdparty file file associ
 order document repository order vacate extent require establishment maintenance joint document repository order wtc7 ground litigation effect except payment requirement paragraph order remain_effect forth procedure_govern handle document repository .
 document relate .
 file associated
-crossclaim international nv.document file l.p.
+crossclaim international nv.document file
 declaration_opposition motion summary_judgment .
-motion summary_judgment wtcp flight only.. document file l.p. .
+motion summary_judgment wtcp flight only.. document file .
 file associated_et al .
 declaration_opposition motion summary_judgment .
 motion summary_judgment wtcp flight only.. document file .
@@ -5687,22 +5687,22 @@ nonwaiver agreement constitute agreement government produce particular document 
 file associated_et al .
 document also relate .
 order status_conference pm .
-stipulation dismissal_without prejudice crossclaims crossclaim pltffs l.p. contain amend crossclaims pltffs amend_flight master_liability complaint crossclaims pltffs amend master_liability complaint deft dismiss without_prejudice without_cost either .
+stipulation dismissal_without prejudice crossclaims crossclaim pltffs contain amend crossclaims pltffs amend_flight master_liability complaint crossclaims pltffs amend master_liability complaint deft dismiss without_prejudice without_cost either .
 file associated_et al .
 cross motion sever stay punitive_damage .
 document file l.p..filed associate et_al .
 declaration esq .
 support motion sever.. document file l.p.. file associated_et al .
 memorandum_law support motion sever.. document file l.p.. file associated_et al .
-declaration_opposition motion determination_applicable law dismissal punitive_damage certain government discovery.. document file l.p. .
+declaration_opposition motion determination_applicable law dismissal punitive_damage certain government discovery.. document file .
 file associated_et al .
-memorandum_law opposition motion determination_applicable law dismissal punitive_damage certain government discovery.. document file l.p. .
+memorandum_law opposition motion determination_applicable law dismissal punitive_damage certain government discovery.. document file .
 file associated_et al .
 declaration_opposition motion judgment applicable_law regarding motion determination_applicable law dismissal punitive_damage certain government discovery .
-motion determination_applicable law regarding motion determination_applicable law.. document file l.p. .
+motion determination_applicable law regarding motion determination_applicable law.. document file .
 file associated_et al .
 memorandum_law opposition motion judgment applicable_law regarding motion determination_applicable law dismissal punitive_damage certain government discovery .
-motion determination_applicable law regarding motion determination_applicable law.. document file l.p. .
+motion determination_applicable law regarding motion determination_applicable law.. document file .
 file associated_et al .
 brief notice memorandum new_york new_jersey support focus discovery government .
 document file jersey.associated
@@ -5713,7 +5713,7 @@ extent government object provide request information ground production prohibit 
 .
 document relate .
 file associated_et al .
-amend memorandum_law opposition motion determination_applicable law dismissal punitive_damage certain government discovery.. document file l.p. .
+amend memorandum_law opposition motion determination_applicable law dismissal punitive_damage certain government discovery.. document file .
 file associated_et al .
 stipulation order dismissal_without prejudice_stipulate agree_undersigned attorney_record crossclaims crossclaim new_york new_jersey contain amend_flight master_liability complaint master_liability complaint dismiss without_prejudice without_cost either_forth say stipulation dismissal .
 document relate_well .
@@ -5739,7 +5739,7 @@ status_conference adjourn p.m .
 status_conference pm_courtroom pearl_street new_york ny .
 memorandum_law opposition motion dismiss amend_complaint.. document file certain_underwriter .
 stipulation voluntray dismissal_without prejudice abco peerless corp. crossclaims enterprise dismiss without_prejudice without_cost .
-stipulation order dismissal_without prejudice_stipulate agree_undersigned attorney_record crossclaims l.p. contain amend crossclaims amend_flight master_liability complaint crossclaims amend master_liability complaint dismiss without_prejudice without_cost either_forth say stipulation dismissal .
+stipulation order dismissal_without prejudice_stipulate agree_undersigned attorney_record crossclaims contain amend crossclaims amend_flight master_liability complaint crossclaims amend master_liability complaint dismiss without_prejudice without_cost either_forth say stipulation dismissal .
 document relate_well .
 file associated_et al .
 stipulation order dismissal_without prejudice_stipulate agree_undersigned attorney_record crossclaims contain crossclaims amend_flight master_liability complaint midwest dismiss without_prejudice without_cost either_forth say stipulation dismissal .
@@ -5792,7 +5792,7 @@ file associated_et al .
 stipulation order dismissal_without prejudice_stipulate agree_undersigned attorney_record crossclaims crossclaim new new_jersey additional crossclaim contain crossclaims amend_flight master_liability complaint crossclaims amend_flight master_liability complaint sha dismiss without_prejudice without_cost either .
 document relate_well .
 file associated_et al .
-stipulation order dismissal_without prejudice_stipulate agree_undersigned attorney_record crossclaims l.p. contain amend crossclaims amend_flight complaint crossclaims amend master_liability complaint dismiss without_prejudice without_cost either_forth .
+stipulation order dismissal_without prejudice_stipulate agree_undersigned attorney_record crossclaims contain amend crossclaims amend_flight complaint crossclaims amend master_liability complaint dismiss without_prejudice without_cost either_forth .
 document relate_well .
 file associated_et al .
 endorsed_letter address_dated fiberlock respectfully_request order provide hear argue motion dismiss .
@@ -5862,7 +5862,7 @@ amend instruction file electronic appeal section s.d.n.y .
 procedure electronic_filing .
 email_pdf document amend_complaint case_openings @_nysd.uscourts.gov .
 answer amend_complaint .
-crossclaim document file l.p. related document amend_complaint file
+crossclaim document file related document amend_complaint file
 rule_corporate disclosure_statement .
 corporate_parent .
 document file development corp..
@@ -5911,30 +5911,30 @@ schedule order oral_argument status_conference abovecaptioned currently schedule
 oral_argument pm .
 file associated
 file error_deficient entry motion summary_judgment dismiss_subrogation .
-document file l.p. .
+document file .
 response due associated_et al .
 modify .
 file error_deficient entry rule_statement .
-document file l.p. .
+document file .
 file associated_et al .
 modify .
-file error_deficient entry affidavit support motion summary_judgment.. document file l.p. .
+file error_deficient entry affidavit support motion summary_judgment.. document file .
 file associated_et al .
 modify .
-file error_deficient entry memorandum_law support motion summary_judgment.. document file l.p. .
+file error_deficient entry memorandum_law support motion summary_judgment.. document file .
 file associated_et al .
 modify .
 motion summary_judgment dismiss_subrogation .
-document file l.p. .
+document file .
 response due associated_et al .
 rule_statement .
-document file l.p. .
+document file .
 file associated_et al .
 affidavit support motion summary_judgment .
-motion summary_judgment dismiss_subrogation claims.. document file l.p. .
+motion summary_judgment dismiss_subrogation claims.. document file .
 hession affidavit hession affidavit hession affidavit hession affidavit hession affidavit hession affidavit file associated_et al .
 memorandum_law support motion summary_judgment .
-motion summary_judgment dismiss_subrogation claims.. document file l.p. .
+motion summary_judgment dismiss_subrogation claims.. document file .
 file associated_et al .
 minute_entry proceeding_hold status_conference hold .
 transcript_proceeding hold .
@@ -5996,7 +5996,7 @@ stipulation order among undersigned_attorney record respective hereto reply_pape
 order .
 file associated modify .
 reply memorandum_law support motion summary_judgment .
-motion summary_judgment dismiss_subrogation claims.. document file l.p. .
+motion summary_judgment dismiss_subrogation claims.. document file .
 file associated_et al .
 reply memorandum_law support motion partial_summary judgment notice motion ground_partial summary_judgment dismiss_subrogation assert_them.. document file h.o .
 .
@@ -6048,7 +6048,7 @@ transmission attorney_admission .
 transmit order admit attorney pro_hac vice attorney_admission update attorney information .
 file associated
 endorsed_letter address exchange draft jointly request additional monday respond others draft order ensure issue fully develop .
-endorsement read letter mr. order separately state position fax noon .
+endorsement read letter order separately state position fax noon .
 rule proceed .
 submission request adjournment read .
 file associated
@@ -6121,8 +6121,8 @@ counter_statement rule_statement .
 document file .
 counter_statement rule_statement .
 document file .
-notice wtc ground l.p. intent object property damage settlement .
-document file l.p. file associated
+notice wtc ground intent object property damage settlement .
+document file file associated
 reply memorandum_law support motion summary_judgment.. document file corp.. file associated
 declaration_support motion summary_judgment.. document file l.p.. file associated
 declaration_support motion summary_judgment.. document file l.p.. file associated
@@ -6141,7 +6141,7 @@ document file .
 supplemental amend second declaration supplemental amend second declaration supplemental amend second declaration supplemental amend second declaration supplemental amend second declaration supplemental amend second declaration supplemental amend second declaration supplemental amend second declaration supplemental amend declaration
 memorandum_law support motion leave file supplemental amend expert declaration_incorporate attach expert_report opposition motion summary_judgment.. document file .
 declaration_support motion leave file supplemental amend expert declaration_incorporate attach expert_report opposition motion summary_judgment.. document file .
-objection conditional objection l.p. propose property damage settlement .
+objection conditional objection propose property damage settlement .
 document file development corp..
 memorandum_law opposition motion leave file supplemental amend expert declaration_incorporate attach expert_report opposition motion summary_judgment .
 .
@@ -6193,52 +6193,52 @@ p. mc respect settle pursuant_rule individual number identify close pursuant_rul
 servs .
 et_al .
 v. world_trade ctr .
-co. l.p. et_al .
+co. et_al .
 civ .
 identify intend forego effectuate final immediately appealable judgment respect settle .
 file associated_et al .
 notice appeal judgment .
-document file l.p. .
+document file .
 file fee_receipt number .
 transmission district notice appeal .
 transmission notice appeal_certify sheet notice appeal .
 appeal record send_usca .
 certify indexed_record appeal electronic file notice_adoption master answer file answer amend_complaint file reply_affirmation support motion file certificate_service file order motion appear_pro hac_vice motion sever .
 file answer complaint crossclaim file consent file declaration_opposition motion file stipulation order dismissal motion appear_pro hac_vice .
-file memorandum_law opposition motion file l.p. affidavit_service complaint file acknowledgment service complaint file order rule_corporate disclosure_statement file third_complaint file declaration_support motion file l.p. affidavit_service complaint file answer complaint crossclaim file declaration_support motion file stipulation order order notice_adoption master answer file statement relatedness file notice notice file reply memorandum_law support motion file l.p. reply memorandum_law support motion file .
+file memorandum_law opposition motion file affidavit_service complaint file acknowledgment service complaint file order rule_corporate disclosure_statement file third_complaint file declaration_support motion file affidavit_service complaint file answer complaint crossclaim file declaration_support motion file stipulation order order notice_adoption master answer file statement relatedness file notice notice file reply memorandum_law support motion file reply memorandum_law support motion file .
 motion appear_pro hac_vice .
-file endorsed_letter deadlineshearings affidavit_service file counter_statement rule file memorandum_law support motion file stipulation order add terminate objection objection file l.p. amend answer complaint file affidavit_service complaint file motion protective order .
-file rule_statement file memorandum &_opinion rule_corporate disclosure_statement file affidavit_service complaint file notice_adoption master answer file affidavit_service complaint file answer crossclaim file l.p. certificate_service file order order declaration_opposition motion file schedule order rule_statement file memo_endorsement rule_corporate disclosure_statement file memorandum_law opposition motion file certain_underwriter affidavit_service complaint file declaration_opposition motion file l.p. notice file new_york new_jersey affidavit_service complaint file motion dismiss amend_complaint .
-file declaration_opposition motion file l.p. reply memorandum_law support motion file stipulation order dismissal memorandum_law opposition motion file l.p. declaration_opposition motion file order admit attorney pro_hac vice affidavit_service complaint file notice file motion summary_judgment .
-file l.p. l.p. memorandum_law support motion file affidavit_service complaint file certificate_service file affidavit_service complaint file l.p. affidavit_service complaint file memorandum_law opposition motion file declaration_opposition motion file affidavit_service complaint file amend_complaint file motion dismiss_thirdparty complaint .
+file endorsed_letter deadlineshearings affidavit_service file counter_statement rule file memorandum_law support motion file stipulation order add terminate objection objection file amend answer complaint file affidavit_service complaint file motion protective order .
+file rule_statement file memorandum &_opinion rule_corporate disclosure_statement file affidavit_service complaint file notice_adoption master answer file affidavit_service complaint file answer crossclaim file certificate_service file order order declaration_opposition motion file schedule order rule_statement file memo_endorsement rule_corporate disclosure_statement file memorandum_law opposition motion file certain_underwriter affidavit_service complaint file declaration_opposition motion file notice file new_york new_jersey affidavit_service complaint file motion dismiss amend_complaint .
+file declaration_opposition motion file reply memorandum_law support motion file stipulation order dismissal memorandum_law opposition motion file declaration_opposition motion file order admit attorney pro_hac vice affidavit_service complaint file notice file motion summary_judgment .
+file memorandum_law support motion file affidavit_service complaint file certificate_service file affidavit_service complaint file affidavit_service complaint file memorandum_law opposition motion file declaration_opposition motion file affidavit_service complaint file amend_complaint file motion dismiss_thirdparty complaint .
 file reply memorandum_law support motion file motion stay motion summary_judgment .
 crossmotion_stay determination summary_judgment motion count_pending resolution_appeal .
 motion stay motion summary_judgment .
 crossmotion_stay determination summary_judgment motion count_pending resolution_appeal .
-file affidavit_service complaint file l.p. notice appeal file intervenor reply memorandum_law support motion file memorandum_law support motion file answer crossclaim file answer complaint file affidavit_service complaint file stipulation_voluntary dismissal file order affidavit_service complaint file stipulation order dismissal memorandum_law support motion file l.p. l.p. terminate motion memorandum_law support motion file reply response motion file order answer crossclaim file endorsed_letter deadlineshearings order endorsed_letter affidavit_service complaint file endorsed_letter notice_change address file memorandum_law support motion file answer complaint file memorandum_law opposition motion file l.p. affidavit_service complaint file memorandum_law file .
+file affidavit_service complaint file notice appeal file intervenor reply memorandum_law support motion file memorandum_law support motion file answer crossclaim file answer complaint file affidavit_service complaint file stipulation_voluntary dismissal file order affidavit_service complaint file stipulation order dismissal memorandum_law support motion file terminate motion memorandum_law support motion file reply response motion file order answer crossclaim file endorsed_letter deadlineshearings order endorsed_letter affidavit_service complaint file endorsed_letter notice_change address file memorandum_law support motion file answer complaint file memorandum_law opposition motion file affidavit_service complaint file memorandum_law file .
 .
-memorandum_law support motion file declaration_support motion file l.p. reply_affirmation support motion file stipulation order dismissal add terminate declaration_support motion file l.p. declaration_opposition motion file declaration_support motion file l.p. l.p. affidavit_service file declaration_opposition motion file motion leave file supplemental amend expert declaration_incorporate attach expert_report opposition motion summary_judgment .
-file order deadlineshearings terminate motion affidavit_service complaint file notice_adoption master answer file affidavit_service complaint file memorandum_law support motion file counter_statement rule file file rule_statement file l.p. h.o .
-answer amend_complaint crossclaim file l.p. declaration_opposition motion file notice file memorandum_law support motion file affidavit_service complaint file affidavit_service complaint file motion summary_judgment notice file reply memorandum_law support motion file memorandum_law support motion file stipulation order dismissal answer amend_complaint file affidavit_service complaint file endorsed_letter affidavit_service complaint file memorandum_law support motion file memorandum_law support motion file answer complaint file memorandum_law opposition motion file affidavit_service complaint file notice voluntary_dismissal stipulation order stipulation order dismissal declaration_support motion file reply_affirmation support motion file order certificate_service file complaint file certain_underwriter answer complaint crossclaim file memorandum_law opposition motion file endorsed_letter declaration_support motion file memorandum_law opposition motion file stipulation order dismissal stipulation order dismissal affidavit_service complaint file file certificate_service file endorsed_letter affidavit_service complaint file stipulation order order order memorandum_law support motion file endorsed_letter deadline crossclaim file stipulation order reply memorandum_law support motion file l.p. answer complaint file stipulation order dismissal motion dismiss_thirdparty notice motion dismiss_thirdparty file declaration_support motion file affidavit_service file endorsed_letter memorandum_law opposition motion file l.p. declaration_support motion file affidavit support motion file l.p. h.o .
-file affidavit_service file management_plan notice_appearance file rule_statement file l.p. l.p. notice_adoption master answer file stipulation order reply_affirmation support motion file endorsed_letter order affidavit_service complaint file declaration_opposition motion file memorandum_law support motion file l.p. affidavit_service complaint file order deadlineshearings notice file notice file memo_endorsement terminate motion schedule order notice notice file reply_affirmation support motion file reply memorandum_law support motion file office .
-order memo_endorsement memorandum_law support motion file affidavit_service complaint file l.p. affidavit_service complaint file management_plan motion dismiss notice motion dismiss_thirdparty complaint pursuant_frcp .
+memorandum_law support motion file declaration_support motion file reply_affirmation support motion file stipulation order dismissal add terminate declaration_support motion file declaration_opposition motion file declaration_support motion file affidavit_service file declaration_opposition motion file motion leave file supplemental amend expert declaration_incorporate attach expert_report opposition motion summary_judgment .
+file order deadlineshearings terminate motion affidavit_service complaint file notice_adoption master answer file affidavit_service complaint file memorandum_law support motion file counter_statement rule file file rule_statement file h.o .
+answer amend_complaint crossclaim file declaration_opposition motion file notice file memorandum_law support motion file affidavit_service complaint file affidavit_service complaint file motion summary_judgment notice file reply memorandum_law support motion file memorandum_law support motion file stipulation order dismissal answer amend_complaint file affidavit_service complaint file endorsed_letter affidavit_service complaint file memorandum_law support motion file memorandum_law support motion file answer complaint file memorandum_law opposition motion file affidavit_service complaint file notice voluntary_dismissal stipulation order stipulation order dismissal declaration_support motion file reply_affirmation support motion file order certificate_service file complaint file certain_underwriter answer complaint crossclaim file memorandum_law opposition motion file endorsed_letter declaration_support motion file memorandum_law opposition motion file stipulation order dismissal stipulation order dismissal affidavit_service complaint file file certificate_service file endorsed_letter affidavit_service complaint file stipulation order order order memorandum_law support motion file endorsed_letter deadline crossclaim file stipulation order reply memorandum_law support motion file answer complaint file stipulation order dismissal motion dismiss_thirdparty notice motion dismiss_thirdparty file declaration_support motion file affidavit_service file endorsed_letter memorandum_law opposition motion file declaration_support motion file affidavit support motion file h.o .
+file affidavit_service file management_plan notice_appearance file rule_statement file notice_adoption master answer file stipulation order reply_affirmation support motion file endorsed_letter order affidavit_service complaint file declaration_opposition motion file memorandum_law support motion file affidavit_service complaint file order deadlineshearings notice file notice file memo_endorsement terminate motion schedule order notice notice file reply_affirmation support motion file reply memorandum_law support motion file office .
+order memo_endorsement memorandum_law support motion file affidavit_service complaint file affidavit_service complaint file management_plan motion dismiss notice motion dismiss_thirdparty complaint pursuant_frcp .
 motion dismiss notice motion dismiss_thirdparty complaint pursuant_frcp .
 motion dismiss notice motion dismiss_thirdparty complaint pursuant_frcp .
 motion dismiss notice motion dismiss_thirdparty complaint pursuant_frcp .
 file .
-affidavit_service crossclaim file notice file schedule order affidavit file counter_statement rule file management_plan endorsed_letter deadlineshearings answer complaint file notice file notice assignmentreassignment memorandum_law support motion file declaration_opposition motion file affidavit_service complaint file l.p. affidavit_service file affidavit_service file reply_affirmation support motion file notice file memo_endorsement endorsed_letter stipulation order dismissal application letter rogatory file stipulation order dismissal affidavit_service complaint file l.p. schedule order affidavit_service complaint file rule_corporate disclosure_statement file answer complaint file h.o .
-affidavit_service complaint file affirmation_support motion file judgment memorandum_law support motion file l.p. stipulation order answer crossclaim file memorandum_law support motion file stipulation order dismissal affidavit_service complaint file affidavit_service complaint file order motion appear_pro hac_vice reply_affirmation support motion file answer amend_complaint file joint motion dismiss third_complaint .
-file declaration_opposition motion file memorandum_law opposition motion file l.p. memorandum_law support motion file stipulation order dismissal order deadlineshearings affidavit_service complaint file notice_adoption master answer file order affidavit_service complaint file order deadlineshearings motion summary_judgment .
-file l.p. memorandum_law opposition motion file declaration_opposition motion file stipulation order dismissal certificate_service file stipulation order memorandum_law opposition motion file l.p. affidavit_service complaint file answer complaint file g.c .
+affidavit_service crossclaim file notice file schedule order affidavit file counter_statement rule file management_plan endorsed_letter deadlineshearings answer complaint file notice file notice assignmentreassignment memorandum_law support motion file declaration_opposition motion file affidavit_service complaint file affidavit_service file affidavit_service file reply_affirmation support motion file notice file memo_endorsement endorsed_letter stipulation order dismissal application letter rogatory file stipulation order dismissal affidavit_service complaint file schedule order affidavit_service complaint file rule_corporate disclosure_statement file answer complaint file h.o .
+affidavit_service complaint file affirmation_support motion file judgment memorandum_law support motion file stipulation order answer crossclaim file memorandum_law support motion file stipulation order dismissal affidavit_service complaint file affidavit_service complaint file order motion appear_pro hac_vice reply_affirmation support motion file answer amend_complaint file joint motion dismiss third_complaint .
+file declaration_opposition motion file memorandum_law opposition motion file memorandum_law support motion file stipulation order dismissal order deadlineshearings affidavit_service complaint file notice_adoption master answer file order affidavit_service complaint file order deadlineshearings motion summary_judgment .
+file memorandum_law opposition motion file declaration_opposition motion file stipulation order dismissal certificate_service file stipulation order memorandum_law opposition motion file affidavit_service complaint file answer complaint file g.c .
 .
 answer complaint file stipulation order stipulation order dismissal motion partial_summary judgment notice motion ground_partial summary_judgment dismiss_subrogation assert .
-file l.p. h.o .
+file h.o .
 order deadlineshearings motion r & r deadlineshearings answer complaint crossclaim file rule_corporate disclosure_statement file certain_underwriter notice_adoption master answer file notice notice file file order affidavit_service complaint file stipulation order dismissal stipulation order stipulation order dismissal joint motion dismiss third_complaint memorandum_law support .
-file affidavit_service complaint file stipulation order dismissal order memorandum_law support motion file declaration_opposition motion file rule_statement file l.p. memorandum_law support motion file stipulation order stipulation order dismissal declaration_opposition motion file memorandum_law support motion file l.p. h.o .
-reply memorandum_law support motion file l.p. h.o .
+file affidavit_service complaint file stipulation order dismissal order memorandum_law support motion file declaration_opposition motion file rule_statement file memorandum_law support motion file stipulation order stipulation order dismissal declaration_opposition motion file memorandum_law support motion file h.o .
+reply memorandum_law support motion file h.o .
 reply_affirmation support motion file notice_appearance file declaration_opposition motion file stipulation order dismissal declaration_opposition motion file & new_jersey notice file stipulation order deadline stipulation order dismissal affidavit_service complaint file memo_endorsement affidavit_service complaint file stipulation order dismissal add terminate counter_statement rule file endorsed_letter hearing rule_corporate disclosure_statement file g.c .
 .
-memorandum_law opposition motion file affidavit support motion file l.p. reply_affirmation support motion file affidavit_service file brief file notice file motion vacate order base upon newly discover evidence .
+memorandum_law opposition motion file affidavit support motion file reply_affirmation support motion file affidavit_service file brief file notice file motion vacate order base upon newly discover evidence .
 file stipulation order transmit .
 usca_number assign notice appeal file intervenor .
 notice motion order require wtcp post appeal_bond .
@@ -6319,8 +6319,8 @@ civ .
 second_amend complaint dismiss accordingly judgment enter close .
 modify .
 motion alter judgment .
-document file l.p. file associated
-memorandum_law support motion alter judgment.. document file l.p. file associated
+document file file associated
+memorandum_law support motion alter judgment.. document file file associated
 notice_appearance behalf file associated
 notice appeal opinion & order order &_opinion judgment .
 document file certain_underwriter .
@@ -6328,43 +6328,43 @@ file fee_receipt number .
 transmission district notice appeal .
 transmission notice appeal_certify sheet notice appeal .
 appeal record send_usca .
-certify indexed_record appeal electronic file endorsed_letter transcript endorsed_letter notice_change address file l.p. order notice appeal file certain_underwriter notice filing transcript endorsed_letter deadlineshearings notice_appearance file endorsed_letter deadlineshearings notice_change address file l.p. endorsed_letter stipulation order dismissal notice file industrial risk insurer memorandum &_opinion memorandum_law support motion file l.p. endorsed_letter notice_change address file l.p. notice_change address file l.p. endorsed_letter judgment order deadlineshearings motion alter judgment .
-file l.p. endorsed_letter notice_adoption master answer file answer amend_complaint file reply_affirmation support motion file certificate_service file order motion appear_pro hac_vice motion sever .
+certify indexed_record appeal electronic file endorsed_letter transcript endorsed_letter notice_change address file order notice appeal file certain_underwriter notice filing transcript endorsed_letter deadlineshearings notice_appearance file endorsed_letter deadlineshearings notice_change address file endorsed_letter stipulation order dismissal notice file industrial risk insurer memorandum &_opinion memorandum_law support motion file endorsed_letter notice_change address file notice_change address file endorsed_letter judgment order deadlineshearings motion alter judgment .
+file endorsed_letter notice_adoption master answer file answer amend_complaint file reply_affirmation support motion file certificate_service file order motion appear_pro hac_vice motion sever .
 file answer complaint crossclaim file consent file declaration_opposition motion file stipulation order dismissal motion appear_pro hac_vice .
-file memorandum_law opposition motion file l.p. affidavit_service complaint file acknowledgment service complaint file order rule_corporate disclosure_statement file third_complaint file declaration_support motion file l.p. affidavit_service complaint file answer complaint crossclaim file declaration_support motion file stipulation order order notice_adoption master answer file statement relatedness file notice notice file reply memorandum_law support motion file l.p. reply memorandum_law support motion file .
+file memorandum_law opposition motion file affidavit_service complaint file acknowledgment service complaint file order rule_corporate disclosure_statement file third_complaint file declaration_support motion file affidavit_service complaint file answer complaint crossclaim file declaration_support motion file stipulation order order notice_adoption master answer file statement relatedness file notice notice file reply memorandum_law support motion file reply memorandum_law support motion file .
 motion appear_pro hac_vice .
-file endorsed_letter deadlineshearings affidavit_service file counter_statement rule file memorandum_law support motion file stipulation order add terminate objection objection file l.p. amend answer complaint file affidavit_service complaint file motion protective order .
-file rule_statement file memorandum &_opinion rule_corporate disclosure_statement file affidavit_service complaint file notice_adoption master answer file affidavit_service complaint file answer crossclaim file l.p. certificate_service file order order declaration_opposition motion file schedule order rule_statement file memo_endorsement rule_corporate disclosure_statement file memorandum_law opposition motion file certain_underwriter affidavit_service complaint file declaration_opposition motion file l.p. notice file new_york new_jersey affidavit_service complaint file motion dismiss amend_complaint .
-file declaration_opposition motion file l.p. reply memorandum_law support motion file stipulation order dismissal memorandum_law opposition motion file l.p. declaration_opposition motion file order admit attorney pro_hac vice affidavit_service complaint file notice file motion summary_judgment .
-file l.p. l.p. memorandum_law support motion file affidavit_service complaint file certificate_service file affidavit_service complaint file l.p. affidavit_service complaint file memorandum_law opposition motion file declaration_opposition motion file affidavit_service complaint file amend_complaint file motion dismiss_thirdparty complaint .
+file endorsed_letter deadlineshearings affidavit_service file counter_statement rule file memorandum_law support motion file stipulation order add terminate objection objection file amend answer complaint file affidavit_service complaint file motion protective order .
+file rule_statement file memorandum &_opinion rule_corporate disclosure_statement file affidavit_service complaint file notice_adoption master answer file affidavit_service complaint file answer crossclaim file certificate_service file order order declaration_opposition motion file schedule order rule_statement file memo_endorsement rule_corporate disclosure_statement file memorandum_law opposition motion file certain_underwriter affidavit_service complaint file declaration_opposition motion file notice file new_york new_jersey affidavit_service complaint file motion dismiss amend_complaint .
+file declaration_opposition motion file reply memorandum_law support motion file stipulation order dismissal memorandum_law opposition motion file declaration_opposition motion file order admit attorney pro_hac vice affidavit_service complaint file notice file motion summary_judgment .
+file memorandum_law support motion file affidavit_service complaint file certificate_service file affidavit_service complaint file affidavit_service complaint file memorandum_law opposition motion file declaration_opposition motion file affidavit_service complaint file amend_complaint file motion dismiss_thirdparty complaint .
 file reply memorandum_law support motion file motion stay motion summary_judgment .
 crossmotion_stay determination summary_judgment motion count_pending resolution_appeal .
 motion stay motion summary_judgment .
 crossmotion_stay determination summary_judgment motion count_pending resolution_appeal .
-file affidavit_service complaint file l.p. notice appeal file intervenor reply memorandum_law support motion file memorandum_law support motion file answer crossclaim file answer complaint file affidavit_service complaint file stipulation_voluntary dismissal file order affidavit_service complaint file stipulation order dismissal memorandum_law support motion file l.p. l.p. terminate motion memorandum_law support motion file reply response motion file order answer crossclaim file endorsed_letter deadlineshearings order endorsed_letter affidavit_service complaint file endorsed_letter notice_change address file memorandum_law support motion file answer complaint file memorandum_law opposition motion file l.p. affidavit_service complaint file memorandum_law file .
+file affidavit_service complaint file notice appeal file intervenor reply memorandum_law support motion file memorandum_law support motion file answer crossclaim file answer complaint file affidavit_service complaint file stipulation_voluntary dismissal file order affidavit_service complaint file stipulation order dismissal memorandum_law support motion file terminate motion memorandum_law support motion file reply response motion file order answer crossclaim file endorsed_letter deadlineshearings order endorsed_letter affidavit_service complaint file endorsed_letter notice_change address file memorandum_law support motion file answer complaint file memorandum_law opposition motion file affidavit_service complaint file memorandum_law file .
 .
-memorandum_law support motion file declaration_support motion file l.p. reply_affirmation support motion file stipulation order dismissal add terminate declaration_support motion file l.p. declaration_opposition motion file declaration_support motion file l.p. l.p. affidavit_service file declaration_opposition motion file motion leave file supplemental amend expert declaration_incorporate attach expert_report opposition motion summary_judgment .
-file order deadlineshearings terminate motion affidavit_service complaint file notice_adoption master answer file affidavit_service complaint file memorandum_law support motion file counter_statement rule file file rule_statement file l.p. h.o .
-answer amend_complaint crossclaim file l.p. declaration_opposition motion file notice file memorandum_law support motion file affidavit_service complaint file affidavit_service complaint file motion summary_judgment notice file reply memorandum_law support motion file memorandum_law support motion file stipulation order dismissal answer amend_complaint file affidavit_service complaint file endorsed_letter affidavit_service complaint file memorandum_law support motion file memorandum_law support motion file answer complaint file memorandum_law opposition motion file affidavit_service complaint file notice voluntary_dismissal stipulation order stipulation order dismissal declaration_support motion file reply_affirmation support motion file order certificate_service file complaint file certain_underwriter answer complaint crossclaim file memorandum_law opposition motion file endorsed_letter declaration_support motion file memorandum_law opposition motion file stipulation order dismissal stipulation order dismissal affidavit_service complaint file file certificate_service file endorsed_letter affidavit_service complaint file stipulation order order order memorandum_law support motion file endorsed_letter deadline crossclaim file stipulation order reply memorandum_law support motion file l.p. answer complaint file stipulation order dismissal motion dismiss_thirdparty notice motion dismiss_thirdparty file declaration_support motion file affidavit_service file endorsed_letter memorandum_law opposition motion file l.p. declaration_support motion file affidavit support motion file l.p. h.o .
-file affidavit_service file management_plan notice_appearance file rule_statement file l.p. l.p. notice_adoption master answer file stipulation order reply_affirmation support motion file endorsed_letter order affidavit_service complaint file declaration_opposition motion file memorandum_law support motion file l.p. affidavit_service complaint file order deadlineshearings notice file notice file memo_endorsement terminate motion schedule order notice notice file reply_affirmation support motion file reply memorandum_law support motion file office .
-order memo_endorsement memorandum_law support motion file affidavit_service complaint file l.p. affidavit_service complaint file management_plan motion dismiss notice motion dismiss_thirdparty complaint pursuant_frcp .
+memorandum_law support motion file declaration_support motion file reply_affirmation support motion file stipulation order dismissal add terminate declaration_support motion file declaration_opposition motion file declaration_support motion file affidavit_service file declaration_opposition motion file motion leave file supplemental amend expert declaration_incorporate attach expert_report opposition motion summary_judgment .
+file order deadlineshearings terminate motion affidavit_service complaint file notice_adoption master answer file affidavit_service complaint file memorandum_law support motion file counter_statement rule file file rule_statement file h.o .
+answer amend_complaint crossclaim file declaration_opposition motion file notice file memorandum_law support motion file affidavit_service complaint file affidavit_service complaint file motion summary_judgment notice file reply memorandum_law support motion file memorandum_law support motion file stipulation order dismissal answer amend_complaint file affidavit_service complaint file endorsed_letter affidavit_service complaint file memorandum_law support motion file memorandum_law support motion file answer complaint file memorandum_law opposition motion file affidavit_service complaint file notice voluntary_dismissal stipulation order stipulation order dismissal declaration_support motion file reply_affirmation support motion file order certificate_service file complaint file certain_underwriter answer complaint crossclaim file memorandum_law opposition motion file endorsed_letter declaration_support motion file memorandum_law opposition motion file stipulation order dismissal stipulation order dismissal affidavit_service complaint file file certificate_service file endorsed_letter affidavit_service complaint file stipulation order order order memorandum_law support motion file endorsed_letter deadline crossclaim file stipulation order reply memorandum_law support motion file answer complaint file stipulation order dismissal motion dismiss_thirdparty notice motion dismiss_thirdparty file declaration_support motion file affidavit_service file endorsed_letter memorandum_law opposition motion file declaration_support motion file affidavit support motion file h.o .
+file affidavit_service file management_plan notice_appearance file rule_statement file notice_adoption master answer file stipulation order reply_affirmation support motion file endorsed_letter order affidavit_service complaint file declaration_opposition motion file memorandum_law support motion file affidavit_service complaint file order deadlineshearings notice file notice file memo_endorsement terminate motion schedule order notice notice file reply_affirmation support motion file reply memorandum_law support motion file office .
+order memo_endorsement memorandum_law support motion file affidavit_service complaint file affidavit_service complaint file management_plan motion dismiss notice motion dismiss_thirdparty complaint pursuant_frcp .
 motion dismiss notice motion dismiss_thirdparty complaint pursuant_frcp .
 motion dismiss notice motion dismiss_thirdparty complaint pursuant_frcp .
 motion dismiss notice motion dismiss_thirdparty complaint pursuant_frcp .
 file .
-affidavit_service crossclaim file notice file schedule order affidavit file counter_statement rule file management_plan endorsed_letter deadlineshearings answer complaint file notice file notice assignmentreassignment memorandum_law support motion file declaration_opposition motion file affidavit_service complaint file l.p. affidavit_service file affidavit_service file reply_affirmation support motion file notice file memo_endorsement endorsed_letter stipulation order dismissal application letter rogatory file stipulation order dismissal affidavit_service complaint file l.p. schedule order affidavit_service complaint file rule_corporate disclosure_statement file answer complaint file h.o .
-affidavit_service complaint file affirmation_support motion file judgment memorandum_law support motion file l.p. stipulation order answer crossclaim file memorandum_law support motion file stipulation order dismissal affidavit_service complaint file affidavit_service complaint file order motion appear_pro hac_vice reply_affirmation support motion file answer amend_complaint file joint motion dismiss third_complaint .
-file declaration_opposition motion file memorandum_law opposition motion file l.p. memorandum_law support motion file stipulation order dismissal order deadlineshearings affidavit_service complaint file notice_adoption master answer file order affidavit_service complaint file order deadlineshearings motion summary_judgment .
-file l.p. memorandum_law opposition motion file declaration_opposition motion file stipulation order dismissal certificate_service file stipulation order memorandum_law opposition motion file l.p. affidavit_service complaint file answer complaint file g.c .
+affidavit_service crossclaim file notice file schedule order affidavit file counter_statement rule file management_plan endorsed_letter deadlineshearings answer complaint file notice file notice assignmentreassignment memorandum_law support motion file declaration_opposition motion file affidavit_service complaint file affidavit_service file affidavit_service file reply_affirmation support motion file notice file memo_endorsement endorsed_letter stipulation order dismissal application letter rogatory file stipulation order dismissal affidavit_service complaint file schedule order affidavit_service complaint file rule_corporate disclosure_statement file answer complaint file h.o .
+affidavit_service complaint file affirmation_support motion file judgment memorandum_law support motion file stipulation order answer crossclaim file memorandum_law support motion file stipulation order dismissal affidavit_service complaint file affidavit_service complaint file order motion appear_pro hac_vice reply_affirmation support motion file answer amend_complaint file joint motion dismiss third_complaint .
+file declaration_opposition motion file memorandum_law opposition motion file memorandum_law support motion file stipulation order dismissal order deadlineshearings affidavit_service complaint file notice_adoption master answer file order affidavit_service complaint file order deadlineshearings motion summary_judgment .
+file memorandum_law opposition motion file declaration_opposition motion file stipulation order dismissal certificate_service file stipulation order memorandum_law opposition motion file affidavit_service complaint file answer complaint file g.c .
 .
 answer complaint file stipulation order stipulation order dismissal motion partial_summary judgment notice motion ground_partial summary_judgment dismiss_subrogation assert .
-file l.p. h.o .
+file h.o .
 order deadlineshearings motion r & r deadlineshearings answer complaint crossclaim file rule_corporate disclosure_statement file certain_underwriter notice_adoption master answer file notice notice file file order affidavit_service complaint file stipulation order dismissal stipulation order stipulation order dismissal joint motion dismiss third_complaint memorandum_law support .
-file affidavit_service complaint file stipulation order dismissal order memorandum_law support motion file declaration_opposition motion file rule_statement file l.p. memorandum_law support motion file stipulation order stipulation order dismissal declaration_opposition motion file memorandum_law support motion file l.p. h.o .
-reply memorandum_law support motion file l.p. h.o .
+file affidavit_service complaint file stipulation order dismissal order memorandum_law support motion file declaration_opposition motion file rule_statement file memorandum_law support motion file stipulation order stipulation order dismissal declaration_opposition motion file memorandum_law support motion file h.o .
+reply memorandum_law support motion file h.o .
 reply_affirmation support motion file notice_appearance file declaration_opposition motion file stipulation order dismissal declaration_opposition motion file & new_jersey notice file stipulation order deadline stipulation order dismissal affidavit_service complaint file memo_endorsement affidavit_service complaint file stipulation order dismissal add terminate counter_statement rule file endorsed_letter hearing rule_corporate disclosure_statement file g.c .
 .
-memorandum_law opposition motion file affidavit support motion file l.p. reply_affirmation support motion file affidavit_service file brief file notice file motion vacate order base upon newly discover evidence .
+memorandum_law opposition motion file affidavit support motion file reply_affirmation support motion file affidavit_service file brief file notice file motion vacate order base upon newly discover evidence .
 file stipulation order transmit .
 bill_cost document file
 declaration_support bill_cost .
@@ -6395,7 +6395,7 @@ declaration_support bill_cost .
 document file l.p..
 transcript_proceeding motion hold .
 first supplemental roa send_usca .
-certify supplemental indexed_record appeal electronic file stipulation order voluntary_dismissal transcript bill_cost file judgment declaration_support file l.p. stipulation order voluntary_dismissal amend notice appeal file certain_underwriter transcript bill_cost file l.p. endorsed_letter declaration_support file transmit .
+certify supplemental indexed_record appeal electronic file stipulation order voluntary_dismissal transcript bill_cost file judgment declaration_support file stipulation order voluntary_dismissal amend notice appeal file certain_underwriter transcript bill_cost file endorsed_letter declaration_support file transmit .
 notice file official_transcript notice_give official_transcript argument proceed_hold file reportertranscriber_abovecaptioned matter .
 calendar_day file notice_intent request redaction_transcript .
 notice file transcript make_remotely electronically_available public_without redaction_calendar day file associated_et al .
@@ -7206,7 +7206,7 @@ consent request respectfully_request permit file page reply brief event request 
 endorsement grant .
 .
 modify .
-endorsed_letter address_jr. accordance request receive honor law ms. early today write respectfully_request allow cmecf remove contact information attorney matter mr. longer partner & l gate llp endorsement grant .
+endorsed_letter address_jr. accordance request receive honor law ms. early today write respectfully_request allow cmecf remove contact information attorney matter longer partner & l gate llp endorsement grant .
 attorney_terminate .
 reply memorandum_law support motion dismiss second_amend complaint .
 reply support motion dismiss second_amend complaint .
@@ -7718,8 +7718,8 @@ propose_finding fact_conclusion law .
 propose conclusion_law .
 modify
 propose_finding fact_conclusion law .
-l.p. memorandum_law opposition motion limine exclude_testimony .
-affidavit support l.p. memorandum_law opposition motion limine exlcude testimony .
+memorandum_law opposition motion limine exclude_testimony .
+affidavit support memorandum_law opposition motion limine exlcude testimony .
 memorandum_law support motion order grant motion exclude pursuant .
 .
 v. u.s.579 testimony purport .
@@ -8323,10 +8323,10 @@ comply_discovery ruling_conference .
 conference_hold a.m._courtroom .
 send_chamber .
 endorsed_letter address behalf nonparty witness counsel make submission pursuant briefing_schedule honor .
-reason counsel opposes application order issue subpoena require appearance mr. deposition pursuant_u.s.c .
+reason counsel opposes application order issue subpoena require appearance deposition pursuant_u.s.c .
 section .
 request brief adjournment status_conference address issue forth herein .
-endorsement conference adjourn without reschedule mr. unable work .
+endorsement conference adjourn without reschedule unable work .
 order conference reserve_decision respect issue ruling i. alixpartners llp .
 request serve asubpoena deny .
 .
@@ -8334,7 +8334,7 @@ investment portfolio .
 request subpoena former subsidiary deny .
 instruct however exercise contractual right secure responsive information former insurance subsidiary investment portfolio .
 send_chamber .
-endorsed_letter address write report subject_approval resolve issue concern mr. deposition discuss letter mr. letter .
+endorsed_letter address write report subject_approval resolve issue concern deposition discuss letter letter .
 endorsement propose resolution approve .
 endorsed_letter address subject_approval agree schedule second fact witness deposition april2012 cutoff .
 endorsement proposal acceptable .
@@ -8376,8 +8376,8 @@ notice file transcript make_remotely electronically_available public_without red
 endorsed_letter address counsel request consider brief surreply .
 endorsement appreciate revision privelege log entry offer spirit compromise .
 nevertheless determine review minute .
-mr. therefore submit redact unredacted minute chamber hand .
-endorsed_letter address write promptly correct mr. statement note understand brookfield challenge redaction statement pertain mr. advice accordingly limited submission portion redaction .
+therefore submit redact unredacted minute chamber hand .
+endorsed_letter address write promptly correct statement note understand brookfield challenge redaction statement pertain advice accordingly limited submission portion redaction .
 endorsement receive letter assume contain highly confidential_material deliver secure mean .
 nevertheless believe order clear although neglect provide deadline .
 ambiguity provide redact unredacted minute noon .
@@ -8415,7 +8415,7 @@ endorsed_letter address request reschedule conference .
 endorsement adjourn courtroom .
 setreset_hearing status_conference reset pm_courtroom pearl_street new_york ny .
 minute_entry proceeding_hold discovery_hear hold .
-order brookfield depose mr. additional hour .
+order brookfield depose additional hour .
 absent exceptional circumstance question limit specific identify advance continue deposition .
 brookfield submit camera review manner forth order .
 brookfield also submit memorandum_law rule notice require witness testify concern step agent take concern possible bankruptcy .
@@ -8451,10 +8451,10 @@ release_transcript restriction .
 notice file official_transcript notice_give official_transcript confernce proceed_hold file reportertranscriber_abovecaptioned matter .
 calendar_day file notice_intent request redaction_transcript .
 notice file transcript make_remotely electronically_available public_without redaction_calendar day
-discovery order review camera material submit mr. relating meeting brookfield board item forth order disclose .
+discovery order review camera material submit relating meeting brookfield board item forth order disclose .
 additionally review summary swap .
-although document give mr. order educate swap could provide legal advice indication originally prepare purpose request .
-indeed brookfield able represent highly likely summary give mr. .
+although document give order educate swap could provide legal advice indication originally prepare purpose request .
+indeed brookfield able represent highly likely summary give .
 insufficient establish document protected attorneyclient privilege .
 summary consequently must disclose entirety .
 send_chamber .
@@ -8483,7 +8483,7 @@ notice file transcript make_remotely electronically_available public_without red
 notice_appearance behalf
 minute_entry proceeding_hold status_conference hold .
 conference_hold maas
-endorsed_letter address pursuant subpoena serve conference mr. order testify matter notwithstanding obligation pursuant confidentiality_agreement provision except mr. reveal information subject attorneyclient privilege hold aigfp .
+endorsed_letter address pursuant subpoena serve conference order testify matter notwithstanding obligation pursuant confidentiality_agreement provision except reveal information subject attorneyclient privilege hold aigfp .
 endorsement order .
 endorsed_letter address brookfield respectfully submit letter request telephonic conference hope resolve issue prior next conference front honor .
 endorsement see need conference .
@@ -8583,7 +8583,7 @@ result request agreed could serve response noon today .
 accordingly brookfield respectfully_request honor endorse nunc pro tunc today agreedupon deadline comply .
 endorsement approve .
 modify .
-discovery order brookfield letter application seek leave serve subpoena thirdparty witness former chief executive officer deny substantially reason_forth mr. letter send_chamber via .
+discovery order brookfield letter application seek leave serve subpoena thirdparty witness former chief executive officer deny substantially reason_forth letter send_chamber via .
 discovery order finally although brookfield indicate handdelivered reply letter missive yet arrive chamber .
 note grant permission submit reply letter think necessary resolution issue intend read receive .
 order .
@@ -8631,7 +8631,7 @@ memo_endorse motion leave withdraw counsel grant motion withdraw_attorney .
 endorsement_application grant order .
 attorney_terminate
 endorsed_letter address colleague accept clerkship honor beginning 'm write seek permission let continue work little longer matter firm handle honor .
-endorsement light consent brookfield request mr. whose clerkship commence fall continue work matter submission summary_judgment motion paper .
+endorsement light consent brookfield request whose clerkship commence fall continue work matter submission summary_judgment motion paper .
 minute_entry proceeding_hold telephone_conference hold .
 seventh revise_schedule order postdiscovery dispositive motion make accordance schedule motion due .
 response due .

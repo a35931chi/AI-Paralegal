@@ -1,0 +1,11 @@
+Topic 1 Constituents,Topic 2 Constituents,Topic 3 Constituents,Topic 4 Constituents
+"('motion', 0.061)","('order', 0.12)","('motion', 0.062)","('motion', 0.133)"
+"('notice', 0.03)","('motion', 0.06)","('order', 0.054)","('order', 0.062)"
+"('request', 0.027)","('letter', 0.023)","('complaint', 0.029)","('notice', 0.027)"
+"('associated', 0.022)","('counsel', 0.018)","('support', 0.022)","('dismiss', 0.023)"
+"('order', 0.02)","('stipulation', 0.014)","('schedule', 0.017)","('modify', 0.019)"
+"('memorandum_law_support', 0.02)","('serve_answer_due', 0.012)","('letter', 0.013)","('grant', 0.018)"
+"('summary_judgment', 0.018)","('response', 0.01)","('notice', 0.012)","('complaint', 0.016)"
+"('dismiss', 0.012)","('dismiss', 0.01)","('associated', 0.011)","('reply', 0.014)"
+"('notice_appeal', 0.011)","('serve', 0.01)","('propose', 0.01)","('stipulation', 0.014)"
+"('letter_address', 0.01)","('schedule', 0.009)","('affidavit_service_summons', 0.009)","('declaration_support', 0.012)"

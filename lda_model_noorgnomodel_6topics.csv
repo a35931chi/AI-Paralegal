@@ -1,0 +1,11 @@
+Topic 1 Constituents,Topic 2 Constituents,Topic 3 Constituents,Topic 4 Constituents,Topic 5 Constituents,Topic 6 Constituents
+"('motion', 0.125)","('notice_appearance_behalf', 0.037)","('order', 0.076)","('notice', 0.059)","('order', 0.072)","('reportertranscriber', 0.044)"
+"('order', 0.093)","('request', 0.036)","('motion', 0.06)","('modify', 0.032)","('release_transcript_restriction', 0.035)","('order', 0.044)"
+"('notice', 0.032)","('conference', 0.027)","('counsel', 0.02)","('request', 0.028)","('motion', 0.02)","('discovery', 0.034)"
+"('dismiss', 0.026)","('endorsed_letter_address', 0.023)","('schedule', 0.016)","('transcript_proceeding_conference_hold', 0.025)","('seal', 0.017)","('letter', 0.03)"
+"('due', 0.017)","('answer', 0.02)","('transcript_restriction', 0.016)","('notice_intent_request', 0.017)","('ltd..', 0.016)","('motion', 0.023)"
+"('serve', 0.014)","('issue', 0.018)","('transcript_view_public_terminal', 0.016)","('redaction_transcript', 0.017)","('comply_discovery_ruling_conference', 0.015)","('modify', 0.023)"
+"('stipulation', 0.011)","('brookfield', 0.017)","('purchase_reportertranscriber_deadline_release', 0.016)","('order', 0.016)","('issue', 0.014)","('discovery_hear_hold', 0.019)"
+"('complaint', 0.011)","('schedule', 0.016)","('request', 0.015)","('electronically_available_public_without', 0.015)","('agreement', 0.013)","('serve_answer_due', 0.018)"
+"('request', 0.011)","('serve', 0.015)","('redaction_request_due', 0.012)","('transcript_make_remotely', 0.015)","('counsel', 0.012)","('grant', 0.015)"
+"('memorandum_law_support', 0.011)","('counsel', 0.015)","('letter', 0.012)","('associated', 0.014)","('forth', 0.012)","('submit', 0.013)"
