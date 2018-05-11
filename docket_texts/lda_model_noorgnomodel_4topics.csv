@@ -1,0 +1,11 @@
+0,1,2,3
+"('motion', 0.086)","('motion', 0.081)","('motion', 0.067)","('order', 0.123)"
+"('order', 0.033)","('order', 0.078)","('due', 0.059)","('motion', 0.05)"
+"('schedule', 0.027)","('serve', 0.025)","('order', 0.058)","('notice', 0.046)"
+"('request', 0.027)","('dismiss', 0.024)","('request', 0.032)","('abovecaptioned', 0.027)"
+"('send', 0.025)","('notice', 0.021)","('conference_hold', 0.031)","('amend_complaint', 0.026)"
+"('conference', 0.025)","('grant', 0.02)","('discovery', 0.02)","('official_notice_give', 0.023)"
+"('notice', 0.019)","('letter', 0.019)","('letter', 0.014)","('request', 0.019)"
+"('complaint', 0.019)","('notice_appearance', 0.019)","('serve_answer_due', 0.013)","('official_conference', 0.017)"
+"('withdraw', 0.016)","('discovery', 0.018)","('deny', 0.012)","('conference_hold', 0.016)"
+"('answer', 0.015)","('calendar', 0.016)","('notice', 0.01)","('dismiss', 0.016)"
