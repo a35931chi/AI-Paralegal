@@ -1,0 +1,11 @@
+0,1,2
+"('motion', 0.087)","('motion', 0.165)","('order', 0.139)"
+"('order', 0.062)","('dismiss', 0.046)","('motion', 0.051)"
+"('schedule', 0.027)","('amend_complaint', 0.03)","('notice', 0.035)"
+"('request', 0.026)","('order', 0.024)","('letter', 0.023)"
+"('due', 0.022)","('support', 0.021)","('stipulation', 0.02)"
+"('grant', 0.02)","('memorandum_law_support', 0.021)","('discovery', 0.015)"
+"('complaint', 0.014)","('rule', 0.019)","('serve', 0.014)"
+"('opposition', 0.013)","('complaint', 0.019)","('request', 0.012)"
+"('conference', 0.011)","('notice', 0.018)","('schedule', 0.012)"
+"('summary_judgment', 0.011)","('answer', 0.012)","('dismiss', 0.01)"

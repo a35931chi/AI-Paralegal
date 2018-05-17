@@ -1,0 +1,11 @@
+0,1,2,3
+"('motion', 0.064)","('order', 0.082)","('order', 0.108)","('motion', 0.067)"
+"('order', 0.063)","('motion', 0.054)","('motion', 0.09)","('due', 0.06)"
+"('notice', 0.05)","('endorsement', 0.026)","('schedule', 0.022)","('conference_hold', 0.045)"
+"('amend_complaint', 0.032)","('revise_schedule', 0.021)","('dismiss', 0.022)","('notice_appearance', 0.033)"
+"('request', 0.032)","('schedule', 0.019)","('send', 0.021)","('redact_deadline', 0.025)"
+"('redaction', 0.025)","('endorsed_letter_address', 0.017)","('letter', 0.019)","('hold', 0.025)"
+"('calendar', 0.021)","('withdraw', 0.017)","('request', 0.017)","('rule', 0.022)"
+"('remotely_electronically_available_public', 0.019)","('letter', 0.016)","('notice', 0.016)","('discovery', 0.022)"
+"('release', 0.019)","('notice', 0.016)","('serve', 0.013)","('order', 0.019)"
+"('without_redaction_calendar', 0.019)","('request', 0.016)","('conference', 0.013)","('complaint', 0.016)"

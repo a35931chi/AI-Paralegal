@@ -1,0 +1,11 @@
+0,1
+"('order', 0.107)","('motion', 0.123)"
+"('motion', 0.068)","('order', 0.056)"
+"('notice', 0.033)","('dismiss', 0.03)"
+"('complaint', 0.02)","('schedule', 0.018)"
+"('amend_complaint', 0.013)","('letter', 0.017)"
+"('stipulation', 0.012)","('request', 0.015)"
+"('request', 0.012)","('notice', 0.014)"
+"('answer', 0.011)","('memorandum_law_support', 0.014)"
+"('letter', 0.01)","('amend_complaint', 0.014)"
+"('support', 0.009)","('grant', 0.013)"

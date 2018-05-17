@@ -1,0 +1,11 @@
+0,1,2,3,4
+"('motion', 0.186)","('order', 0.09)","('motion', 0.054)","('order', 0.065)","('order', 0.106)"
+"('order', 0.083)","('motion', 0.083)","('order', 0.047)","('letter', 0.034)","('motion', 0.033)"
+"('notice', 0.034)","('dismiss', 0.044)","('request', 0.038)","('request', 0.032)","('service_accept', 0.026)"
+"('dismiss', 0.025)","('amend_complaint', 0.042)","('complaint', 0.029)","('motion', 0.026)","('notice', 0.023)"
+"('summary_judgment', 0.022)","('serve_answer_due', 0.018)","('letter', 0.028)","('complaint', 0.024)","('rule', 0.022)"
+"('support', 0.021)","('serve', 0.015)","('notice_appearance', 0.024)","('conference', 0.022)","('minute_entry_hold', 0.019)"
+"('memorandum_law_support', 0.019)","('amend', 0.015)","('notice', 0.022)","('due', 0.02)","('abovecaptioned', 0.013)"
+"('grant', 0.017)","('schedule', 0.015)","('affidavit_service_summons', 0.017)","('answer', 0.019)","('declaration_support', 0.012)"
+"('stipulation', 0.016)","('stipulation', 0.014)","('propose', 0.016)","('grant', 0.017)","('release', 0.012)"
+"('declaration_support', 0.015)","('declaration', 0.013)","('letter_address', 0.015)","('settlement', 0.017)","('issue', 0.012)"

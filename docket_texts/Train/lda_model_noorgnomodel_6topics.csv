@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+"('motion', 0.065)","('motion', 0.115)","('notice', 0.077)","('order', 0.165)","('order', 0.068)","('motion', 0.109)"
+"('order', 0.054)","('order', 0.063)","('abovecaptioned', 0.045)","('motion', 0.033)","('notice', 0.043)","('order', 0.051)"
+"('dismiss', 0.039)","('due', 0.037)","('request', 0.045)","('send', 0.033)","('motion', 0.023)","('letter', 0.028)"
+"('redaction', 0.036)","('conference_hold', 0.035)","('official_notice_give', 0.038)","('amend_complaint', 0.03)","('disclose', 0.019)","('notice_appearance', 0.025)"
+"('calendar', 0.034)","('complaint', 0.026)","('endorsed_letter_address', 0.032)","('conference', 0.022)","('notice_appeal', 0.018)","('schedule', 0.023)"
+"('hold', 0.028)","('discovery', 0.024)","('order', 0.03)","('discovery', 0.02)","('grant', 0.017)","('serve', 0.021)"
+"('amend_complaint', 0.023)","('withdraw', 0.024)","('official_conference', 0.029)","('release', 0.018)","('abovecaptioned', 0.015)","('request', 0.018)"
+"('request', 0.021)","('grant', 0.021)","('deadline_release', 0.027)","('letter', 0.017)","('response', 0.015)","('notice', 0.018)"
+"('redact_deadline', 0.021)","('notice', 0.018)","('view_public_terminal_purchase', 0.027)","('due', 0.015)","('official_conference', 0.015)","('endorsement', 0.018)"
+"('notice', 0.021)","('request', 0.016)","('motion', 0.02)","('reply', 0.014)","('official_notice_give', 0.015)","('summary_judgment', 0.015)"

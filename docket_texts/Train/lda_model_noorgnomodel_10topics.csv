@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9
+"('order', 0.081)","('order', 0.102)","('motion', 0.131)","('order', 0.099)","('order', 0.144)","('motion', 0.171)","('order', 0.101)","('motion', 0.179)","('order', 0.09)","('motion', 0.102)"
+"('notice', 0.047)","('motion', 0.047)","('notice', 0.044)","('motion', 0.093)","('motion', 0.068)","('order', 0.051)","('motion', 0.065)","('order', 0.038)","('motion', 0.032)","('order', 0.066)"
+"('rule', 0.04)","('serve_answer_due', 0.027)","('letter', 0.027)","('complaint', 0.052)","('notice_appeal', 0.022)","('dismiss', 0.039)","('dismiss', 0.038)","('summary_judgment', 0.024)","('notice', 0.028)","('amend_complaint', 0.031)"
+"('schedule', 0.023)","('amend_complaint', 0.02)","('order', 0.024)","('answer', 0.03)","('dismiss', 0.019)","('support', 0.033)","('notice', 0.034)","('dismiss', 0.02)","('stipulation', 0.026)","('request', 0.028)"
+"('notice_appearance', 0.022)","('discovery', 0.02)","('dismiss', 0.018)","('letter', 0.027)","('rule', 0.017)","('notice', 0.027)","('discovery', 0.033)","('support', 0.02)","('request', 0.021)","('grant', 0.02)"
+"('serve_answer_due', 0.018)","('stipulation', 0.017)","('service_accept', 0.017)","('grant', 0.026)","('memorandum_law_support', 0.016)","('opposition', 0.014)","('amend_complaint', 0.032)","('minute_entry_hold', 0.018)","('letter', 0.017)","('due', 0.02)"
+"('serve', 0.017)","('complaint', 0.015)","('summary_judgment', 0.017)","('dismiss', 0.022)","('schedule', 0.016)","('schedule', 0.014)","('letter', 0.02)","('reply', 0.018)","('endorsed_letter_address', 0.016)","('opposition', 0.019)"
+"('conference_hold', 0.016)","('affidavit_service_summons', 0.014)","('letter_address', 0.016)","('stipulation', 0.02)","('request', 0.013)","('trial', 0.013)","('response', 0.017)","('memorandum_law_support', 0.017)","('letter_address', 0.015)","('serve', 0.015)"
+"('request', 0.014)","('request', 0.012)","('leave', 0.015)","('request', 0.017)","('amend', 0.012)","('amend_complaint', 0.012)","('rule', 0.014)","('send', 0.016)","('due', 0.014)","('letter', 0.015)"
+"('appeal', 0.013)","('dismiss', 0.012)","('conference_hold', 0.014)","('schedule', 0.016)","('letter', 0.011)","('declaration_support', 0.012)","('support', 0.013)","('declaration_support', 0.014)","('answer_due', 0.014)","('notice_appearance', 0.014)"
