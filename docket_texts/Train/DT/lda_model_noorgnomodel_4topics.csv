@@ -1,0 +1,11 @@
+0,1,2,3
+"('minute_entry_hold', 0.14)","('rule', 0.231)","('order', 0.395)","('order', 0.149)"
+"('status_report', 0.103)","('hold', 0.13)","('motion', 0.06)","('discovery', 0.113)"
+"('jury_trial_hold', 0.077)","('letter_address', 0.114)","('report', 0.051)","('letter', 0.098)"
+"('motion_limine', 0.076)","('order', 0.069)","('deposition', 0.047)","('loan', 0.054)"
+"('motion', 0.073)","('motion', 0.058)","('discovery', 0.039)","('motion', 0.052)"
+"('due', 0.051)","('propose', 0.057)","('letter_address', 0.036)","('error', 0.046)"
+"('discovery_hear_hold', 0.05)","('schedule', 0.055)","('grant', 0.036)","('letter_address', 0.044)"
+"('amend', 0.043)","('iii', 0.034)","('schedule', 0.032)","('protective', 0.043)"
+"('brief', 0.037)","('protective', 0.025)","('issue', 0.03)","('schedule', 0.038)"
+"('endorsed_letter_address', 0.036)","('deadline', 0.024)","('endorsement', 0.028)","('minute_entry_hold', 0.035)"

@@ -1,0 +1,11 @@
+0,1
+"('order', 0.253)","('order', 0.167)"
+"('letter_address', 0.07)","('rule', 0.117)"
+"('hold', 0.056)","('motion', 0.089)"
+"('letter', 0.049)","('discovery', 0.063)"
+"('minute_entry_hold', 0.047)","('letter_address', 0.049)"
+"('propose', 0.035)","('schedule', 0.047)"
+"('discovery_hear_hold', 0.029)","('report', 0.035)"
+"('loan', 0.028)","('letter', 0.027)"
+"('discovery', 0.028)","('hold', 0.026)"
+"('status_report', 0.026)","('deposition', 0.026)"

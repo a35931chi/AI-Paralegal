@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9
+"('order', 0.419)","('order', 0.245)","('status_report', 0.121)","('order', 0.231)","('order', 0.197)","('order', 0.241)","('rule', 0.248)","('minute_entry_hold', 0.134)","('rule', 0.315)","('order', 0.15)"
+"('loan', 0.069)","('rule', 0.175)","('error', 0.11)","('discovery', 0.225)","('letter_address', 0.181)","('hold', 0.179)","('hold', 0.118)","('order', 0.078)","('order', 0.113)","('assign', 0.15)"
+"('motion', 0.056)","('motion', 0.078)","('order', 0.099)","('deposition', 0.106)","('report', 0.107)","('motion', 0.165)","('letter', 0.105)","('motion', 0.078)","('motion', 0.112)","('letter', 0.113)"
+"('state', 0.049)","('minute_entry_hold', 0.078)","('letter', 0.077)","('dispute', 0.058)","('propose', 0.102)","('schedule', 0.069)","('order', 0.066)","('letter_address', 0.078)","('application', 0.057)","('endorsement', 0.113)"
+"('letter', 0.042)","('letter_address', 0.065)","('motion', 0.066)","('schedule', 0.042)","('schedule', 0.091)","('letter_address', 0.042)","('endorsed_letter_address', 0.066)","('entry', 0.077)","('grant', 0.049)","('protective', 0.095)"
+"('endorsement', 0.042)","('jury_trial_hold', 0.065)","('minute_entry_hold', 0.066)","('motion_limine', 0.039)","('trial', 0.038)","('grant', 0.035)","('letter_address', 0.027)","('jury_trial_hold', 0.059)","('status_report', 0.049)","('grant', 0.058)"
+"('deny', 0.042)","('letter', 0.052)","('discovery_hear_hold', 0.055)","('letter_address', 0.033)","('due', 0.032)","('iii', 0.035)","('deposition', 0.027)","('hold', 0.04)","('filing', 0.033)","('letter_address', 0.039)"
+"('hold', 0.028)","('issue', 0.027)","('due', 0.045)","('protocol', 0.033)","('issue', 0.032)","('rule', 0.021)","('discovery_hear_hold', 0.027)","('discovery', 0.04)","('letter', 0.025)","('discovery', 0.039)"
+"('production', 0.028)","('assign', 0.027)","('rule', 0.034)","('amend', 0.033)","('discovery', 0.027)","('discovery', 0.021)","('error', 0.027)","('propose', 0.04)","('schedule', 0.025)","('minute_entry_hold', 0.039)"
+"('protective', 0.021)","('endorsed_letter_address', 0.021)","('letter_address', 0.034)","('due', 0.033)","('protective', 0.027)","('entry', 0.021)","('minute_entry_hold', 0.027)","('error', 0.04)","('deny', 0.025)","('jury_trial_hold', 0.039)"

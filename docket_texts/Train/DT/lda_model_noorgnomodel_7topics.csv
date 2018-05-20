@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+"('order', 0.357)","('order', 0.196)","('rule', 0.307)","('order', 0.278)","('letter_address', 0.204)","('rule', 0.219)","('minute_entry_hold', 0.18)"
+"('letter', 0.063)","('motion', 0.133)","('discovery', 0.091)","('hold', 0.148)","('letter', 0.096)","('order', 0.133)","('discovery_hear_hold', 0.162)"
+"('discovery', 0.055)","('rule', 0.113)","('error', 0.072)","('schedule', 0.087)","('motion', 0.077)","('deposition', 0.123)","('deadline', 0.126)"
+"('letter_address', 0.048)","('propose', 0.067)","('due', 0.066)","('motion', 0.074)","('report', 0.077)","('motion_limine', 0.088)","('letter_address', 0.056)"
+"('report', 0.041)","('discovery', 0.06)","('endorsed_letter_address', 0.053)","('discovery', 0.046)","('status_report', 0.077)","('loan', 0.054)","('application', 0.056)"
+"('endorsement', 0.041)","('grant', 0.06)","('trial', 0.053)","('letter_address', 0.039)","('due', 0.064)","('deny', 0.053)","('error', 0.047)"
+"('rule', 0.034)","('state', 0.054)","('schedule', 0.034)","('propose', 0.029)","('discovery', 0.045)","('production', 0.045)","('order', 0.039)"
+"('minute_entry_hold', 0.033)","('endorsed_letter_address', 0.034)","('letter_address', 0.028)","('iii', 0.025)","('loan', 0.039)","('protective', 0.036)","('motion', 0.038)"
+"('motion', 0.03)","('dispute', 0.027)","('minute_entry_hold', 0.027)","('status_report', 0.025)","('order', 0.033)","('protocol', 0.027)","('due', 0.038)"
+"('protective', 0.03)","('letter', 0.021)","('jury_trial_hold', 0.027)","('protective', 0.022)","('assign', 0.033)","('amend', 0.027)","('dispute', 0.038)"
