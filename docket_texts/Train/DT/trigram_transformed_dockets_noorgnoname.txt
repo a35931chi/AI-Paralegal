@@ -1,9 +1,9 @@
 
-assign . please_download_locate_website . responsible_courtesy_individual_practice .
+please_download_locate_website responsible_courtesy_individual_practice
 
 
 
-open_filing_check_quality control . correction .
+open_check_quality_control correction
 
 
 
@@ -57,10 +57,10 @@ letter propose schedule order
 
 
 
-order respond letter . order . 
+order respond letter ordered
 
 
-order respond letter motion . order . 
+order respond letter motion ordered
 
 
 
@@ -72,7 +72,7 @@ letter status
 
 
 
-reassign . longer assign . please_download_locate_website . responsible_courtesy_individual_practice .
+reassign longer please_download_locate_website responsible_courtesy_individual_practice
 
 
 status_report
@@ -93,27 +93,23 @@ letter
 
 
 
-undeliverable . decision order sender . postal notation movedunknown . .
+undeliverable decision order sender postal notation movedunknown
 
 
 
-assign . please_download_locate_website . responsible_courtesy_individual_practice .
+please_download_locate_website responsible_courtesy_individual_practice
 
 
-open_filing_check_quality control . correction .
-
-
-
-
+open_check_quality_control correction
 
 
 
 
-schedule order hearing order show_cause reschedule courtroom south . deadline effect . order .
 
 
 
 
+schedule order hearing order show_cause reschedule courtroom south deadline effect order
 
 
 
@@ -127,24 +123,28 @@ schedule order hearing order show_cause reschedule courtroom south . deadline ef
 
 
 
-reassign . chief mag . longer assigned . please_download_locate_website . responsible_courtesy_individual_practice .
-
-
-order mediation . express desire reach amicable resolution . assistance question mediation process selection mediator invite contact edny adr administrator . mediation complete . selection mediator due . order .
-schedule order discovery discovery . initiate dispositive motion practice . order .
 
 
 
 
-
-selection mediator select mediator . mediation session place . upon completion mediation mediation report find http www.nyed.uscourts.govadrforms . mediation report email robyn_weinstein nyed.uscourts.gov within week mediation session.report mediation due .
-report mediation unsettle . mediation report find http www.nyed.uscourts.govadrforms . mediation report email robyn_weinstein nyed.uscourts.gov within week mediation session.mediation report due .
+reassign chief mag longer please_download_locate_website responsible_courtesy_individual_practice
 
 
+order mediation express desire reach amicable resolution assistance question mediation process selection mediator invite contact edny adr administrator mediation complete selection mediator due ordered
+schedule order discovery discovery initiate dispositive motion practice order
 
-assign . please_download_locate_website . responsible_courtesy_individual_practice . 
 
-open_filing_check_quality control . correction . correction . 
+
+
+
+selection mediator select mediator mediation session place upon completion mediation mediation report find http wwwnyeduscourtsgovadrforms mediation report email robyn_weinstein nyeduscourtsgov within week mediation sessionreport mediation due
+report mediation unsettled mediation report find http wwwnyeduscourtsgovadrforms mediation report email robyn_weinstein nyeduscourtsgov within week mediation sessionmediation report due
+
+
+
+please_download_locate_website responsible_courtesy_individual_practice
+
+open_check_quality_control correction correction
 
 
 
@@ -191,7 +191,7 @@ propose scheduling order
 
 
 
-letter nov. status_report order
+letter nov status_report order
 
 status_report
 
@@ -222,18 +222,18 @@ status_report
 
 
 unsigned order show_cause
-assign . please_download_locate_website . responsible_courtesy_individual_practice .
+please_download_locate_website responsible_courtesy_individual_practice
 
 
-open_filing_check_quality control . correction .
-order show_cause let deft flasr show_cause order fed.r.civ.p . rule u.s.c . final determination flsr . show_cause hearing courtroom north lashann dearcy hall.. order .
+open_check_quality_control correction
+order show_cause let deft flasr show_cause order fedrcivp rule usc final determination flsr show_cause hearing courtroom north lashann dearcy hall order
 
-rule order show_cause file . 
-
-
+rule order show_cause
 
 
-order serve order show_cause accompany via email ceo well company general email address . file proof . hear order show_cause proceed originally schedule . order . winnethka
+
+
+order serve order show_cause accompany via email ceo well company general email address proof hear order show_cause proceed originally schedule order winnethka
 
 propose_finding
 
@@ -264,17 +264,17 @@ list
 
 
 
-letter dkt . refiled
+letter dkt refiled
 
-motion contempt .
+motion contempt
 
 
-order motion contempt respectfully united state report recommendation . order . winnethka
+order motion contempt respectfully united report recommendation order winnethka
 
 
 
 status_report
-motion substitute letter support
+motion substitute letter support inc
 
 
 
@@ -289,10 +289,10 @@ motion substitute letter support
 
 
 
-assign . please_download_locate_website . responsible_courtesy_individual_practice .
+please_download_locate_website responsible_courtesy_individual_practice
 
 
-open_filing_check_quality control . correction .
+open_check_quality_control correction
 
 
 
@@ -308,7 +308,7 @@ propose schedule order
 letter selection mediator
 
 
-report mediation unsettle . mediation report find http www.nyed.uscourts.govadrforms . mediation report email robyn_weinstein nyed.uscourts.gov within week mediation session.mediation report questionnaire due .
+report mediation unsettled mediation report find http wwwnyeduscourtsgovadrforms mediation report email robyn_weinstein nyeduscourtsgov within week mediation sessionmediation report questionnaire due
 
 
 
@@ -322,7 +322,7 @@ report mediation unsettle . mediation report find http www.nyed.uscourts.govadrf
 
 status_report
 
-rule file . 
+rule
 
 
 
@@ -335,15 +335,12 @@ letter
 
 
 
-civil_cover_sheet file . 
-. . document file . 
+civil_cover_sheet
 
 
 
 
 
-.
-.
 
 
 
@@ -354,10 +351,10 @@ civil_cover_sheet file .
 
 
 
-delete document . delete document number endorsed_letter . document incorrectly file .
 
 
 
+delete delete number endorsed_letter incorrectly
 
 
 
@@ -373,19 +370,19 @@ delete document . delete document number endorsed_letter . document incorrectly 
 
 
 
-status_report . document file . 
 
 
-status_report . document file . 
-memo_endorsement status_report file . endorsement application deny .
 
+status_report
 
-status_report . document file . 
 
-. . document file genesys id
+status_report
+memo_endorsement status_report endorsement deny
 
 
+status_report
 
+genesys id inc
 
 
 
@@ -398,10 +395,10 @@ status_report . document file .
 
 
 
-rule . document file . 
 
 
 
+rule
 
 
 
@@ -410,13 +407,10 @@ rule . document file .
 
 
 
-civil_cover_sheet file . 
-. . document file . 
 
 
-.
-.
 
+civil_cover_sheet
 
 
 
@@ -426,7 +420,6 @@ civil_cover_sheet file .
 
 
 
-. document file .
 
 
 
@@ -434,53 +427,52 @@ civil_cover_sheet file .
 
 
 
-. document file
 
 
 
 
-letter_address basis diversity jurisdiction rule rule . document file .
 
 
 
+inc inc
 
 
 
 
+letter_address basis diversity jurisdiction rule rule
 
 
-interrogatory llc.document file
 
 
 
 
 
 
-file error wrong event type select menu letter motion continue address . document file .
 
+interrogatory llcdocument inc
 
 
 
 
 
 
+wrong event type select menu letter motion continue address inc
 
 
-letter_address clarification . document file . 
 
 
-possibly .
 
 
 
 
 
+letter_address clarification
 
 
+possibly
 
 
 
-.
 
 
 
@@ -506,7 +498,6 @@ possibly .
 
 
 
-memoendorsement letter_address . application grant insofar seeks production insuarance policy otherwise deny . . 
 
 
 
@@ -514,8 +505,8 @@ memoendorsement letter_address . application grant insofar seeks production insu
 
 
 
-hold . .
 
+memoendorsement letter_address grant insofar seeks production insuarance policy otherwise deny
 
 
 
@@ -523,6 +514,7 @@ hold . .
 
 
 
+hold pm
 
 
 
@@ -538,7 +530,6 @@ hold . .
 
 
 
-affidavit support motion dismiss.. document file .
 
 
 
@@ -547,25 +538,25 @@ affidavit support motion dismiss.. document file .
 
 
 
-ernst young llp'srule disclosure . document file l.l.p..
 
 
 
 
 
-. document file cayman island .
 
 
-. document file corp..
 
 
+ernst young llp'srule disclosure llp
 
 
 
 
 
+cayman island
 
 
+corp
 
 
 
@@ -592,41 +583,50 @@ ernst young llp'srule disclosure . document file l.l.p..
 
 
 
-order deny motion certification u.s.c . section question culpable participation allege control person allege state section security exchange act . section . . 
 
 
 
-hold .
 
 
 
 
 
 
+order deny motion certification usc section question culpable participation allege control person allege section security exchange act section
 
 
 
+hold
 
-protective order procedure_govern_handle_confidential .
 
 
-affidavit . document file alphaplus l.p..
 
 
 
 
-subpoena issue am.document file .
-subpoena issue pm.document file .
-amend protective order govern production exchange confidential regarding procedure_govern_handle_confidential .
-motion order discovery . document file . document
+
+
+
+protective order procedure_govern_handle_confidential
+
+
+affidavit alphaplus lp
+
+
+
+
+subpoena amdocument
+subpoena pmdocument
+amend protective order govern production exchange confidential procedure_govern_handle_confidential
+motion order discovery relates
 
 
 
 memo_endorsement
-admission . transmit memo_endorsement admission update .
+admission transmit memo_endorsement admission update
 
 
-letter_address position motion discovery . document file hedge strategy ibex absolute magnum growth magnum special situation estate m.l . alternative investment sgr spa stillwater market neutral balentine_global_hedge account s.a. alternative asset balentine_global_hedge select s.a..
+letter_address position motion discovery hedge strategy ibex absolute lp_magnum growth lp_magnum special situation estate ml alternative investment sgr spa stillwater market neutral lp_balentine_global_hedge lp account lp sa alternative asset lp_balentine_global_hedge select lp sa
 
 
 
@@ -636,9 +636,7 @@ letter_address position motion discovery . document file hedge strategy ibex abs
 
 
 
-. document file .
 
-. document file .
 
 
 
@@ -668,48 +666,45 @@ letter_address position motion discovery . document file hedge strategy ibex abs
 
 
 
-stipulate protective order procedure_govern_handle_confidential . file
 
 
+stipulate protective order procedure_govern_handle_confidential
 
-motion entry order hereto attached motion . document file sumnicht money sumnicht money ii gilbraltar lp alternative strategiesbalanced growth s.a. hedge strategy ibex absolute magnum growth magnum special situation estate m.l . stillwater market neutral balentine_global_hedge account s.a. alternative asset balentine_global_hedge select s.a..filed associate .
-motion entry order hereto . document file sumnicht money sumnicht money ii gilbraltar lp alternative strategiesbalanced growth s.a. hedge strategy ibex absolute magnum growth magnum special situation estate m.l . alternative investment sgr spa stillwater market neutral balentine_global_hedge account s.a. alternative asset balentine_global_hedge select s.a..filed associate
 
 
-memo_endorsement motion entry order hereto . endorse grant extent indicate bar order otherwise deny . . order file
-memo_endorsement motion entry order hereto attached motion . endorse grant . order file
+motion entry order hereto attached motion sumnicht money lp sumnicht money ii lp gilbraltar lp alternative strategiesbalanced growth sa hedge strategy ibex absolute lp_magnum growth lp_magnum special situation estate ml stillwater market neutral lp_balentine_global_hedge lp account lp sa alternative asset lp_balentine_global_hedge select lp safiled associate
+motion entry order hereto sumnicht money lp sumnicht money ii lp gilbraltar lp alternative strategiesbalanced growth sa hedge strategy ibex absolute lp_magnum growth lp_magnum special situation estate ml alternative investment sgr spa stillwater market neutral lp_balentine_global_hedge lp account lp sa alternative asset lp_balentine_global_hedge select lp safiled associate
 
-bar order currently contribution limit fka atc administrator limit b.v. andor parent subsidiary affiliate owner shareholder officer director employee agent insurer reinsurers representative trustee successor trustee beneficiary heir vested contingent executor administrator successor assign arise federal state law law cause base tort contract statute body law favor person entity arise investment andor management oversight among others favor person entity forever extinguish discharge satisfied bar enjoin . reserve jurisdiction attempt assert extinguish discharge satisfied bar enjoin order . file
 
-motion entry order hereto ? document file .
+memo_endorsement motion entry order hereto endorse grant extent indicate bar order otherwise deny order
+memo_endorsement motion entry order hereto attached motion endorse grant order
 
+bar order currently contribution limit fka atc administrator limit bv andor parent subsidiary affiliate owner shareholder officer director employee agent insurer reinsurers representative trustee successor trustee beneficiary heir vested contingent executor administrator successor arise federal law law cause base tort contract statute body law favor person entity arise investment lp andor management oversight among others lp favor person entity forever extinguish discharge satisfied bar enjoin reserve jurisdiction attempt assert extinguish discharge satisfied bar enjoin order
 
+motion entry order hereto ? 
 
 
-file error pdf error civil_cover_sheet file . .
-. . document file . 
 
 
+pdf civil_cover_sheet
 
-.
-.
-civil_cover_sheet file . 
 
 
 
 
 
-. . document file
-. . document file
+civil_cover_sheet
 
 
 
-memo_endorsement letter file . endorsement order . 
 
 
+inc
+inc
 
 
 
+memo_endorsement letter endorsement order
 
 
 
@@ -723,31 +718,28 @@ memo_endorsement letter file . endorsement order .
 
 
 
-assign ii . please_download_locate_website . responsible_courtesy_individual_practice .
 
 
-open_filing_check_quality control . correction .
 
 
 
+ii please_download_locate_website responsible_courtesy_individual_practice
 
-decision order u.s.c . § transfer . transfer . original file certify transfer order sheet send . filing transfer case.. order ii .
-transfer number . original file certify transfer order entry receive .
-.
-.
-note state please visit website http www.nysd.uscourts.gov admission s.d.n.y . bar cmecf rule file instruction .
 
+open_check_quality_control correction
 
 
-. . document file aim exploration
 
 
+decision order usc § transfer transfer original certify transfer order sheet send transfer order ii
+transfer number original certify transfer order entry receive
 
 
+note please visit website http wwwnysduscourtsgov admission sdny bar cmecf rule instruction
 
 
 
-memo_endorsement letter file aim exploration endorsement deny .
+aim exploration inc
 
 
 
@@ -755,22 +747,20 @@ memo_endorsement letter file aim exploration endorsement deny .
 
 
 
+memo_endorsement letter aim exploration inc endorsement deny
 
 
 
 
 
-civil_cover_sheet file . 
 
-. . document file . 
 
 
-.
-.
 
 
 
 
+civil_cover_sheet
 
 
 
@@ -778,44 +768,37 @@ civil_cover_sheet file .
 
 
 
-file error deficient entry . document file . .
-. document file .
 
 
 
 
 
-civil_cover_sheet file .
 
-. . document file .
 
 
-. u.s.c . section . . p. notify consent proceed united state . wish consent access necessary link http nysd.uscourts.govforms.php .
-.
 
 
+deficient entry
 
 
 
 
 
 
+civil_cover_sheet
 
 
 
 
+usc section r p notify consent proceed united wish consent access necessary link http nysduscourtsgovformsphp
 
 
-. . document file
 
 
 
 
 
-setreset deadline amend pleading due .
-letter_address order . document file .
 
-letter_address letter . document file
 
 
 
@@ -823,17 +806,19 @@ letter_address letter . document file
 
 
 
+inc
 
 
 
 
 
+setreset deadline amend pleading due
+letter_address order
 
-rule . document file . 
+letter_address letter inc
 
 
 
-counter rule . document file
 
 
 
@@ -842,23 +827,24 @@ counter rule . document file
 
 
 
-letter_address development almagarby et ano.. document file
-memo_endorsement letter file endorsement order respond letter monday .
-letter_address . . document file . 
 
 
+rule
 
 
 
+counter rule inc
 
 
-letter_address joint letter per order . document file . 
 
 
 
 
 
 
+letter_address development v almagarby et ano inc
+memo_endorsement letter endorsement order respond letter monday
+letter_address
 
 
 
@@ -866,7 +852,7 @@ letter_address joint letter per order . document file .
 
 
 
-.
+letter_address joint letter per order
 
 
 
@@ -909,37 +895,36 @@ letter_address joint letter per order . document file .
 
 
 
-memoendorsement letter_address reset oral_argument motion presently schedule . 
 
 
 
 
-memoendorsement letter_address reset plntf brief due .
 
 
 
 
-order substitute place llp . .
 
 
-order opinion order issue undersigned . cover opinion order change read . .
 
 
 
 
+memoendorsement letter_address reset oral_argument motion presently schedule
 
 
 
 
+memoendorsement letter_address reset plntf brief due
 
 
 
 
+order substitute place llp
 
 
+order opinion order undersigned cover opinion order change read
 
 
-preconferene newvest portfolio newvest . receive night deposit box
 
 
 
@@ -948,30 +933,26 @@ preconferene newvest portfolio newvest . receive night deposit box
 
 
 
-initial disclosure rule .
 
 
 
 
 
 
+preconferene newvest portfolio newvest receive night deposit box pm
 
 
 
 
 
 
-memoendorsement letter_address discovery dispute mag . contact instruction proceed .
 
-order assignment discovery dispute . .
 
-confidentiality agreeement order procedure_govern_handle_confidential . .
+initial disclosure rule
 
 
 
 
-order swear principal treat physician address issue depose circumstance . newvest promptly update production transaction register forward
-memoendorsement letter_address . reset discovery due . fax .
 
 
 
@@ -979,19 +960,19 @@ memoendorsement letter_address . reset discovery due . fax .
 
 
 
-.
 
-civil_cover_sheet file .
+memoendorsement letter_address discovery dispute mag contact instruction proceed
 
+order assignment discovery dispute
 
+confidentiality agreeement order procedure_govern_handle_confidential
 
 
 
 
-. u.s.c . section . . p. notify consent proceed united state . wish consent access necessary link http nysd.uscourts.govforms.php .
-.
+order swear mr principal treat physician address mr depose circumstance newvest promptly update production transaction register forward
+memoendorsement letter_address reset discovery due fax
 
-ao copyright open . compliance provision . register copyright advise file copyright . email register copyright .
 
 
 
@@ -1000,14 +981,17 @@ ao copyright open . compliance provision . register copyright advise file copyri
 
 
 
+civil_cover_sheet
 
 
 
 
 
 
+usc section r p notify consent proceed united wish consent access necessary link http nysduscourtsgovformsphp
 
 
+ao copyright open compliance provision register copyright advise copyright email register copyright
 
 
 
@@ -1025,10 +1009,8 @@ ao copyright open . compliance provision . register copyright advise file copyri
 
 
 
-possibly mdl .
 
 
-.
 
 
 
@@ -1036,19 +1018,14 @@ possibly mdl .
 
 
 
-. document file
 
-rule discovery plan report.document file
 
 
-hold .
-hold . 
-letter_address document file
-letter_address iii waive potential conflict interest connection continue preside . document file .
 
 
 
 
+possibly mdl
 
 
 
@@ -1058,14 +1035,37 @@ letter_address iii waive potential conflict interest connection continue preside
 
 
 
-motion protective order motion entry protective order . document file . 
-order term stipulate confidentiality order mdl apply full force effect instant .
 
-. transmit order motion document unsealing document .
+inc
 
+rule discovery plan reportdocument inc
 
-hold .
-order grant motion .
+
+hold
+hold
+letter_address inc
+letter_address waive potential conflict interest connection continue preside
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion protective order motion entry protective order
+order term stipulate confidentiality order mdl apply full force effect instant
+
+transmit order motion unsealing
+
+
+hold
+order grant motion
 
 redaction undisputed
 
@@ -1075,25 +1075,25 @@ redaction undisputed
 
 
 
-hold .
+hold
 
 
-file error electronic filing nonecf demand trial jury . document file merrill .
-schedule order discovery due . ready trial . document schedule deadline .
+electronic nonecf demand trial jury merrill
+schedule order discovery due ready trial schedule deadline
 
 
 
 
-hold .
+hold
 
 
 
 
-endorsed_letter_address iii application grant . participant call together .
-hold .
-schedule order discovery due . status_report due .
+endorsed_letter_address grant participant call pm together
+hold
+schedule order discovery due status_report due
 
-enty withdrawal appearance .
+enty withdrawal appearance
 
 
 
@@ -1106,10 +1106,10 @@ enty withdrawal appearance .
 
 
 
-hold .
-schedule order . oral_argument .
-schedule order oral_argument pm .
-hold @ .
+hold
+schedule order oral_argument
+schedule order oral_argument pm
+hold @ pm
 
 
 
@@ -1123,24 +1123,24 @@ hold @ .
 
 
 
-usca_mandateorder usca mandate nondismissal .
+usca_mandateorder usca mandate nondismissal
 
 
 
 
-usca_mandateorder usca mandate .
+usca_mandateorder usca mandate
 
 
-consent order change order rule civil rule upon annexed affidavit swear consent worldwide plaza eighth avenue substitute aboveentitled place avenue america floor .
+consent order change order rule civil rule upon annexed affidavit swear consent worldwide plaza eighth avenue substitute aboveentitled place avenue america floor
 
-affidavit support propose order permit substitution fo place atty dfts . document file .
+affidavit support propose order permit substitution fo place atty dfts
 
-order admit pro_hac_vice . admit pro_hac_vice .
+order admit pro_hac_vice admit pro_hac_vice
 
-hold iii .
+hold
 
-consolidated member create association .
-hold iii .
+consolidated member create association
+hold
 
 
 
@@ -1150,79 +1150,77 @@ hold iii .
 
 
 
-renew motion certification rule . document file .
+renew motion certification rule
 
 
 
 
 
-order use discovery produce american express ross . bank america n.a . . whp procedure_govern handle discovery produce ross . etal . v n.a . etal . . file
+order use discovery produce american express ross bank america na whp procedure_govern handle discovery produce ross etal v na etal
 
 
 
-hold iii . file associate civil . .
+hold associate civil
 
-schedule order . . oral_argument motion consolidate . . reschedule p.m . oral_argument pm . . file
+schedule order oral_argument motion consolidate v reschedule pm oral_argument pm
 
 
 
-oppositionresponse motion motion amendcorrect . document file .
+oppositionresponse motion motion amendcorrect
 
 
 
 
 
 
-order .in view importance issue schedule hear invite comment supplemental special report . order serve supplemental special report order pro se post electronic supplemental report order administrator website conduct hear issue raise supplemental report courtroom pearl street . individual wish address hear notify . file send .
+order view importance schedule hear invite comment supplemental special report order serve supplemental special report order pro se post electronic supplemental report order administrator website conduct hear raise supplemental report courtroom pearl street individual wish address hear notify associate send
 
 
 
-endorsed_letter_address iii kind enough accommodate scheduling problem develop agree conduct schedule argument abovecaptioned instead . endorsement application grant part . hear argument motion . file
-setreset deadline motion certify . motion amendcorrect . motion hearing pm . associate
-file error electronic filing nonecf motion report recommendation special . document file . file . .
-note refile document nonecf error . note manually refile document objector comment supplemental special report . . file
+endorsed_letter_address mr kind enough accommodate scheduling problem develop agree conduct schedule argument abovecaptioned instead endorsement grant part hear argument motion
+setreset deadline motion certify motion amendcorrect motion hearing pm associate
+electronic nonecf motion report recommendation special
+note refile nonecf note manually refile objector comment supplemental special report associate
 
 
 
-hold iii .
+hold pm
 
 
 
 
 
 
-hold iii .
+hold
 
 
 
 
-order grant motion file supplemental recommend denial priceline.com . good cause show motion file supplemental recommend denial support grant . file
-. transmit order unsealing document . file
+order grant motion supplemental recommend denial pricelinecom good cause show motion supplemental recommend denial support grant
+transmit order unsealing associate
 
 
-hold pm iii .
+hold pm
 
 
 
 
-endorsed_letter_address also move file several support paragraph confidentiality order currency conversion fee antitrust litigation mdl applicable order paragraph individual_practice . accordance confidentiality order propose redact confidential publicly file version . endorsement application grant . file unredacted support redacted version public . order .
-document .
+endorsed_letter_address also move several support paragraph confidentiality order currency conversion fee antitrust litigation mdl applicable order paragraph individual_practice accordance confidentiality order propose redact confidential publicly version endorsement grant unredacted support redacted version public order
 
 
 
-local civil rule . document file .
 
-schedule order oral_argument schedule reschedule a.m .
+local civil rule
 
+schedule order oral_argument schedule reschedule
 
 
 
-hold iii .
 
-rule . document file .
+hold
 
+rule
 
-document .
 
 
 
@@ -1241,24 +1239,24 @@ document .
 
 
 
-motion . document file .
 
 
+motion
 
-setreset hearing fairness hearing courtroom pearl street .
 
 
-motion certification u.s.c . . document file
+setreset hearing fairness hearing courtroom pearl street
 
-order receive attached letter distribution check bounce . immediate inquiry explanation forthwith . file thk . .
 
-letter_address propose motion schedule . document file .
+motion certification usc inc
 
+order receive attached letter distribution check bounce immediate inquiry explanation forthwith thk
 
+letter_address propose motion schedule
 
-letter_address consent consolidation . document file
 
 
+letter_address consent consolidation
 
 
 
@@ -1268,18 +1266,18 @@ letter_address consent consolidation . document file
 
 
 
-affidavit jr. c.p.a . administration . document file . file
 
 
+affidavit jr cpa administration
 
 
 
-motion final approval allocation plan . document file wachsmuth.filed associate
 
-affidavit jr. c.p.a . administration . document file . file
-motion award fee expense . document file wachsmuth.filed associate
 
+motion final approval allocation plan wachsmuthfiled associate
 
+affidavit jr cpa administration
+motion award fee expense wachsmuthfiled associate
 
 
 
@@ -1287,28 +1285,28 @@ motion award fee expense . document file wachsmuth.filed associate
 
 
 
-order authorizing bring list electronic equipment trial begin .
 
-order receive attached letter . order forward . file
 
+order authorizing bring list electronic equipment trial begin
 
+order receive attached letter order forward
 
 
-order receive attached letter . address issue raise therein . file thk
 
 
+order receive attached letter_address raise therein thk
 
 
-order received motion empanel ofan advisory jury determine oral_argument unnecessary . oral_argument schedule cancel motion . file thk
 
 
+order received motion empanel ofan advisory jury determine oral_argument unnecessary oral_argument schedule cancel motion thk
 
 
 
 
-endorsed_letter_address iii pay week need paid due bill . endorsement application deny . order . file thk
 
 
+endorsed_letter_address pay week need paid due bill endorsement deny order thk
 
 
 
@@ -1346,9 +1344,9 @@ endorsed_letter_address iii pay week need paid due bill . endorsement applicatio
 
 
 
-motion_limine . document file
 
 
+motion_limine
 
 
 
@@ -1359,18 +1357,20 @@ motion_limine . document file
 
 
 
-.
 
-endorsed_letter_address iii yesterday meet confer call inform intend file brief friday paragraph vi.b.iv total . could indicate letter file ? endorsement application grant . file
-memo endorse authorize bring general purpose compute device cell phone laptop computer . 
+
+
+
+endorsed_letter_address yesterday meet confer call inform intend brief friday paragraph vibiv total could indicate letter ? endorsement grant
+memo endorse authorize bring general purpose compute device cell phone laptop computer
 
 
 
 
 
 setreset deadline setreset hearing
-motion motion_limine . document file . merrill
-motion_limine . document file
+motion motion_limine merrill
+motion_limine inc
 
 
 
@@ -1382,21 +1382,14 @@ motion_limine . document file
 
 
 
-motion_limine refiled via per order dec . document file .
+motion_limine refiled via per order dec
 
 
 
 
 
 
-note refile document nonecf document error . note document . . document file via . file support oppose document .
-
-
-
-
-
-
-
+note refile nonecf note via support oppose
 
 
 
@@ -1410,12 +1403,19 @@ note refile document nonecf document error . note document . . document file via
 
 
 
-order . trial conclude schedule establish . proposed finding_conclusion_law posttrial memoranda . responsive finding_conclusion_law oppose memoranda . argument hear a.m .
-revise_schedule order proposed finding_conclusion_law posttrial memoranda . responsive finding_conclusion_law oppose memoranda . argument hear .
 
 
-propose_finding_conclusion_law . document file .
-propose_finding_conclusion_law . document file
+
+
+
+
+
+order trial conclude schedule establish proposed finding_conclusion_law posttrial memoranda responsive finding_conclusion_law oppose memoranda closing argument hear
+revise_schedule order proposed finding_conclusion_law posttrial memoranda responsive finding_conclusion_law oppose memoranda argument hear
+
+
+propose_finding_conclusion_law
+propose_finding_conclusion_law inc
 
 
 
@@ -1453,18 +1453,15 @@ terminate deadline
 
 
 
-possibly .
-.
-stand order pilot_project management technique complex civil southern . inclusion_pilot_project management technique unless assign determines otherwise . inclusion_pilot_project mdl nature suit category . preside otherwise qualify inclusion_pilot_project nevertheless inclusion_pilot_project issue order pilot_project . description pilot_project procedure order .
+possibly
 
-
-.
-stand order m10468 . original stand order . document . .
-
-letter_address designation lead . document file . 
+stand order pilot_project management technique complex civil southern inclusion_pilot_project management technique unless determines otherwise inclusion_pilot_project mdl nature suit category preside otherwise qualify inclusion_pilot_project nevertheless inclusion_pilot_project order pilot_project description pilot_project procedure order
 
 
 
+stand order m10468 original stand order
+
+letter_address designation lead
 
 
 
@@ -1473,124 +1470,126 @@ letter_address designation lead . document file .
 
 
 
-. affiliate . document file .
 
 
 
-letter_address joint letter . document file . 
+affiliate
 
 
 
-
-
-
-
-file error electronic filing nonecf document status_report . order document file . .
+letter_address joint letter
 
 
 
 
-letter_address propose protective order . document file .
-letter_address propose protective order . document file .
-amend letter_address propose protective order . document file .
-letter_address schedule production loan tape . document file .
+
+
+
+electronic nonecf status_report order
+
+
+
+
+letter_address propose protective order
+letter_address propose protective order
+amend letter_address propose protective order
+letter_address schedule production tape
 protective order procedure_govern_handle_confidential
 
 
 
-letter_address update loan tape discovery . document file .
-endorsed_letter_address status letter update loan tape discovery . endorsement responsive letter .
+letter_address update tape discovery
+endorsed_letter_address status letter update tape discovery endorsement responsive letter
 
 
-joint letter_address loan tape discovery . document file .
+joint letter_address tape discovery
 
-letter_address protective order . document file .
+letter_address protective order
 stipulate amend protective order procedure_govern_handle_confidential
 
 
 
 
 
-certify true mdl order mdl panel deny transfer .that motion . transfer deny .
-letter_address rule subpoena . document file .
+certify true mdl order mdl panel deny transfer motion transfer deny
+letter_address rule subpoena
 
 
-certify true mdl order mdl panel deny transfer .that motion . transfer kansa deny .
-letter_address coordination discovery scheduling . document file .
-letter_address coordination discovery scheduling . document file .
+certify true mdl order mdl panel deny transfer motion transfer kansa deny
+letter_address coordination discovery schedule
+letter_address coordination discovery schedule
 
-order issue coordination among kansa california specifically file accordance scheduling order concurrently judicial officer list . order communication discovery dispute kansa california exceed twopages length concurrently judicial officer list . order unless otherwise specify file aforementioned accordance individual_practice judicial officer .
+order coordination among kansa california specifically accordance scheduling order concurrently judicial officer list ordered communication discovery dispute kansa california exceed twopages length concurrently judicial officer list order unless otherwise specify aforementioned accordance individual_practice judicial officer
 
 
-letter_address filing propose order . document file .
-brief letter . document file .
-status_report . coordination discovery across . document file . 
-letter_address protocol . document file .
-letter_address extending deadline search term custodian repository . document file .
-letter_address protective order across . document file .
-brief letter propose discovery protocol . document file . g order depo protocol h fhfa excerpt order j fhfa excerpt k schedule order l revise eso n fhfa conf excerpt
-endorsed_letter_address letter . respectfully propose report state reach search protocols kansa california necessary area area impasse . endorsement grant .
+letter_address propose order
+brief letter
+status_report coordination discovery across
+letter_address
+letter_address extending deadline search term custodian repository
+letter_address protective order across
+brief letter propose discovery g order depo h fhfa excerpt order j fhfa excerpt k schedule order l revise eso n fhfa conf excerpt
+endorsed_letter_address letter respectfully proposes report reach search protocols kansa california necessary area area impasse endorsement grant
 
 
 
 
-supplemental brief discovery protocol . document file .
+supplemental brief discovery
 
-letter_address lfrp . document file .
-letter_address lfrp . document file .
-letter_address loan file reunderwriting procedure . document file . 
-motion_limine admit statistical sampling testimony . document file .
+letter_address lfrp
+letter_address lfrp
+letter_address reunderwriting procedure
+motion_limine admit statistical sample testimony
 
 
 
-order loan file reunderwriting protocol . 
-order discovery protocol . 
-order protocol production data . 
-protective order . 
-status_report . report informal discovery document file .
-status_report . negotiation discovery credit suisse document file .
-letter_address discovery dispute common . document file . 
+order reunderwriting
+order discovery
+order production data
+protective order
+status_report report informal discovery
+status_report negotiation discovery credit suisse
+letter_address discovery dispute common
 
-order continue meetandconfer process next week resolve narrow outstanding dispute issue . report due . order promptly engage meetandconfer process good faith effort reach narrow area disagreement . order supersede thus need . order discovery protocol application dispute discovery file lead . application dispute apply few file well applies . .
-file error deficient entry letter_address clarification provision discovery protocol . document file . .
+order continue meetandconfer process next week resolve narrow outstanding dispute report due order promptly engage meetandconfer process good faith effort reach narrow area disagreement order supersede thus need order discovery dispute discovery lead dispute apply few well applies
+deficient entry letter_address clarification provision discovery
 
-letter_address letter motion_limine admit statistical sampling testimony . document file .
+letter_address letter motion_limine admit statistical sample testimony
 
-order admission statistical sample testimony .
+order admission statistical sampling testimony
 
 
 
-status_report . negotiation discovery credit suisse document file .
+status_report negotiation discovery credit suisse
 
 
 
 
 
-order show_cause affirmative defense base alleged failure name indispensable . . order show_cause deadline join . ordered limit singlespaced letter .
-order reviewed .
-order . confer least burdensome way still effective locate produce abovedescribed document relevant approximately % loan underlying securitization question . dispute . order refile letter without redaction . 
-letter_address order show_cause deadline join actions.. document file . 
-order complete production thirdparty extend . 
+order show_cause affirmative defense base alleged failure name indispensable order show_cause deadline join order limit singlespaced letter
+order reviewed
+order confer least burdensome way still effective locate produce abovedescribed relevant approximately % underlying securitization question dispute order refile letter without redaction
+letter_address order show_cause deadline join
+order complete production thirdparty extend
 
-letter_address update production thirdparty . document file . 
-order .the complete production thirdparty extend
-letter_address advise status order indispensible . document file .
-amend letter_address indispensable . document file .
-order plead affirmative defense base alleged failure name indispensable .ordered affirmative defense assert abovecaptioned base alleged failure name indispensable stricken . order preclude assert affirmative defense fail join indispensable unless demonstrate defense base subsequently acquire promptly advise .
-status_report . status identification production loan file guideline sample loan document file . 
+letter_address update production thirdparty
+order complete production thirdparty extend
+letter_address advise status order indispensible
+amend letter_address indispensable
+order plead affirmative defense base alleged failure name indispensable ordered affirmative defense assert abovecaptioned base alleged failure name indispensable stricken ordered preclude assert affirmative defense fail join indispensable unless demonstrate defense base subsequently acquire promptly advise
+status_report status identification production guideline sample
 
 
 
-document .
-order ten deposition group except deposition group . deposition limit . ordered collectively deposition credit union deposition . deposition limit except collectively twoday deposition deponent credit union . .
 
+order ten deposition group except deposition group deposition limit order collectively deposition credit union deposition deposition limit except collectively twoday deposition deponent credit union
 
-letter_address motion_limine . document file .
 
+letter_address motion_limine
 
 
-order order status_report collection group sample loan file . ordered status_report collection group sample loan file .
 
+order order status_report collection group sample order status_report collection group sample
 
 
 
@@ -1599,85 +1598,82 @@ order order status_report collection group sample loan file . ordered status_rep
 
 
 
-order order next status_report loan file reunderwriting protocol due . subsequent status_report due every week thereafter .
 
-document .
+order order next status_report reunderwriting due subsequent status_report due every week thereafter
 
-letter_address discovery dispute involve production . document file .
-letter_address letter discovery dispute involve production . document file .
 
 
+letter_address discovery dispute involve production
+letter_address letter discovery dispute involve production
 
 
-endorsed_letter_address filing . endorsement grant .
 
-document .
-letter_address confirmation filing . document file .
-letter_address letter . document file .
 
-letter_address loan file reunderwriting protocol . document file .
+endorsed_letter_address endorsement grant
 
 
-letter_address letter . document file . 
+letter_address confirmation
+letter_address letter
 
+letter_address reunderwriting
 
-order order identify cdo lawsuit involve rmbs coordinate officer employee extent entity sponsor underwriter cdo lawsuit identity deponent cdo lawsuit also custodian coordinated number deponent cdo lawsuit . ordered meet confer disclosure bring dispute attention procedure .
-letter_address joint status_report disclosure . document file .
 
+letter_address letter
 
 
+order order identify cdo lawsuit involve rmbs coordinate officer employee extent entity sponsor underwriter cdo lawsuit identity deponent cdo lawsuit also custodian coordinated number deponent cdo lawsuit ordered meet confer disclosure bring dispute attention procedure
+letter_address joint status_report disclosure
 
 
 
 
-order disclose loan sample loan loan within securitization intend reunderwrite identify securitizations draw state purpose reunderwriting . document order .
-document .
 
 
 
-order motion pertaining coordinate implicate motion convey judicial officer motion assign stand ready willing accept transfer motion . also convey transfer motion effect transfer motion hon . southern whereafter rule upon consultation among cote andor . order promptly transfer discovery file coordinate litigation motion dispute . ordered also convey judicial officer motion address discovery protocol order coordinated mechanisms place resolve dispute arise advance deposition . 
+order disclose sample within securitization intend reunderwrite identify securitizations draw purpose reunderwriting order
 
 
 
 
+order motion pertaining coordinate implicate motion convey judicial officer motion stand ready willing accept transfer motion also convey transfer motion effect transfer motion hon southern whereafter rule upon consultation among cote andor order promptly transfer discovery coordinate litigation motion dispute ordered also convey judicial officer motion address discovery order coordinated mechanisms place resolve dispute arise advance deposition
 
 
 
 
-order produce demand compensation current former compensation loveless document demand compensation . order produce loveless thirty minute deposition document .
 
 
 
-letter_address schedule kansas . document file .
 
-letter_address requesting order adopt propose schedule kansa appendix a.. document file .
+order produce demand compensation current former compensation loveless demand compensation order produce loveless thirty minute deposition
 
 
 
+letter_address schedule kansas
 
+letter_address requesting order adopt propose schedule kansa appendix
 
 
-ordered application u.s. central deposition deny .
-order grant fifteen minute deposition . consider order produce loveless total fortyfive minute deposition . 
 
 
 
-order relevant document edt today . corelogic meet confer noon edt . event corelogic contend unable comply otherwise object subpoena letter edt . 
-schedule order responsive letter file a.m. edt . 
 
+ordered u central deposition deny
+order grant fifteen minute deposition consider order produce loveless total fortyfive minute deposition
 
 
 
+order relevant pm edt today corelogic meet confer noon edt event corelogic contend unable comply otherwise object subpoena letter pm edt
+schedule order responsive letter edt
 
 
 
 
 
-joint letter_address schedule entry . . document file . 
 
 
 
 
+joint letter_address schedule entry
 
 
 
@@ -1705,153 +1701,137 @@ joint letter_address schedule entry . . document file .
 
 
 
-document .
-document .
-document .
-document .
-document .
-document .
-document .
 
-order filing .the accept file without hard reflect original ink signature initial agent document applicable motion deem timely file .
 
 
-letter_address memo_endorsement brief schedule . document file .
 
-file error deficient entry rule . document file . .
 
 
-rule . document file .
 
 
-rule . document file .
 
 
-rule . document file . 
 
 
+order accept without hard reflect original ink signature initial agent applicable motion deem timely
 
 
-rule . document file .
+letter_address memo_endorsement brief schedule
 
+deficient entry rule
 
 
+rule
 
-rule . document file .
-rule . document file . 
 
+rule
 
-rule . document file .
 
+rule
 
 
 
-document .
 
-delete document . delete document number rule . document incorrectly file .
+rule
 
-document .
 
 
-rule . document file .
 
-document .
-document .
+rule
+rule
 
 
+rule
 
-document .
-document .
 
 
 
 
-rule . document file .
 
+delete delete number rule incorrectly
 
 
 
 
+rule
 
 
 
-rule . document file .
 
 
-rule . document file .
 
-rule . document file .
 
-rule . document file .
 
 
-rule . document file .
 
 
-rule . document file .
 
-file error duplicate entry rule . document file . .
-rule . document file .
+rule
 
 
-rule . document file .
 
 
-rule . document file .
 
-rule . document file . 
 
 
-rule . document file . 
 
+rule
 
 
-rule . document file .
+rule
 
+rule
 
+rule
 
-rule . document file .
 
+rule
 
-rule . document file .
 
-letter_address order . document file .
-endorsed_letter_address continue meet confer fee cost pay status update . endorsement order .
+rule
 
+duplicate entry rule
+rule
 
 
-letter_address fee cost . document file .
-endorsed_letter_address rom fee cost . endorsement .
+rule
 
 
-possibly .
-. document file certain underwriter . .
-.
+rule
 
-decline . decline wheel assignment .
-.
+rule
 
-. document file g.c . p.c..
 
+rule
 
 
 
+rule
 
 
 
+rule
 
 
+rule
 
+letter_address order
+endorsed_letter_address continue meet confer fee cost pay status update endorsement order
 
 
 
+letter_address fee cost
+endorsed_letter_address rom fee cost endorsement
 
-accept .
 
+possibly
+certain underwriter
 
 
+decline decline assignment
 
 
+gc pc
 
 
 
@@ -1862,15 +1842,14 @@ accept .
 
 
 
-accept .
 
 
 
 
+accept
 
 
 
-longer .
 
 
 
@@ -1878,51 +1857,43 @@ longer .
 
 
 
-. document file ambassador
 
 
 
 
-. document file
 
+accept
 
 
 
 
-. document file . office .
 
 
 
+longer
 
 
-. document file .
 
 
 
 
 
+ambassador inc
 
 
 
-. document file
-. document file .
 
+inc
 
-. document file
 
-. document file .
-. document file
 
-. document file .
-. document file .
 
 
-. document file
+pc office pc
 
 
 
 
-. document file
 
 
 
@@ -1933,33 +1904,32 @@ longer .
 
 
 
+inc
 
 
 
+lp inc
 
 
+inc
 
 
 
 
 
+inc
 
 
 
 
+inc
 
 
-consent change . document file ambassador
-endorsed_letter_address rule local rule parte letter advice . proceed rule .
-order new mc caption property business loss litigation create . currently part mc transfer new mc say order reorganization ptffs committee reorganization defts committee miscellaneous herein . original document file . doc . .
-accept .
-consolidated member consolidate .
 
 
 
 
 
-motion crossclaims rule . document file
 
 
 
@@ -1968,7 +1938,37 @@ motion crossclaims rule . document file
 
 
 
-. document file l.l.p..
+
+
+
+
+
+
+
+
+
+
+
+consent change ambassador inc
+endorsed_letter_address rule local rule parte letter advice proceed rule
+order new mc caption property business loss litigation create currently part mc transfer new mc say order reorganization ptffs committee reorganization defts committee miscellaneous herein original doc
+accept
+consolidated member consolidate
+
+
+
+
+
+motion crossclaims rule
+
+
+
+
+
+
+
+
+llp
 
 order regulate discovery instruction brief schedule
 
@@ -1986,9 +1986,8 @@ order regulate discovery instruction brief schedule
 
 
 
-. document file
-correct hold . .
 
+correct hold
 
 
 
@@ -2001,16 +2000,16 @@ correct hold . .
 
 
 
-note refile document nonecf error . note manually refile document motion reargument document . . .
 
+note refile nonecf note manually refile motion reargument
 
 
 
 
 
 
-management order establishment structure efficient prosecution underlie caption litigation handle involve world trade center ground separate discovery procedure within schedule filing pleading discovery involve world trade center say order wtc ground litigation aviation discovery wtc ground liaison schedule . document . file
 
+management order establishment structure efficient prosecution underlie caption litigation handle involve world trade center ground separate discovery procedure within schedule pleading discovery involve world trade center say order wtc ground litigation aviation discovery wtc ground liaison schedule
 
 
 
@@ -2061,15 +2060,15 @@ management order establishment structure efficient prosecution underlie caption 
 
 
 
-order admission practice pro_hac_vice purs . local civil rule admit pro_hac_vice bar purpose represent nonparty subpoena recipient consolidated . file . document cv_cv_cv_cv cv_cv_cv_cv cv_cv_cv_cv cv_cv_cv_cv cv_cv cv .
 
+order admission practice pro_hac_vice purs local civil rule admit pro_hac_vice bar purpose represent nonparty subpoena recipient consolidated relates cv_cv_cv_cv cv_cv_cv_cv cv_cv_cv_cv cv_cv_cv_cv cv_cv cv
 
 
 
 
 
-note nonecf error . note manually refile document . . per order document . longer ecf . original document file manually . .
 
+note nonecf note manually refile per order longer ecf original manually
 
 
 
@@ -2081,9 +2080,8 @@ note nonecf error . note manually refile document . . per order document . longe
 
 
 
-admission . transmit memo_endorsement admission update .
 
-.
+admission transmit memo_endorsement admission update
 
 
 
@@ -2122,20 +2120,20 @@ admission . transmit memo_endorsement admission update .
 
 
 
-hold .
 
 
+hold pm
 
 
 
-counter document file . file .
 
 
+counter
 
 
-cross motion sever punitive . document file l.p..filed associate .
 
 
+cross motion sever punitive lpfiled associate
 
 
 
@@ -2176,11 +2174,11 @@ cross motion sever punitive . document file l.p..filed associate .
 
 
 
-deadlineshearings oral_argument pm .
 
-order intend fix discovery schedule dispositive motion .
 
+deadlineshearings oral_argument pm
 
+order intend fix discovery schedule dispositive motion
 
 
 
@@ -2199,33 +2197,33 @@ order intend fix discovery schedule dispositive motion .
 
 
 
-. . document file development corp..
 
 
-. . document file corp..
+development corp
 
 
+corp
 
 
 
 
-motion protective order preclude deposition former chairman ceo . document file inc..filed .
 
 
+motion protective order preclude deposition former chairman ceo incfiled
 
-file error deficient entry rule . document file . file . .
 
 
+deficient entry rule lp associate
 
-rule . document file . file .
 
 
+rule lp associate
 
-hold .
 
-rule . document file . .
 
+hold
 
+rule ho
 
 
 
@@ -2233,37 +2231,37 @@ rule . document file . .
 
 
 
-counter rule . document file
 
-counter rule . document file
 
+counter rule inc
 
+counter rule inc
 
 
 
 
-application letter rogatory
 
 
+letter rogatory inc
 
 
-deadlineshearings deposition due . associate
 
 
-order admit pro_hac_vice . admitted pro_hac_vice . file
-admission . transmit order admit pro_hac_vice admission update . file
+deadlineshearings deposition due
 
 
+order admit pro_hac_vice admitted pro_hac_vice
+admission transmit order admit pro_hac_vice admission update
 
 
-rule . document file l.p.. file
 
 
+rule lp
 
 
-rule . document file
 
 
+rule
 
 
 
@@ -2283,16 +2281,16 @@ rule . document file
 
 
 
-counter rule . document file .
-counter rule . document file .
 
 
+counter rule
+counter rule
 
 
 
-rule . document file file
 
 
+rule inc
 
 
 
@@ -2311,9 +2309,9 @@ rule . document file file
 
 
 
-order assert specific crossclaims contribution contractual andor common law indemnity within thirty order . failure assert file result dismissal prejudice
 
 
+order assert specific crossclaims contribution contractual andor common law indemnity within thirty order failure assert result dismissal prejudice
 
 
 
@@ -2324,11 +2322,11 @@ order assert specific crossclaims contribution contractual andor common law inde
 
 
 
-endorsed_letter_address joint individual rule . endorsement argument motion proceed schedule pm .
 
-hold .
 
+endorsed_letter_address joint individual rule endorsement argument motion proceed schedule pm
 
+hold pm
 
 
 
@@ -2351,20 +2349,20 @@ hold .
 
 
 
-bill cost document file
 
 
+bill cost inc
 
 
 
 
 
 
-bill cost document file l.p..
 
-motion hold .
 
+bill cost lp
 
+motion hold
 
 
 
@@ -2373,21 +2371,19 @@ motion hold .
 
 
 
-cost tax usca mandate usca number . favor favor appellee office . favor .
 
 
+cost tax usca mandate usca number favor favor appellee office pc favor
 
 
-civil_cover_sheet file .
-. . document file . .
 
 
+civil_cover_sheet
 
-. u.s.c . section . . p. notify consent proceed united state . wish consent access necessary link http nysd.uscourts.govforms.php .
-.
 
 
 
+usc section r p notify consent proceed united wish consent access necessary link http nysduscourtsgovformsphp
 
 
 
@@ -2405,9 +2401,6 @@ civil_cover_sheet file .
 
 
 
-.
-. document file . .
-.
 
 
 
@@ -2418,10 +2411,8 @@ civil_cover_sheet file .
 
 
 
-. document file .
 
 
-confidentiality order procedure_govern treatment document disclose
 
 
 
@@ -2430,153 +2421,139 @@ confidentiality order procedure_govern treatment document disclose
 
 
 
+confidentiality order procedure_govern treatment disclose
 
 
-rule . document file .
 
 
 
-rule . document file .
 
 
 
 
 
+rule
 
-counter rule . document file .
 
 
+rule
 
 
 
-rule . document file .
 
 
 
+counter rule
 
 
-rule . document file .
 
 
 
+rule
 
-counter rule . document file .
 
 
 
 
-counter rule . document file .
+rule
 
 
 
 
-minute_entry_hold . jury_trial .
+counter rule
 
 
-hold .
 
-brief support motion strike jury demand . document file .
-brief support motion strike jury demand . document file .
 
+counter rule
 
 
 
 
+jury_trial
 
 
+hold
 
-rule disclosure.document file .
-rule disclosure.document file .
-motion_limine . document file . .
+brief support motion strike jury demand
+brief support motion strike jury demand
 
 
-motion_limine preclude introduce evidence contract . document file . .
 
 
-motion_limine preclude introduce evidence contradict position corporate designee depose rule . document file . .
 
 
-motion_limine preclude testimony . document file . .
 
 
+rule disclosuredocument
+rule disclosuredocument
+motion_limine
 
 
+motion_limine preclude introduce evidence contract
 
-motion_limine preclude introduce evidence pertain reinsurers . document file . .
 
+motion_limine preclude introduce evidence contradict position corporate designee depose rule
 
-motion_limine . document file . .
 
+motion_limine preclude testimony
 
 
-order camera confidentiality decision award point reach procedural issue order forthwith furnish confidentiality decision award reason term list herein .
 
 
 
+motion_limine preclude introduce evidence pertain reinsurers
 
-propose jury instruction . document file .
 
+motion_limine
 
 
 
+order camera confidentiality decision award point reach procedural order forthwith furnish confidentiality decision award reason term list herein
 
 
 
 
+propose jury instruction
 
 
-propose jury instruction . document file .
 
-propose voir dire question . document file .
-propose voir dire question . document file .
 
 
-minute_entry_hold jury_trial begin .
-minute_entry_hold jury_trial_hold .
-minute_entry_hold jury_trial_hold .
-trial . document file .
-minute_entry_hold jury_trial_hold .
-minute_entry_hold jury_trial_hold continued .
-minute_entry_hold jury_trial_hold .
-minute_entry_hold jury_trial_hold .
-minute_entry_hold jury_trial_hold .
-minute_entry_hold jury_trial_hold .
-minute_entry_hold jury_trial_hold .
-minute_entry_hold jury_trial_hold .
-jury instruction .
-minute_entry_hold jury_trial_hold .
-jury verdict . 30th jury verdict . contest issue yes .
 
-. rule deposition objections.document file .
 
-. document file .
 
 
 
+propose jury instruction
 
+propose voir dire question
+propose voir dire question
 
 
+jury_trial begin
 
 
+trial
 
+continue
 
 
 
 
 
 
+jury instruction
 
-supersedeas bond post .
+jury verdict 30th jury verdict contest yes
 
+ruling deposition objectionsdocument
 
 
 
 
 
-hold .
 
-hold .
-hold .
 
 
 
@@ -2589,20 +2566,23 @@ hold .
 
 
 
+supersedeas bond post
 
 
 
 
 
 
+hold
 
+hold
+hold
 
 
 
 
 
 
-usca_mandateorder usca mandate .
 
 
 
@@ -2613,20 +2593,16 @@ usca_mandateorder usca mandate .
 
 
 
-hand deliver certified finding_conclusion .
-assistant . transmit finding_conclusion_law assistant processing .
 
 
 
-usca_mandateorder usca mandate .
 
 
-hold .
 
 
-motion taxation cost . document file .
 
 
+usca_mandateorder usca mandate
 
 
 
@@ -2637,32 +2613,28 @@ motion taxation cost . document file .
 
 
 
+hand deliver certified finding_conclusion
+assistant transmit finding_conclusion_law assistant processing
 
 
 
+usca_mandateorder usca mandate
 
 
+hold
 
 
-.
-.
-stand order pilot_project management technique complex civil southern . inclusion_pilot_project management technique unless assign determines otherwise . inclusion_pilot_project mdl nature suit category . preside otherwise qualify inclusion_pilot_project nevertheless inclusion_pilot_project issue order pilot_project . description pilot_project procedure order .
-document .
+motion taxation cost
 
 
-. . document file .
-document .
 
 
 
-document .
 
 
-document .
 
 
 
-document .
 
 
 
@@ -2674,10 +2646,9 @@ document .
 
 
 
+stand order pilot_project management technique complex civil southern inclusion_pilot_project management technique unless determines otherwise inclusion_pilot_project mdl nature suit category preside otherwise qualify inclusion_pilot_project nevertheless inclusion_pilot_project order pilot_project description pilot_project procedure order
 
 
-letter_address background abovereferenced transfer . document file
-letter_address jr. responding letter send ostensibly background . document file .
 
 
 
@@ -2687,7 +2658,6 @@ letter_address jr. responding letter send ostensibly background . document file 
 
 
 
-document .
 
 
 
@@ -2706,12 +2676,12 @@ document .
 
 
 
+letter_address background abovereferenced transfer
+letter_address jr responding letter send ostensibly background
 
 
 
 
-document .
-document .
 
 
 
@@ -2723,9 +2693,6 @@ document .
 
 
 
-document .
-document .
-document .
 
 
 
@@ -2735,15 +2702,10 @@ document .
 
 
 
-retrieve document retrieve .
-dispose document destroy since file retrieve within indicate . destroy .
 
 
-.
 
-order grant ifp application cropse ave . apt . brooklyn .
 
-.
 
 
 
@@ -2773,10 +2735,13 @@ order grant ifp application cropse ave . apt . brooklyn .
 
 
 
+retrieve retrieve
+dispose destroy since retrieve within indicate sealed destroy
 
 
 
 
+order grant ifp cropse ave apt brooklyn
 
 
 
@@ -2784,7 +2749,6 @@ order grant ifp application cropse ave . apt . brooklyn .
 
 
 
-letter_address clarify last order . document file . wellington .
 
 
 
@@ -2801,7 +2765,6 @@ letter_address clarify last order . document file . wellington .
 
 
 
-assistant . transmit order assistant processing .
 
 
 
@@ -2810,12 +2773,8 @@ assistant . transmit order assistant processing .
 
 
 
-assistant . transmit order assistant processing .
-order cropse ave. apt . brooklyn .
 
 
-assistant . transmit order assistant processing .
-order deadline cropse ave. apt . brooklyn .
 
 
 
@@ -2825,18 +2784,16 @@ order deadline cropse ave. apt . brooklyn .
 
 
 
+letter_address clarify last order wellington
 
 
 
 
-letter_address remove email address list n't computer . document file . wellington .
 
 
 
 
-letter_address requesting pause discovery order mediation . document file . wellington .
 
-letter_address order . document file .
 
 
 
@@ -2844,16 +2801,59 @@ letter_address order . document file .
 
 
 
+assistant transmit order assistant processing
 
 
 
 
-letter_address propose discovery schedule . document file .
 
 
 
 
-.
+assistant transmit order assistant processing
+order cropse ave apt brooklyn
+
+
+assistant transmit order assistant processing
+order deadline cropse ave apt brooklyn
+
+
+
+
+
+
+
+
+
+
+
+
+
+letter_address remove email address list n't computer wellington
+
+
+
+
+letter_address requesting pause discovery order mediation wellington
+
+letter_address order
+
+
+
+
+
+
+
+
+
+
+
+letter_address propose discovery schedule
+
+
+
+
+
 
 
 
@@ -2872,19 +2872,18 @@ letter_address propose discovery schedule . document file .
 demand jury_trial
 
 
-p.m..
+pm
 
 
 
 
 
-order produce financial statments tax returnes period eye basis . .
-order number consolidate lead number purpose subsequent filing file lead number number . .
-consolidated lead .
+order produce financial statments tax returnes period eye basis
+order number consolidate lead number purpose subsequent lead number number
+consolidated lead
 
 
 
-.
 
 
 
@@ -2893,102 +2892,91 @@ consolidated lead .
 
 
 
-.
-.
 
 
-affidavit support motion order grant motion exclude . . u.s.579 testimony purport motion alternative daubert hear prior trial .
-propose_finding_conclusion_law .
-propose conclusion_law . 
-propose_finding_conclusion_law .
 
 
 
-bench_trial conclude .
-propose_finding_conclusion_law file . 
+affidavit support motion order grant motion exclude v us579 testimony purport motion alternative daubert hear prior trial
+propose_finding_conclusion_law
+propose conclusion_law
+propose_finding_conclusion_law
 
-correct finding_conclusion_law file pltff .
 
-propose conclusion_law .
 
+bench_trial conclude
+propose_finding_conclusion_law
 
-.
-.
-.
-.
+correct finding_conclusion_law pltff
 
+propose conclusion_law
 
-propose conclusion_law phase trial . . 
-propose_finding phase trial . .
-bench_trial begin continued .
-bench_trial hold continued . 
-bench_trial hold continued . 
-bench_trial hold continue .
-bench_trial hold conclude . total trial .
 
 
 
-amend propose_finding_conclusion_law phase trial .
-amend propose_finding_conclusion_law .
-supplemental propose_finding_conclusion_law w enclose compendium cite supplemental propose_finding conclusion .
 
-excepts deposition .
 
-correct amend propose_finding_conclusion_law .
 
-appendix amend propose conclusion_law phase trial .
 
-.
+propose conclusion_law phase trial
+propose_finding phase trial
+bench_trial begin continued
+bench_trial hold continued
+bench_trial hold continued
+bench_trial hold continue
+bench_trial hold conclude total trial
 
 
-.
 
+amend propose_finding_conclusion_law phase trial
+amend propose_finding_conclusion_law
+supplemental propose_finding_conclusion_law w enclose compendium cite supplemental propose_finding conclusion
 
+excepts deposition
 
+correct amend propose_finding_conclusion_law
 
+appendix amend propose conclusion_law phase trial
 
-bond sum .
 
 
 
-correct bond sum .
 
 
 
 
 
-correct supersedeas bond sum .
 
+bond sum
 
 
 
+correct bond sum
 
 
 
 
 
-usca_mandateorder .
+correct supersedeas bond sum
 
-usca_mandateorder usca order .
 
 
 
 
 
 
-hold . .
 
 
+usca_mandateorder
 
+usca_mandateorder usca order
 
 
 
 
-.
-.
-. identifying . document file
 
 
+hold
 
 
 
@@ -2996,12 +2984,11 @@ hold . .
 
 
 
-. . document file
 
 
+identifying
 
 
-hold .
 
 
 
@@ -3009,75 +2996,66 @@ hold .
 
 
 
+inc
 
 
-minute_entry_hold discovery_hear_hold .
 
 
+hold
 
-minute_entry_hold discovery_hear_hold .
 
-endorsed_letter_address agree enclose stipulated confidentiality protective order . thenature discovery agree certain modification model stipulate confidentiality protective order . modification illustrate attached redline compare enclose order model order . please let u know question enclose order werespectfully approval . endorsement concerned para . propose order amend extend confidentiality testimony deposition testimony . understanding confidential use course trial lose prior protection . either para . need reword someone need explain understanding wrong .
-stipulate confidentiality protective order procedure_govern_handle_confidential .
-minute_entry_hold discovery_hear_hold .
 
-hold .
-minute_entry_hold discovery_hear_hold .
 
-minute_entry_hold discovery_hear_hold .
 
-hold .
-minute_entry_hold discovery_hear_hold .
-hold .
 
 
 
 
-minute_entry_hold discovery_hear_hold .
 
-hold .
 
 
 
 
 
-hold .
+endorsed_letter_address agree enclose stipulated confidentiality protective order thenature discovery agree certain modification model stipulate confidentiality protective order modification illustrate attached redline compare enclose order model order please let u know question enclose order werespectfully approval endorsement concerned para proposed order amend extend confidentiality testimony deposition testimony understanding confidential use course trial lose prior protection either para need reword someone need explain understanding wrong
+stipulate confidentiality protective order procedure_govern_handle_confidential
 
 
+hold
 
 
 
-minute_entry_hold discovery_hear_hold .
-hold .
 
+hold
 
+hold pm
 
 
 
 
-hold .
 
 
+hold pm
 
 
 
 
 
+hold
 
 
 
-hold .
 
-hold .
 
 
-minute_entry_hold discovery_hear_hold .
+hold
 
 
 
 
 
 
+hold
 
 
 
@@ -3088,8 +3066,9 @@ minute_entry_hold discovery_hear_hold .
 
 
 
-minute_entry_hold discovery_hear_hold .
+hold
 
+hold
 
 
 
@@ -3097,16 +3076,12 @@ minute_entry_hold discovery_hear_hold .
 
 
 
-document .
 
 
-minute_entry_hold discovery_hear_hold .
 
 
 
 
-minute_entry_hold discovery_hear_hold .
-order exchange proposed deposition list . depose thirty fifteen hour . deposition order . send .
 
 
 
@@ -3119,7 +3094,6 @@ order exchange proposed deposition list . depose thirty fifteen hour . depositio
 
 
 
-minute_entry_hold discovery_hear_hold .
 
 
 
@@ -3129,11 +3103,10 @@ minute_entry_hold discovery_hear_hold .
 
 
 
-document .
-minute_entry_hold discovery_hear_hold .
 
 
 
+order exchange proposed deposition list depose thirty fifteen hour deposition order send
 
 
 
@@ -3146,7 +3119,34 @@ minute_entry_hold discovery_hear_hold .
 
 
 
-endorsed_letter_address subject approval agree schedule deposition april2012 cutoff . endorsement proposal acceptable .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+endorsed_letter_address subject approval agree schedule deposition april2012 cutoff endorsement proposal acceptable
 
 
 
@@ -3161,40 +3161,7 @@ supplemental stipulate confidentiality protective order procedure_govern_handle_
 
 
 
-discovery order camera minute meet hold previouslyredacted portion disclose herein . fax .
-
-
-
-
-
-
-
-
-minute_entry_hold discovery_hear_hold .
-
-
-
-
-revise_schedule order complete discovery . complete deposition . discovery complete . .
-endorsed_letter_address clarification rule ability continue deposition messrs. . endorsement point ii clearer win !
-
-
-
-
-
-discovery order letterrequest produce rule testify deny .
-
-
-
-
-
-
-
-
-
-
-revise_schedule order revise_schedule order amends relevant provision civil management plan schedule order revise_schedule order order . deposition due . discovery due . discovery due . .
-setreset deadline discovery due .
+discovery order camera minute meet hold previouslyredacted portion disclose herein fax
 
 
 
@@ -3207,23 +3174,56 @@ setreset deadline discovery due .
 
 
 
-third revise_schedule order disclosure_federal rule civil_procedure_serve . disclosure_federal rule civil_procedure_serve . rebuttal report serve . discovery due .
-minute_entry_hold discovery_hear_hold .
 
-
-fourth revise_schedule order fourth revise_schedule order . fourth revise_schedule order amends relevant provision civil management plan schedule order revise_schedule order third revise_schedule order disclosure_federal rule civil_procedure_serve . disclosure_federal rule civil_procedure_serve . rebuttal report serve . discovery complete . demonstrative use illustrate testimony need disclose report disclose agree upon partied order .
-
-
-fifth revise_schedule order fifth revise_schedule order . fifth revise_schedule order amends relevant provision ofthe civil management plan schedule order revise_schedule order third revise_schedule order fourth revise_schedule order . disclosure_federal rule civil_procedure_serve . disclosure_federal rule civil_procedure_serve . rebuttal report serve . discovery complete . demonstrative use illustrate testimony need disclose report disclose agree upon order . discovery due .
+revise_schedule order complete discovery complete deposition discovery complete
+endorsed_letter_address clarification rule ability continue deposition messrs endorsement point ii clearer win !
 
 
 
 
 
+discovery order letterrequest produce rule testify deny
 
 
-document .
-please advise abrams courtroom move thurgood marshall united state courthouse locate foley square . effective immediately place courtroom locate room foley square . contact individual rule practice available http www.nysd.uscourts.govjudgeabrams .
+
+
+
+
+
+
+
+
+revise_schedule order revise_schedule order amends relevant provision civil management plan schedule order revise_schedule order ordered deposition due discovery due discovery due
+setreset deadline discovery due
+
+
+
+
+
+
+
+
+
+
+
+
+third revise_schedule order disclosure_federal rule civil_procedure_serve disclosure_federal rule civil_procedure_serve rebuttal report serve discovery due
+
+
+
+fourth revise_schedule order fourth revise_schedule order fourth revise_schedule order amends relevant provision civil management plan schedule order revise_schedule order third revise_schedule order disclosure_federal rule civil_procedure_serve disclosure_federal rule civil_procedure_serve rebuttal report serve discovery complete demonstrative use illustrate testimony need disclose report disclose agree upon partied order
+
+
+fifth revise_schedule order fifth revise_schedule order fifth revise_schedule order amends relevant provision ofthe civil management plan schedule order revise_schedule order third revise_schedule order fourth revise_schedule order disclosure_federal rule civil_procedure_serve disclosure_federal rule civil_procedure_serve rebuttal report serve discovery complete demonstrative use illustrate testimony need disclose report disclose agree upon order discovery due
+
+
+
+
+
+
+
+
+please advise abrams courtroom move thurgood marshall united courthouse locate foley square effective immediately place courtroom locate room foley square contact individual rule practice available http wwwnysduscourtsgovjudgeabrams remains
 
 
 
@@ -3241,4 +3241,4 @@ please advise abrams courtroom move thurgood marshall united state courthouse lo
 terminate deadline
 
 
-retrieve document retrieve .
+retrieve retrieve
