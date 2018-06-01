@@ -1,9 +1,9 @@
 
-please_download_locate_website responsible_courtesy_individual_practice
+p l e a s e _ d o w n l o a d _ l o c a t e _ w e b s i t e   r e s p o n s i b l e _ c o u r t e s y _ i n d i v i d u a l _ p r a c t i c e
 
 
 
-open_check_quality_control correction
+o p e n _ c h e c k _ q u a l i t y _ c o n t r o l   c o r r e c t i o n
 
 
 
@@ -13,8 +13,8 @@ open_check_quality_control correction
 
 
 
-propose schedule order
-letter propose schedule order
+p r o p o s e   s c h e d u l e   o r d e r
+l e t t e r   p r o p o s e   s c h e d u l e   o r d e r
 
 
 
@@ -57,14 +57,14 @@ letter propose schedule order
 
 
 
-order respond letter ordered
+o r d e r   r e s p o n d   l e t t e r   o r d e r
 
 
-order respond letter motion ordered
+o r d e r   r e s p o n d   l e t t e r   m o t i o n   o r d e r
 
 
 
-letter status
+l e t t e r   s t a t u s
 
 
 
@@ -72,18 +72,18 @@ letter status
 
 
 
-reassign longer please_download_locate_website responsible_courtesy_individual_practice
+r e a s s i g n   l o n g e r   p l e a s e _ d o w n l o a d _ l o c a t e _ w e b s i t e   r e s p o n s i b l e _ c o u r t e s y _ i n d i v i d u a l _ p r a c t i c e
 
 
-status_report
+s t a t u s _ r e p o r t
 
 
 
 
 
-letter order
+l e t t e r   o r d e r
 
-letter
+l e t t e r
 
 
 
@@ -93,14 +93,14 @@ letter
 
 
 
-undeliverable decision order sender postal notation movedunknown
+u n d e l i v e r a b l e   d e c i s i o n   o r d e r   s e n d e r   p o s t a l   n o t a t i o n   m o v e   u n k n o w n
 
 
 
-please_download_locate_website responsible_courtesy_individual_practice
+p l e a s e _ d o w n l o a d _ l o c a t e _ w e b s i t e   r e s p o n s i b l e _ c o u r t e s y _ i n d i v i d u a l _ p r a c t i c e
 
 
-open_check_quality_control correction
+o p e n _ c h e c k _ q u a l i t y _ c o n t r o l   c o r r e c t i o n
 
 
 
@@ -109,7 +109,7 @@ open_check_quality_control correction
 
 
 
-schedule order hearing order show_cause reschedule courtroom south deadline effect order
+s c h e d u l e   o r d e r   h e a r   o r d e r   s h o w _ c a u s e   r e s c h e d u l e   c o u r t r o o m   s o u t h   d e a d l i n e   e f f e c t   o r d e r
 
 
 
@@ -127,29 +127,29 @@ schedule order hearing order show_cause reschedule courtroom south deadline effe
 
 
 
-reassign chief mag longer please_download_locate_website responsible_courtesy_individual_practice
+r e a s s i g n   c h i e f   m a g   l o n g e r   p l e a s e _ d o w n l o a d _ l o c a t e _ w e b s i t e   r e s p o n s i b l e _ c o u r t e s y _ i n d i v i d u a l _ p r a c t i c e
 
 
-order mediation express desire reach amicable resolution assistance question mediation process selection mediator invite contact edny adr administrator mediation complete selection mediator due ordered
-schedule order discovery discovery initiate dispositive motion practice order
+o r d e r   m e d i a t i o n   e x p r e s s   d e s i r e   r e a c h   a m i c a b l e   r e s o l u t i o n   a s s i s t a n c e   q u e s t i o n   m e d i a t i o n   p r o c e s s   s e l e c t i o n   m e d i a t o r   i n v i t e   c o n t a c t   e d n y   a d r   a d m i n i s t r a t o r   m e d i a t i o n   c o m p l e t e   s e l e c t i o n   m e d i a t o r   d u e   o r d e r
+s c h e d u l e   o r d e r   d i s c o v e r y   d i s c o v e r y   i n i t i a t e   d i s p o s i t i v e   m o t i o n   p r a c t i c e   o r d e r
 
 
 
 
 
-selection mediator select mediator mediation session place upon completion mediation mediation report find http wwwnyeduscourtsgovadrforms mediation report email robyn_weinstein nyeduscourtsgov within week mediation sessionreport mediation due
-report mediation unsettled mediation report find http wwwnyeduscourtsgovadrforms mediation report email robyn_weinstein nyeduscourtsgov within week mediation sessionmediation report due
+s e l e c t i o n   m e d i a t o r   s e l e c t   m e d i a t o r   m e d i a t i o n   s e s s i o n   p l a c e   u p o n   c o m p l e t i o n   m e d i a t i o n   m e d i a t i o n _ r e p o r t   f i n d   h t t p s   w w w   n y e d _ u s c o u r t s _ g o v   a d r f o r m s   m e d i a t i o n _ r e p o r t   e m a i l   r o b y n   w e i n s t e i n   n y e d _ u s c o u r t s _ g o v   w i t h i n   w e e k   m e d i a t i o n   s e s s i o n   r e p o r t   m e d i a t i o n   d u e
+r e p o r t   m e d i a t i o n   u n s e t t l e d   m e d i a t i o n _ r e p o r t   f i n d   h t t p s   w w w   n y e d _ u s c o u r t s _ g o v   a d r f o r m s   m e d i a t i o n _ r e p o r t   e m a i l   r o b y n   w e i n s t e i n   n y e d _ u s c o u r t s _ g o v   w i t h i n   w e e k   m e d i a t i o n   s e s s i o n   m e d i a t i o n _ r e p o r t   d u e
 
 
 
-please_download_locate_website responsible_courtesy_individual_practice
+p l e a s e _ d o w n l o a d _ l o c a t e _ w e b s i t e   r e s p o n s i b l e _ c o u r t e s y _ i n d i v i d u a l _ p r a c t i c e
 
-open_check_quality_control correction correction
+o p e n _ c h e c k _ q u a l i t y _ c o n t r o l   c o r r e c t i o n   c o r r e c t i o n
 
 
 
 
-corporate_disclosure
+c o r p o r a t e _ d i s c l o s u r e
 
 
 
@@ -160,8 +160,8 @@ corporate_disclosure
 
 
 
-propose schedule order jointly
-letter jointly minute_entry
+p r o p o s e   s c h e d u l e   o r d e r   j o i n t l y
+l e t t e r   j o i n t l y   m i n u t e _ e n t r y
 
 
 
@@ -172,10 +172,10 @@ letter jointly minute_entry
 
 
 
-status_report propose brief schedule
+s t a t u s _ r e p o r t   p r o p o s e   b r i e f   s c h e d u l e
 
 
-propose scheduling order
+p r o p o s e   s c h e d u l i n g   o r d e r
 
 
 
@@ -191,9 +191,9 @@ propose scheduling order
 
 
 
-letter nov status_report order
+l e t t e r   n o v   s t a t u s _ r e p o r t   o r d e r
 
-status_report
+s t a t u s _ r e p o r t
 
 
 
@@ -221,21 +221,21 @@ status_report
 
 
 
-unsigned order show_cause
-please_download_locate_website responsible_courtesy_individual_practice
+u n s i g n e d   o r d e r   s h o w _ c a u s e
+p l e a s e _ d o w n l o a d _ l o c a t e _ w e b s i t e   r e s p o n s i b l e _ c o u r t e s y _ i n d i v i d u a l _ p r a c t i c e
 
 
-open_check_quality_control correction
-order show_cause let deft flasr show_cause order fedrcivp rule usc final determination flsr show_cause hearing courtroom north lashann dearcy hall order
+o p e n _ c h e c k _ q u a l i t y _ c o n t r o l   c o r r e c t i o n
+o r d e r   s h o w _ c a u s e   l e t   d e f t   f l a s r   s h o w _ c a u s e   o r d e r   f e e d   r   p   r u l e   u _ c   f i n a l   d e t e r m i n a t i o n   f l s r   s h o w _ c a u s e   h e a r i n g   c o u r t r o o m   n o r t h   l a s h a n n   d e a r c y   h a l l   o r d e r
 
-rule order show_cause
+r u l e   o r d e r   s h o w _ c a u s e
 
 
 
 
-order serve order show_cause accompany via email ceo well company general email address proof hear order show_cause proceed originally schedule order winnethka
+o r d e r   s e r v e   o r d e r   s h o w _ c a u s e   a c c o m p a n y   v i a   e m a i l   c e o   w e l l   c o m p a n y   g e n e r a l   e m a i l   a d d r e s s   p r o o f   h e a r i n g   o r d e r   s h o w _ c a u s e   p r o c e e d   o r i g i n a l l y   s c h e d u l e   o r d e r   w i n n e t h k a
 
-propose_finding
+p r o p o s e _ f i n d i n g
 
 
 
@@ -251,7 +251,7 @@ propose_finding
 
 
 
-list
+l i s t
 
 
 
@@ -264,17 +264,17 @@ list
 
 
 
-letter dkt refiled
+l e t t e r   d k t   r e f i l e d
 
-motion contempt
+m o t i o n   c o n t e m p t
 
 
-order motion contempt respectfully united report recommendation order winnethka
+o r d e r   m o t i o n   c o n t e m p t   r e s p e c t f u l l y   u n i t e d   r e p o r t   r e c o m m e n d a t i o n   o r d e r   w i n n e t h k a
 
 
 
-status_report
-motion substitute letter support inc
+s t a t u s _ r e p o r t
+m o t i o n   s u b s t i t u t e   l e t t e r   s u p p o r t   i n c
 
 
 
@@ -289,10 +289,10 @@ motion substitute letter support inc
 
 
 
-please_download_locate_website responsible_courtesy_individual_practice
+p l e a s e _ d o w n l o a d _ l o c a t e _ w e b s i t e   r e s p o n s i b l e _ c o u r t e s y _ i n d i v i d u a l _ p r a c t i c e
 
 
-open_check_quality_control correction
+o p e n _ c h e c k _ q u a l i t y _ c o n t r o l   c o r r e c t i o n
 
 
 
@@ -300,15 +300,15 @@ open_check_quality_control correction
 
 
 
-propose schedule order
+p r o p o s e   s c h e d u l e   o r d e r
 
 
 
 
-letter selection mediator
+l e t t e r   s e l e c t i o n   m e d i a t o r
 
 
-report mediation unsettled mediation report find http wwwnyeduscourtsgovadrforms mediation report email robyn_weinstein nyeduscourtsgov within week mediation sessionmediation report questionnaire due
+r e p o r t   m e d i a t i o n   u n s e t t l e d   m e d i a t i o n _ r e p o r t   f i n d   h t t p s   w w w   n y e d _ u s c o u r t s _ g o v   a d r f o r m s   m e d i a t i o n _ r e p o r t   e m a i l   r o b y n   w e i n s t e i n   n y e d _ u s c o u r t s _ g o v   w i t h i n   w e e k   m e d i a t i o n   s e s s i o n   m e d i a t i o n _ r e p o r t   q u e s t i o n n a i r e   d u e
 
 
 
@@ -320,13 +320,13 @@ report mediation unsettled mediation report find http wwwnyeduscourtsgovadrforms
 
 
 
-status_report
+s t a t u s _ r e p o r t
 
-rule
+r u l e
 
 
 
-letter
+l e t t e r
 
 
 
@@ -335,7 +335,7 @@ letter
 
 
 
-civil_cover_sheet
+c i v i l _ c o v e r _ s h e e t
 
 
 
@@ -354,7 +354,7 @@ civil_cover_sheet
 
 
 
-delete delete number endorsed_letter incorrectly
+d e l e t e   d e l e t e   n u m b e r   e n d o r s e d _ l e t t e r   i n c o r r e c t l y
 
 
 
@@ -373,16 +373,16 @@ delete delete number endorsed_letter incorrectly
 
 
 
-status_report
+s t a t u s _ r e p o r t
 
 
-status_report
-memo_endorsement status_report endorsement deny
+s t a t u s _ r e p o r t
+m e m o _ e n d o r s e m e n t   s t a t u s _ r e p o r t   e n d o r s e m e n t   d e n y
 
 
-status_report
+s t a t u s _ r e p o r t
 
-genesys id inc
+g e n e s y s   i d   i n c
 
 
 
@@ -398,7 +398,7 @@ genesys id inc
 
 
 
-rule
+r u l e
 
 
 
@@ -410,7 +410,7 @@ rule
 
 
 
-civil_cover_sheet
+c i v i l _ c o v e r _ s h e e t
 
 
 
@@ -434,12 +434,12 @@ civil_cover_sheet
 
 
 
-inc inc
+i n c   i n c
 
 
 
 
-letter_address basis diversity jurisdiction rule rule
+l e t t e r _ a d d r e s s   b a s i s   d i v e r s i t y   j u r i s d i c t i o n   r u l e   r u l e
 
 
 
@@ -449,14 +449,14 @@ letter_address basis diversity jurisdiction rule rule
 
 
 
-interrogatory llcdocument inc
+i n t e r r o g a t o r y   i n c
 
 
 
 
 
 
-wrong event type select menu letter motion continue address inc
+w r o n g   e v e n t   t y p e   s e l e c t   m e n u   l e t t e r   m o t i o n   c o n t i n u e   a d d r e s s   i n c
 
 
 
@@ -466,10 +466,10 @@ wrong event type select menu letter motion continue address inc
 
 
 
-letter_address clarification
+l e t t e r _ a d d r e s s   c l a r i f i c a t i o n
 
 
-possibly
+p o s s i b l y
 
 
 
@@ -506,7 +506,7 @@ possibly
 
 
 
-memoendorsement letter_address grant insofar seeks production insuarance policy otherwise deny
+m e m o e n d o r s e m e n t   l e t t e r _ a d d r e s s   g r a n t   i n s o f a r   s e e k s   p r o d u c t i o n   i n s u a r a n c e   p o l i c y   o t h e r w i s e   d e n y
 
 
 
@@ -514,7 +514,7 @@ memoendorsement letter_address grant insofar seeks production insuarance policy 
 
 
 
-hold pm
+h o l d   p
 
 
 
@@ -547,16 +547,16 @@ hold pm
 
 
 
-ernst young llp'srule disclosure llp
+e r n s t   y o u n g   l l p   s r u l e   d i s c l o s u r e   l   l _ p
 
 
 
 
 
-cayman island
+c a y m a n   i s l a n d
 
 
-corp
+c o r p
 
 
 
@@ -592,11 +592,11 @@ corp
 
 
 
-order deny motion certification usc section question culpable participation allege control person allege section security exchange act section
+o r d e r   d e n y   m o t i o n   c e r t i f i c a t i o n   u _ c   s e c t i o n   q u e s t i o n   c u l p a b l e   p a r t i c i p a t i o n   a l l e g e   c o n t r o l   p e r s o n   a l l e g e   s e c t i o n   s e c u r i t y   e x c h a n g e   a c t   s e c t i o n
 
 
 
-hold
+h o l d
 
 
 
@@ -607,26 +607,26 @@ hold
 
 
 
-protective order procedure_govern_handle_confidential
+p r o t e c t i v e   o r d e r   p r o c e d u r e _ g o v e r n _ h a n d l e _ c o n f i d e n t i a l
 
 
-affidavit alphaplus lp
+a f f i d a v i t   a l p h a p l u s   l _ p
 
 
 
 
-subpoena amdocument
-subpoena pmdocument
-amend protective order govern production exchange confidential procedure_govern_handle_confidential
-motion order discovery relates
+s u b p o e n a
+s u b p o e n a   p m
+a m e n d   p r o t e c t i v e   o r d e r   g o v e r n   p r o d u c t i o n   e x c h a n g e   c o n f i d e n t i a l   p r o c e d u r e _ g o v e r n _ h a n d l e _ c o n f i d e n t i a l
+m o t i o n   o r d e r   d i s c o v e r y
 
 
 
-memo_endorsement
-admission transmit memo_endorsement admission update
+m e m o _ e n d o r s e m e n t
+a d m i s s i o n   t r a n s m i t   m e m o _ e n d o r s e m e n t   a d m i s s i o n   u p d a t e
 
 
-letter_address position motion discovery hedge strategy ibex absolute lp_magnum growth lp_magnum special situation estate ml alternative investment sgr spa stillwater market neutral lp_balentine_global_hedge lp account lp sa alternative asset lp_balentine_global_hedge select lp sa
+l e t t e r _ a d d r e s s   p o s i t i o n   m o t i o n   d i s c o v e r y   h e d g e   s t r a t e g y   i b e x   a b s o l u t e   l _ p _ m a g n u m   g r o w t h   l _ p _ m a g n u m   s p e c i a l   s i t u a t i o n   e s t a t e   l   a l t e r n a t i v e   i n v e s t m e n t   s g r   s p a   s t i l l w a t e r   m a r k e t   n e u t r a l   l _ p _ b a l e n t i n e _ g l o b a l   h e d g e   l _ p   a c c o u n t   l _ p   a l t e r n a t i v e   a s s e t   l _ p _ b a l e n t i n e _ g l o b a l   h e d g e   s e l e c t   l _ p
 
 
 
@@ -668,43 +668,43 @@ letter_address position motion discovery hedge strategy ibex absolute lp_magnum 
 
 
 
-stipulate protective order procedure_govern_handle_confidential
+s t i p u l a t e   p r o t e c t i v e   o r d e r   p r o c e d u r e _ g o v e r n _ h a n d l e _ c o n f i d e n t i a l
 
 
 
-motion entry order hereto attached motion sumnicht money lp sumnicht money ii lp gilbraltar lp alternative strategiesbalanced growth sa hedge strategy ibex absolute lp_magnum growth lp_magnum special situation estate ml stillwater market neutral lp_balentine_global_hedge lp account lp sa alternative asset lp_balentine_global_hedge select lp safiled associate
-motion entry order hereto sumnicht money lp sumnicht money ii lp gilbraltar lp alternative strategiesbalanced growth sa hedge strategy ibex absolute lp_magnum growth lp_magnum special situation estate ml alternative investment sgr spa stillwater market neutral lp_balentine_global_hedge lp account lp sa alternative asset lp_balentine_global_hedge select lp safiled associate
+m o t i o n   e n t r y   o r d e r   h e r e t o   a t t a c h e d   m o t i o n   s u m n i c h t   m o n e y   l _ p   s u m n i c h t   m o n e y   i i   l _ p   g i l b r a l t a r   l p   a l t e r n a t i v e   s t r a t e g i e s b a l a n c e d   g r o w t h   h e d g e   s t r a t e g y   i b e x   a b s o l u t e   l _ p _ m a g n u m   g r o w t h   l _ p _ m a g n u m   s p e c i a l   s i t u a t i o n   e s t a t e   l   s t i l l w a t e r   m a r k e t   n e u t r a l   l _ p _ b a l e n t i n e _ g l o b a l   h e d g e   l _ p   a c c o u n t   l _ p   a l t e r n a t i v e   a s s e t   l _ p _ b a l e n t i n e _ g l o b a l   h e d g e   s e l e c t   l _ p
+m o t i o n   e n t r y   o r d e r   h e r e t o   s u m n i c h t   m o n e y   l _ p   s u m n i c h t   m o n e y   i i   l _ p   g i l b r a l t a r   l p   a l t e r n a t i v e   s t r a t e g i e s b a l a n c e d   g r o w t h   h e d g e   s t r a t e g y   i b e x   a b s o l u t e   l _ p _ m a g n u m   g r o w t h   l _ p _ m a g n u m   s p e c i a l   s i t u a t i o n   e s t a t e   l   a l t e r n a t i v e   i n v e s t m e n t   s g r   s p a   s t i l l w a t e r   m a r k e t   n e u t r a l   l _ p _ b a l e n t i n e _ g l o b a l   h e d g e   l _ p   a c c o u n t   l _ p   a l t e r n a t i v e   a s s e t   l _ p _ b a l e n t i n e _ g l o b a l   h e d g e   s e l e c t   l _ p
 
 
-memo_endorsement motion entry order hereto endorse grant extent indicate bar order otherwise deny order
-memo_endorsement motion entry order hereto attached motion endorse grant order
+m e m o _ e n d o r s e m e n t   m o t i o n   e n t r y   o r d e r   h e r e t o   e n d o r s e   g r a n t   e x t e n t   i n d i c a t e   b a r   o r d e r   o t h e r w i s e   d e n y   o r d e r
+m e m o _ e n d o r s e m e n t   m o t i o n   e n t r y   o r d e r   h e r e t o   a t t a c h e d   m o t i o n   e n d o r s e   g r a n t   o r d e r
 
-bar order currently contribution limit fka atc administrator limit bv andor parent subsidiary affiliate owner shareholder officer director employee agent insurer reinsurers representative trustee successor trustee beneficiary heir vested contingent executor administrator successor arise federal law law cause base tort contract statute body law favor person entity arise investment lp andor management oversight among others lp favor person entity forever extinguish discharge satisfied bar enjoin reserve jurisdiction attempt assert extinguish discharge satisfied bar enjoin order
+b a r   o r d e r   c u r r e n t l y   c o n t r i b u t i o n   l i m i t   f   k   a t c   a d m i n i s t r a t o r   l i m i t   v   p a r e n t   s u b s i d i a r y   a f f i l i a t e   o w n e r   s h a r e h o l d e r   o f f i c e r   d i r e c t o r   e m p l o y e e   a g e n t   i n s u r e r   r e i n s u r e r s   r e p r e s e n t a t i v e   t r u s t e e   s u c c e s s o r   t r u s t e e   b e n e f i c i a r y   h e i r s   v e s t e d   c o n t i n g e n t   e x e c u t o r   a d m i n i s t r a t o r   s u c c e s s o r   a r i s e   f e d e r a l   l a w   l a w   c a u s e   b a s e   t o r t   c o n t r a c t   s t a t u t e   b o d y   l a w   f a v o r   p e r s o n   e n t i t y   a r i s e   i n v e s t m e n t   l _ p   m a n a g e m e n t   o v e r s i g h t   a m o n g   o t h e r s   l _ p   f a v o r   p e r s o n   e n t i t y   f o r e v e r   e x t i n g u i s h   d i s c h a r g e   s a t i s f i e d   b a r   e n j o i n e d   r e s e r v e   j u r i s d i c t i o n   a t t e m p t   a s s e r t   e x t i n g u i s h   d i s c h a r g e d   s a t i s f i e d   b a r   e n j o i n e d   o r d e r
 
-motion entry order hereto ? 
+m o t i o n   e n t r y   o r d e r   h e r e t o
 
 
 
 
-pdf civil_cover_sheet
+p d f   c i v i l _ c o v e r _ s h e e t
 
 
 
 
 
 
-civil_cover_sheet
+c i v i l _ c o v e r _ s h e e t
 
 
 
 
 
-inc
-inc
+i n c
+i n c
 
 
 
-memo_endorsement letter endorsement order
+m e m o _ e n d o r s e m e n t   l e t t e r   e n d o r s e m e n t   o r d e r
 
 
 
@@ -723,23 +723,23 @@ memo_endorsement letter endorsement order
 
 
 
-ii please_download_locate_website responsible_courtesy_individual_practice
+i i   p l e a s e _ d o w n l o a d _ l o c a t e _ w e b s i t e   r e s p o n s i b l e _ c o u r t e s y _ i n d i v i d u a l _ p r a c t i c e
 
 
-open_check_quality_control correction
+o p e n _ c h e c k _ q u a l i t y _ c o n t r o l   c o r r e c t i o n
 
 
 
 
-decision order usc § transfer transfer original certify transfer order sheet send transfer order ii
-transfer number original certify transfer order entry receive
+d e c i s i o n   o r d e r   u _ c   §   t r a n s f e r   t r a n s f e r   o r i g i n a l   c e r t i f y   t r a n s f e r   o r d e r   s h e e t   s e n d   t r a n s f e r   o r d e r   i i
+t r a n s f e r   n u m b e r   o r i g i n a l   c e r t i f y   t r a n s f e r   o r d e r   e n t r y   r e c e i v e
 
 
-note please visit website http wwwnysduscourtsgov admission sdny bar cmecf rule instruction
+n o t e   p l e a s e   v i s i t   w e b s i t e   h t t p   w w w   n y s d   u s c o u r t s _ g o v   a d m i s s i o n   n   b a r   c m   e c f   r u l e   i n s t r u c t i o n
 
 
 
-aim exploration inc
+a i m   e x p l o r a t i o n   i n c
 
 
 
@@ -747,7 +747,7 @@ aim exploration inc
 
 
 
-memo_endorsement letter aim exploration inc endorsement deny
+m e m o _ e n d o r s e m e n t   l e t t e r   a i m   e x p l o r a t i o n   i n c   e n d o r s e m e n t   d e n y
 
 
 
@@ -760,7 +760,7 @@ memo_endorsement letter aim exploration inc endorsement deny
 
 
 
-civil_cover_sheet
+c i v i l _ c o v e r _ s h e e t
 
 
 
@@ -778,19 +778,19 @@ civil_cover_sheet
 
 
 
-deficient entry
+d e f i c i e n t   e n t r y
 
 
 
 
 
 
-civil_cover_sheet
+c i v i l _ c o v e r _ s h e e t
 
 
 
 
-usc section r p notify consent proceed united wish consent access necessary link http nysduscourtsgovformsphp
+u _ c   s e c t i o n   r   p   n o t i f y   c o n s e n t   p r o c e e d   u n i t e d   w i s h   c o n s e n t   a c c e s s   n e c e s s a r y   l i n k   h t t p   n y s d   u s c o u r t s _ g o v   p h p
 
 
 
@@ -806,16 +806,16 @@ usc section r p notify consent proceed united wish consent access necessary link
 
 
 
-inc
+i n c
 
 
 
 
 
-setreset deadline amend pleading due
-letter_address order
+r e s e t   d e a d l i n e   a m e n d   p l e a d i n g   d u e
+l e t t e r _ a d d r e s s   o r d e r
 
-letter_address letter inc
+l e t t e r _ a d d r e s s   l e t t e r   i n c
 
 
 
@@ -829,11 +829,11 @@ letter_address letter inc
 
 
 
-rule
+r u l e
 
 
 
-counter rule inc
+c o u n t e r   r u l e   i n c
 
 
 
@@ -842,9 +842,9 @@ counter rule inc
 
 
 
-letter_address development v almagarby et ano inc
-memo_endorsement letter endorsement order respond letter monday
-letter_address
+l e t t e r _ a d d r e s s   d e v e l o p m e n t   v   a l m a g a r b y   e t   a n o   i n c
+m e m o _ e n d o r s e m e n t   l e t t e r   e n d o r s e m e n t   o r d e r   r e s p o n d   l e t t e r   m o n d a y
+l e t t e r _ a d d r e s s
 
 
 
@@ -852,7 +852,7 @@ letter_address
 
 
 
-letter_address joint letter per order
+l e t t e r _ a d d r e s s   j o i n t   l e t t e r   p e r   o r d e r
 
 
 
@@ -909,20 +909,20 @@ letter_address joint letter per order
 
 
 
-memoendorsement letter_address reset oral_argument motion presently schedule
+m e m o e n d o r s e m e n t   l e t t e r _ a d d r e s s   r e s e t   o r a l _ a r g u m e n t   m o t i o n   p r e s e n t l y   s c h e d u l e
 
 
 
 
-memoendorsement letter_address reset plntf brief due
+m e m o e n d o r s e m e n t   l e t t e r _ a d d r e s s   r e s e t   p l n t f   b r i e f   d u e
 
 
 
 
-order substitute place llp
+o r d e r   s u b s t i t u t e   p l a c e   l l p
 
 
-order opinion order undersigned cover opinion order change read
+o r d e r   o p i n i o n   o r d e r   u n d e r s i g n e d   c o v e r   o p i n i o n   o r d e r   c h a n g e   r e a d
 
 
 
@@ -939,7 +939,7 @@ order opinion order undersigned cover opinion order change read
 
 
 
-preconferene newvest portfolio newvest receive night deposit box pm
+p r e c o n f e r e n e   n e w v e s t   p o r t f o l i o   n e w v e s t   r e c e i v e   n i g h t   d e p o s i t   b o x   p
 
 
 
@@ -948,7 +948,7 @@ preconferene newvest portfolio newvest receive night deposit box pm
 
 
 
-initial disclosure rule
+i n i t i a l   d i s c l o s u r e   r u l e
 
 
 
@@ -961,17 +961,17 @@ initial disclosure rule
 
 
 
-memoendorsement letter_address discovery dispute mag contact instruction proceed
+m e m o e n d o r s e m e n t   l e t t e r _ a d d r e s s   d i s c o v e r y   d i s p u t e   m a g   c o n t a c t   i n s t r u c t i o n   p r o c e e d
 
-order assignment discovery dispute
+o r d e r   a s s i g n m e n t   d i s c o v e r y   d i s p u t e
 
-confidentiality agreeement order procedure_govern_handle_confidential
+c o n f i d e n t i a l i t y   a g r e e e m e n t   o r d e r   p r o c e d u r e _ g o v e r n _ h a n d l e _ c o n f i d e n t i a l
 
 
 
 
-order swear mr principal treat physician address mr depose circumstance newvest promptly update production transaction register forward
-memoendorsement letter_address reset discovery due fax
+o r d e r   s w e a r   m r   p r i n c i p a l   t r e a t   p h y s i c i a n   a d d r e s s   m r   d e p o s e   c i r c u m s t a n c e   n e w v e s t   p r o m p t l y   u p d a t e   p r o d u c t i o n   t r a n s a c t i o n   r e g i s t e r   f o r w a r d
+m e m o e n d o r s e m e n t   l e t t e r _ a d d r e s s   r e s e t   d i s c o v e r y   d u e   f a x
 
 
 
@@ -981,17 +981,17 @@ memoendorsement letter_address reset discovery due fax
 
 
 
-civil_cover_sheet
+c i v i l _ c o v e r _ s h e e t
 
 
 
 
 
 
-usc section r p notify consent proceed united wish consent access necessary link http nysduscourtsgovformsphp
+u _ c   s e c t i o n   r   p   n o t i f y   c o n s e n t   p r o c e e d   u n i t e d   w i s h   c o n s e n t   a c c e s s   n e c e s s a r y   l i n k   h t t p   n y s d   u s c o u r t s _ g o v   p h p
 
 
-ao copyright open compliance provision register copyright advise copyright email register copyright
+a o   c o p y r i g h t   o p e n   c o m p l i a n c e   p r o v i s i o n   r e g i s t e r   c o p y r i g h t   a d v i s e   c o p y r i g h t   e m a i l   r e g i s t e r   c o p y r i g h t
 
 
 
@@ -1025,7 +1025,7 @@ ao copyright open compliance provision register copyright advise copyright email
 
 
 
-possibly mdl
+p o s s i b l y   m d l
 
 
 
@@ -1036,15 +1036,15 @@ possibly mdl
 
 
 
-inc
+i n c
 
-rule discovery plan reportdocument inc
+r u l e   d i s c o v e r y   p l a n   r e p o r t   i n c
 
 
-hold
-hold
-letter_address inc
-letter_address waive potential conflict interest connection continue preside
+h o l d
+h o l d
+l e t t e r _ a d d r e s s   i n c
+l e t t e r _ a d d r e s s   w a i v e   p o t e n t i a l   c o n f l i c t   i n t e r e s t   c o n n e c t i o n   c o n t i n u e   p r e s i d e
 
 
 
@@ -1058,16 +1058,16 @@ letter_address waive potential conflict interest connection continue preside
 
 
 
-motion protective order motion entry protective order
-order term stipulate confidentiality order mdl apply full force effect instant
+m o t i o n   p r o t e c t i v e   o r d e r   m o t i o n   e n t r y   p r o t e c t i v e   o r d e r
+o r d e r   t e r m   s t i p u l a t e   c o n f i d e n t i a l i t y   o r d e r   m d l   a p p l y   f u l l   f o r c e   e f f e c t   i n s t a n t
 
-transmit order motion unsealing
+t r a n s m i t   o r d e r   m o t i o n   u n s e a l i n g
 
 
-hold
-order grant motion
+h o l d
+o r d e r   g r a n t   m o t i o n
 
-redaction undisputed
+r e d a c t i o n   u n d i s p u t e d
 
 
 
@@ -1075,25 +1075,25 @@ redaction undisputed
 
 
 
-hold
+h o l d
 
 
-electronic nonecf demand trial jury merrill
-schedule order discovery due ready trial schedule deadline
+e l e c t r o n i c   n o n e c f   d e m a n d   t r i a l   j u r y   m e r r i l l
+s c h e d u l e   o r d e r   d i s c o v e r y   d u e   r e a d y   t r i a l   s c h e d u l e   d e a d l i n e
 
 
 
 
-hold
+h o l d
 
 
 
 
-endorsed_letter_address grant participant call pm together
-hold
-schedule order discovery due status_report due
+e n d o r s e d _ l e t t e r _ a d d r e s s   g r a n t   p a r t i c i p a n t   c a l l   p   t o g e t h e r
+h o l d
+s c h e d u l e   o r d e r   d i s c o v e r y   d u e   s t a t u s _ r e p o r t   d u e
 
-enty withdrawal appearance
+e n t y   w i t h d r a w a l   a p p e a r a n c e
 
 
 
@@ -1106,10 +1106,10 @@ enty withdrawal appearance
 
 
 
-hold
-schedule order oral_argument
-schedule order oral_argument pm
-hold @ pm
+h o l d
+s c h e d u l e   o r d e r   o r a l _ a r g u m e n t
+s c h e d u l e   o r d e r   o r a l _ a r g u m e n t   p m
+h o l d   p
 
 
 
@@ -1123,24 +1123,24 @@ hold @ pm
 
 
 
-usca_mandateorder usca mandate nondismissal
+u s c a _ m a n d a t e   o r d e r   u s c a _ m a n d a t e   n o n d i s m i s s a l
 
 
 
 
-usca_mandateorder usca mandate
+u s c a _ m a n d a t e   o r d e r   u s c a _ m a n d a t e
 
 
-consent order change order rule civil rule upon annexed affidavit swear consent worldwide plaza eighth avenue substitute aboveentitled place avenue america floor
+c o n s e n t   o r d e r   c h a n g e   o r d e r   r u l e   c i v i l   r u l e   u p o n   a n n e x e d   a f f i d a v i t   s w e a r   c o n s e n t   w o r l d w i d e   p l a z a   e i g h t h   a v e n u e   s u b s t i t u t e d   a b o v e e n t i t l e d   p l a c e   a v e n u e   a m e r i c a s   f l o o r
 
-affidavit support propose order permit substitution fo place atty dfts
+a f f i d a v i t   s u p p o r t   p r o p o s e   o r d e r   p e r m i t   s u b s t i t u t i o n   f o   p l a c e   a t t y   d f t s
 
-order admit pro_hac_vice admit pro_hac_vice
+o r d e r   a d m i t   p r o _ h a c _ v i c e   a d m i t   p r o _ h a c _ v i c e
 
-hold
+h o l d
 
-consolidated member create association
-hold
+c o n s o l i d a t e d   m e m b e r   c r e a t e   a s s o c i a t i o n
+h o l d
 
 
 
@@ -1150,78 +1150,76 @@ hold
 
 
 
-renew motion certification rule
+r e n e w   m o t i o n   c e r t i f i c a t i o n   r u l e
 
 
 
 
 
-order use discovery produce american express ross bank america na whp procedure_govern handle discovery produce ross etal v na etal
+o r d e r   u s e   d i s c o v e r y   p r o d u c e   a m e r i c a n   e x p r e s s   r o s s   b a n k   a m e r i c a   n   w h p   p r o c e d u r e _ g o v e r n   h a n d l e   d i s c o v e r y   p r o d u c e   r o s s   e t a l   v   n   e t a l
 
 
 
-hold associate civil
+h o l d   a s s o c i a t e   c i v i l
 
-schedule order oral_argument motion consolidate v reschedule pm oral_argument pm
+s c h e d u l e   o r d e r   o r a l _ a r g u m e n t   m o t i o n   c o n s o l i d a t e   v   r e s c h e d u l e   p   o r a l _ a r g u m e n t   p m
 
 
 
-oppositionresponse motion motion amendcorrect
 
 
 
 
 
 
-order view importance schedule hear invite comment supplemental special report order serve supplemental special report order pro se post electronic supplemental report order administrator website conduct hear raise supplemental report courtroom pearl street individual wish address hear notify associate send
 
+o r d e r   v i e w   i m p o r t a n c e   s c h e d u l e   h e a r   i n v i t e   c o m m e n t   s u p p l e m e n t a l   s p e c i a l   r e p o r t   o r d e r   s e r v e   s u p p l e m e n t a l   s p e c i a l   r e p o r t   o r d e r   p r o   s e   p o s t   e l e c t r o n i c   s u p p l e m e n t a l   r e p o r t   o r d e r   a d m i n i s t r a t o r   w e b s i t e   c o n d u c t   h e a r   r a i s e   s u p p l e m e n t a l   r e p o r t   c o u r t r o o m   p e a r l   s t r e e t   i n d i v i d u a l   w i s h   a d d r e s s   h e a r i n g   n o t i f y   a s s o c i a t e   s e n d
 
 
-endorsed_letter_address mr kind enough accommodate scheduling problem develop agree conduct schedule argument abovecaptioned instead endorsement grant part hear argument motion
-setreset deadline motion certify motion amendcorrect motion hearing pm associate
-electronic nonecf motion report recommendation special
-note refile nonecf note manually refile objector comment supplemental special report associate
 
+e n d o r s e d _ l e t t e r _ a d d r e s s   m r   k i n d   e n o u g h   a c c o m m o d a t e   s c h e d u l i n g   p r o b l e m   d e v e l o p   a g r e e   c o n d u c t   s c h e d u l e   a r g u m e n t   a b o v e c a p t i o n e d   i n s t e a d   e n d o r s e m e n t   g r a n t   p a r t   h e a r   a r g u m e n t   m o t i o n   a s s o c i a t e
+r e s e t   d e a d l i n e   m o t i o n   c e r t i f y   m o t i o n   a m e n d   c o r r e c t   m o t i o n   h e a r i n g   p m   a s s o c i a t e
+e l e c t r o n i c   n o n e c f   m o t i o n   r e p o r t   r e c o m m e n d a t i o n   s p e c i a l
+n o t e   r e f i l e   n o n e c f   n o t e   m a n u a l l y   r e f i l e   o b j e c t o r   c o m m e n t   s u p p l e m e n t a l   s p e c i a l   r e p o r t   a s s o c i a t e
 
 
-hold pm
 
+h o l d   p
 
 
 
 
 
-hold
 
+h o l d
 
 
 
-order grant motion supplemental recommend denial pricelinecom good cause show motion supplemental recommend denial support grant
-transmit order unsealing associate
 
+o r d e r   g r a n t   m o t i o n   s u p p l e m e n t a l   r e c o m m e n d   d e n i a l   p r i c e l i n e   c o m   g o o d   c a u s e   s h o w   m o t i o n   s u p p l e m e n t a l   r e c o m m e n d   d e n i a l   s u p p o r t   g r a n t
 
-hold pm
 
 
+h o l d   p m
 
 
-endorsed_letter_address also move several support paragraph confidentiality order currency conversion fee antitrust litigation mdl applicable order paragraph individual_practice accordance confidentiality order propose redact confidential publicly version endorsement grant unredacted support redacted version public order
 
 
+e n d o r s e d _ l e t t e r _ a d d r e s s   a l s o   m o v e   s e v e r a l   s u p p o r t   p a r a g r a p h   c o n f i d e n t i a l i t y   o r d e r   c u r r e n c y   c o n v e r s i o n   f e e   a n t i t r u s t   l i t i g a t i o n   m d l   a p p l i c a b l e   o r d e r   p a r a g r a p h   i n d i v i d u a l _ p r a c t i c e   a c c o r d a n c e   c o n f i d e n t i a l i t y   o r d e r   p r o p o s e   r e d a c t   c o n f i d e n t i a l   p u b l i c l y   v e r s i o n   e n d o r s e m e n t   g r a n t   u n r e d a c t e d   s u p p o r t   r e d a c t e d   v e r s i o n   p u b l i c   o r d e r
 
 
-local civil rule
 
-schedule order oral_argument schedule reschedule
 
+l o c a l   c i v i l   r u l e
 
+s c h e d u l e   o r d e r   o r a l _ a r g u m e n t   s c h e d u l e   r e s c h e d u l e
 
 
-hold
 
-rule
 
+h o l d
 
+r u l e
 
 
 
@@ -1241,24 +1239,24 @@ rule
 
 
 
-motion
 
 
+m o t i o n
 
-setreset hearing fairness hearing courtroom pearl street
 
 
-motion certification usc inc
+r e s e t   h e a r i n g   f a i r n e s s   h e a r   c o u r t r o o m   p e a r l   s t r e e t
 
-order receive attached letter distribution check bounce immediate inquiry explanation forthwith thk
 
-letter_address propose motion schedule
+m o t i o n   c e r t i f i c a t i o n   u _ c   i n c
 
+o r d e r   r e c e i v e   a t t a c h e d   l e t t e r   d i s t r i b u t i o n   c h e c k   b o u n c e d   i m m e d i a t e   i n q u i r y   e x p l a n a t i o n   f o r t h w i t h   t h k
 
+l e t t e r _ a d d r e s s   p r o p o s e   m o t i o n   s c h e d u l e
 
-letter_address consent consolidation
 
 
+l e t t e r _ a d d r e s s   c o n s e n t   c o n s o l i d a t i o n
 
 
 
@@ -1268,18 +1266,18 @@ letter_address consent consolidation
 
 
 
-affidavit jr cpa administration
 
 
+a f f i d a v i t   j r   c   p   a d m i n i s t r a t i o n
 
 
 
-motion final approval allocation plan wachsmuthfiled associate
 
-affidavit jr cpa administration
-motion award fee expense wachsmuthfiled associate
 
+m o t i o n   f i n a l   a p p r o v a l   a l l o c a t i o n   p l a n   w a c h s m u t h
 
+a f f i d a v i t   j r   c   p   a d m i n i s t r a t i o n
+m o t i o n   a w a r d   f e e   e x p e n s e   w a c h s m u t h
 
 
 
@@ -1287,28 +1285,28 @@ motion award fee expense wachsmuthfiled associate
 
 
 
-order authorizing bring list electronic equipment trial begin
 
-order receive attached letter order forward
 
+o r d e r   a u t h o r i z e   b r i n g   l i s t   e l e c t r o n i c   e q u i p m e n t   t r i a l   b e g i n
 
+o r d e r   r e c e i v e   a t t a c h e d   l e t t e r   o r d e r   f o r w a r d
 
 
-order receive attached letter_address raise therein thk
 
 
+o r d e r   r e c e i v e   a t t a c h e d   l e t t e r _ a d d r e s s   r a i s e   t h e r e i n   a s s o c i a t e   t h k
 
 
-order received motion empanel ofan advisory jury determine oral_argument unnecessary oral_argument schedule cancel motion thk
 
 
+o r d e r   r e c e i v e   m o t i o n   e m p a n e l   o f a n   a d v i s o r y   j u r y   d e t e r m i n e   o r a l _ a r g u m e n t   u n n e c e s s a r y   o r a l _ a r g u m e n t   s c h e d u l e   c a n c e l   m o t i o n   t h k
 
 
 
 
-endorsed_letter_address pay week need paid due bill endorsement deny order thk
 
 
+e n d o r s e d _ l e t t e r _ a d d r e s s   p a y   w e e k   n e e d   p a i d   d u e   b i l l   e n d o r s e m e n t   d e n y   o r d e r   t h k
 
 
 
@@ -1346,9 +1344,9 @@ endorsed_letter_address pay week need paid due bill endorsement deny order thk
 
 
 
-motion_limine
 
 
+m o t i o n _ l i m i n e
 
 
 
@@ -1361,18 +1359,18 @@ motion_limine
 
 
 
-endorsed_letter_address yesterday meet confer call inform intend brief friday paragraph vibiv total could indicate letter ? endorsement grant
-memo endorse authorize bring general purpose compute device cell phone laptop computer
 
 
+e n d o r s e d _ l e t t e r _ a d d r e s s   y e s t e r d a y   m e e t i n g   c o n f e r   c a l l   i n f o r m e d   i n t e n d   b r i e f   f r i d a y   p a r a g r a p h   v i   i v   t o t a l   c o u l d   i n d i c a t e   l e t t e r   e n d o r s e m e n t   g r a n t
+m e m o   e n d o r s e   a u t h o r i z e   b r i n g   g e n e r a l   p u r p o s e   c o m p u t e   d e v i c e   c e l l   p h o n e   l a p t o p   c o m p u t e r
 
 
 
-setreset deadline setreset hearing
-motion motion_limine merrill
-motion_limine inc
 
 
+r e s e t   d e a d l i n e   r e s e t   h e a r i n g
+m o t i o n   m o t i o n _ l i m i n e   m e r r i l l
+m o t i o n _ l i m i n e   i n c
 
 
 
@@ -1382,16 +1380,16 @@ motion_limine inc
 
 
 
-motion_limine refiled via per order dec
 
 
+m o t i o n _ l i m i n e   r e f i l e d   v i a   p e r   o r d e r   d e c
 
 
 
 
-note refile nonecf note via support oppose
 
 
+n o t e   r e f i l e   n o n e c f   n o t e   v i a   s u p p o r t   o p p o s e
 
 
 
@@ -1410,14 +1408,14 @@ note refile nonecf note via support oppose
 
 
 
-order trial conclude schedule establish proposed finding_conclusion_law posttrial memoranda responsive finding_conclusion_law oppose memoranda closing argument hear
-revise_schedule order proposed finding_conclusion_law posttrial memoranda responsive finding_conclusion_law oppose memoranda argument hear
 
 
-propose_finding_conclusion_law
-propose_finding_conclusion_law inc
+o r d e r   t r i a l   c o n c l u d e   s c h e d u l e   e s t a b l i s h   p r o p o s e d   f i n d i n g _ c o n c l u s i o n _ l a w   p o s t t r i a l   m e m o r a n d a   r e s p o n s i v e   f i n d i n g _ c o n c l u s i o n _ l a w   o p p o s e   m e m o r a n d a   c l o s i n g   a r g u m e n t   h e a r
+r e v i s e _ s c h e d u l e   o r d e r   p r o p o s e d   f i n d i n g _ c o n c l u s i o n _ l a w   p o s t t r i a l   m e m o r a n d a   r e s p o n s i v e   f i n d i n g _ c o n c l u s i o n _ l a w   o p p o s e   m e m o r a n d a   c l o s i n g   a r g u m e n t   h e a r
 
 
+p r o p o s e _ f i n d i n g _ c o n c l u s i o n _ l a w
+p r o p o s e _ f i n d i n g _ c o n c l u s i o n _ l a w   i n c
 
 
 
@@ -1428,9 +1426,9 @@ propose_finding_conclusion_law inc
 
 
 
-terminate deadline
 
 
+t e r m i n a t e   d e a d l i n e
 
 
 
@@ -1453,17 +1451,17 @@ terminate deadline
 
 
 
-possibly
 
-stand order pilot_project management technique complex civil southern inclusion_pilot_project management technique unless determines otherwise inclusion_pilot_project mdl nature suit category preside otherwise qualify inclusion_pilot_project nevertheless inclusion_pilot_project order pilot_project description pilot_project procedure order
 
+p o s s i b l y
 
+s t a n d   o r d e r   p i l o t _ p r o j e c t   m a n a g e m e n t   t e c h n i q u e   c o m p l e x   c i v i l   s o u t h e r n   i n c l u s i o n _ p i l o t _ p r o j e c t   m a n a g e m e n t   t e c h n i q u e   u n l e s s   d e t e r m i n e s   o t h e r w i s e   i n c l u s i o n _ p i l o t _ p r o j e c t   m d l   f o l l o w i n g   n a t u r e   s u i t   c a t e g o r i e s   p r e s i d e   o t h e r w i s e   q u a l i f y   i n c l u s i o n _ p i l o t _ p r o j e c t   n e v e r t h e l e s s   i n c l u s i o n _ p i l o t _ p r o j e c t   o r d e r   p i l o t _ p r o j e c t   d e s c r i p t i o n   p i l o t _ p r o j e c t   p r o c e d u r e   a t t a c h e d   o r d e r
 
-stand order m10468 original stand order
 
-letter_address designation lead
 
+s t a n d   o r d e r   m 1 0 4 6 8   o r i g i n a l   s t a n d i n g   o r d e r
 
+l e t t e r _ a d d r e s s   d e s i g n a t i o n   l e a d
 
 
 
@@ -1473,125 +1471,125 @@ letter_address designation lead
 
 
 
-affiliate
 
 
+a f f i l i a t e
 
-letter_address joint letter
 
 
+l e t t e r _ a d d r e s s   j o i n t   l e t t e r
 
 
 
 
 
-electronic nonecf status_report order
 
 
+e l e c t r o n i c   n o n e c f   s t a t u s _ r e p o r t   o r d e r
 
 
-letter_address propose protective order
-letter_address propose protective order
-amend letter_address propose protective order
-letter_address schedule production tape
-protective order procedure_govern_handle_confidential
 
 
+l e t t e r _ a d d r e s s   p r o p o s e   p r o t e c t i v e   o r d e r
+l e t t e r _ a d d r e s s   p r o p o s e   p r o t e c t i v e   o r d e r
+a m e n d   l e t t e r _ a d d r e s s   p r o p o s e   p r o t e c t i v e   o r d e r
+l e t t e r _ a d d r e s s   s c h e d u l e   p r o d u c t i o n   t a p e
+p r o t e c t i v e   o r d e r   p r o c e d u r e _ g o v e r n _ h a n d l e _ c o n f i d e n t i a l
 
-letter_address update tape discovery
-endorsed_letter_address status letter update tape discovery endorsement responsive letter
 
 
-joint letter_address tape discovery
+l e t t e r _ a d d r e s s   u p d a t e   t a p e   d i s c o v e r y
+e n d o r s e d _ l e t t e r _ a d d r e s s   s t a t u s   l e t t e r   u p d a t e   t a p e   d i s c o v e r y   e n d o r s e m e n t   r e s p o n s i v e   l e t t e r
 
-letter_address protective order
-stipulate amend protective order procedure_govern_handle_confidential
 
+j o i n t   l e t t e r _ a d d r e s s   t a p e   d i s c o v e r y
 
+l e t t e r _ a d d r e s s   p r o t e c t i v e   o r d e r
+s t i p u l a t e   a m e n d   p r o t e c t i v e   o r d e r   p r o c e d u r e _ g o v e r n _ h a n d l e _ c o n f i d e n t i a l
 
 
 
-certify true mdl order mdl panel deny transfer motion transfer deny
-letter_address rule subpoena
 
 
-certify true mdl order mdl panel deny transfer motion transfer kansa deny
-letter_address coordination discovery schedule
-letter_address coordination discovery schedule
+c e r t i f y   t r u e   m d l   o r d e r   m d l   p a n e l   d e n y   t r a n s f e r   m o t i o n   t r a n s f e r   d e n y
+l e t t e r _ a d d r e s s   r u l e   s u b p o e n a
 
-order coordination among kansa california specifically accordance scheduling order concurrently judicial officer list ordered communication discovery dispute kansa california exceed twopages length concurrently judicial officer list order unless otherwise specify aforementioned accordance individual_practice judicial officer
 
+c e r t i f y   t r u e   m d l   o r d e r   m d l   p a n e l   d e n y   t r a n s f e r   m o t i o n   t r a n s f e r   k a n s a   d e n y
+l e t t e r _ a d d r e s s   c o o r d i n a t i o n   d i s c o v e r y   s c h e d u l e
+l e t t e r _ a d d r e s s   c o o r d i n a t i o n   d i s c o v e r y   s c h e d u l e
 
-letter_address propose order
-brief letter
-status_report coordination discovery across
-letter_address
-letter_address extending deadline search term custodian repository
-letter_address protective order across
-brief letter propose discovery g order depo h fhfa excerpt order j fhfa excerpt k schedule order l revise eso n fhfa conf excerpt
-endorsed_letter_address letter respectfully proposes report reach search protocols kansa california necessary area area impasse endorsement grant
+o r d e r   c o o r d i n a t i o n   a m o n g   k a n s a   c a l i f o r n i a   s p e c i f i c a l l y   a c c o r d a n c e   s c h e d u l i n g   o r d e r   c o n c u r r e n t l y   j u d i c i a l   o f f i c e r   l i s t   o r d e r e d   c o m m u n i c a t i o n   d i s c o v e r y   d i s p u t e   k a n s a   c a l i f o r n i a   e x c e e d   t w o p a g e s   l e n g t h   c o n c u r r e n t l y   j u d i c i a l   o f f i c e r   l i s t   o r d e r   u n l e s s   o t h e r w i s e   s p e c i f y   a f o r e m e n t i o n e d   a c c o r d a n c e   i n d i v i d u a l _ p r a c t i c e   j u d i c i a l   o f f i c e r
 
 
+l e t t e r _ a d d r e s s   p r o p o s e   o r d e r
+b r i e f   l e t t e r
+s t a t u s _ r e p o r t   c o o r d i n a t i o n   d i s c o v e r y   a c r o s s
+l e t t e r _ a d d r e s s
+l e t t e r _ a d d r e s s   e x t e n d   d e a d l i n e   s e a r c h   t e r m   c u s t o d i a n   r e p o s i t o r y
+l e t t e r _ a d d r e s s   p r o t e c t i v e   o r d e r   a c r o s s
+b r i e f   l e t t e r   p r o p o s e   d i s c o v e r y   g   o r d e r   d e p o   h   f h f a   e x c e r p t   o r d e r   j   f h f a   e x c e r p t   k   s c h e d u l e   o r d e r   l   r e v i s e   e s o   n   f h f a   c o n f   e x c e r p t
+e n d o r s e d _ l e t t e r _ a d d r e s s   l e t t e r   r e s p e c t f u l l y   p r o p o s e   r e p o r t   r e a c h   s e a r c h   p r o t o c o l s   k a n s a   c a l i f o r n i a   n e c e s s a r y   a r e a   a r e a   i m p a s s e   e n d o r s e m e n t   g r a n t
 
 
-supplemental brief discovery
 
-letter_address lfrp
-letter_address lfrp
-letter_address reunderwriting procedure
-motion_limine admit statistical sample testimony
 
+s u p p l e m e n t a l   b r i e f   d i s c o v e r y
 
+l e t t e r _ a d d r e s s   l f r p
+l e t t e r _ a d d r e s s   l f r p
+l e t t e r _ a d d r e s s   r e u n d e r w r i t i n g   p r o c e d u r e
+m o t i o n _ l i m i n e   a d m i t   s t a t i s t i c a l   s a m p l e   t e s t i m o n y
 
-order reunderwriting
-order discovery
-order production data
-protective order
-status_report report informal discovery
-status_report negotiation discovery credit suisse
-letter_address discovery dispute common
 
-order continue meetandconfer process next week resolve narrow outstanding dispute report due order promptly engage meetandconfer process good faith effort reach narrow area disagreement order supersede thus need order discovery dispute discovery lead dispute apply few well applies
-deficient entry letter_address clarification provision discovery
 
-letter_address letter motion_limine admit statistical sample testimony
+o r d e r   r e u n d e r w r i t i n g
+o r d e r   d i s c o v e r y
+o r d e r   p r o d u c t i o n   d a t a
+p r o t e c t i v e   o r d e r
+s t a t u s _ r e p o r t   r e p o r t   i n f o r m a l   d i s c o v e r y
+s t a t u s _ r e p o r t   n e g o t i a t i o n   d i s c o v e r y   c r e d i t   s u i s s e
+l e t t e r _ a d d r e s s   d i s c o v e r y   d i s p u t e   c o m m o n
 
-order admission statistical sampling testimony
+o r d e r   c o n t i n u e   m e e t a n d c o n f e r   p r o c e s s   n e x t   w e e k   r e s o l v e   n a r r o w   o u t s t a n d i n g   d i s p u t e   r e p o r t   d u e   o r d e r   p r o m p t l y   e n g a g e   m e e t a n d c o n f e r   p r o c e s s   g o o d   f a i t h   e f f o r t   r e a c h   n a r r o w   a r e a   d i s a g r e e m e n t   o r d e r   s u p e r s e d e   t h u s   n e e d   o r d e r   d i s c o v e r y   d i s p u t e   d i s c o v e r y   l e a d   d i s p u t e   a p p l y   f e w   w e l l   a p p l i e s
+d e f i c i e n t   e n t r y   l e t t e r _ a d d r e s s   c l a r i f i c a t i o n   p r o v i s i o n   d i s c o v e r y
 
+l e t t e r _ a d d r e s s   l e t t e r   m o t i o n _ l i m i n e   a d m i t   s t a t i s t i c a l   s a m p l e   t e s t i m o n y
 
+o r d e r   a d m i s s i o n   s t a t i s t i c a l   s a m p l i n g   t e s t i m o n y
 
-status_report negotiation discovery credit suisse
 
 
+s t a t u s _ r e p o r t   n e g o t i a t i o n   d i s c o v e r y   c r e d i t   s u i s s e
 
 
 
-order show_cause affirmative defense base alleged failure name indispensable order show_cause deadline join order limit singlespaced letter
-order reviewed
-order confer least burdensome way still effective locate produce abovedescribed relevant approximately % underlying securitization question dispute order refile letter without redaction
-letter_address order show_cause deadline join
-order complete production thirdparty extend
 
-letter_address update production thirdparty
-order complete production thirdparty extend
-letter_address advise status order indispensible
-amend letter_address indispensable
-order plead affirmative defense base alleged failure name indispensable ordered affirmative defense assert abovecaptioned base alleged failure name indispensable stricken ordered preclude assert affirmative defense fail join indispensable unless demonstrate defense base subsequently acquire promptly advise
-status_report status identification production guideline sample
 
+o r d e r   s h o w _ c a u s e   a f f i r m a t i v e   d e f e n s e   b a s e   a l l e g e d   f a i l u r e   n a m e   i n d i s p e n s a b l e   o r d e r   s h o w _ c a u s e   d e a d l i n e   j o i n   o r d e r   l i m i t   s i n g l e s p a c e d   l e t t e r
+o r d e r
+o r d e r   c o n f e r   l e a s t   b u r d e n s o m e   w a y   s t i l l   e f f e c t i v e   l o c a t e   p r o d u c e   a b o v e d e s c r i b e d   r e l e v a n t   a p p r o x i m a t e l y   u n d e r l y i n g   s e c u r i t i z a t i o n   q u e s t i o n   d i s p u t e   o r d e r   r e f i l e   l e t t e r   w i t h o u t   r e d a c t i o n
+l e t t e r _ a d d r e s s   o r d e r   s h o w _ c a u s e   d e a d l i n e   j o i n
+o r d e r   c o m p l e t e   p r o d u c t i o n   t h i r d p a r t y   e x t e n d
 
+l e t t e r _ a d d r e s s   u p d a t e   p r o d u c t i o n   t h i r d p a r t y
+o r d e r   c o m p l e t e   p r o d u c t i o n   t h i r d p a r t y   e x t e n d
+l e t t e r _ a d d r e s s   a d v i s e   s t a t u s   o r d e r   i n d i s p e n s i b l e
+a m e n d   l e t t e r _ a d d r e s s   i n d i s p e n s a b l e
+o r d e r   p l e a d   a f f i r m a t i v e   d e f e n s e   b a s e   a l l e g e d   f a i l u r e   n a m e   i n d i s p e n s a b l e   o r d e r e d   a f f i r m a t i v e   d e f e n s e   a s s e r t   a b o v e c a p t i o n e d   b a s e   a l l e g e d   f a i l u r e   n a m e   i n d i s p e n s a b l e   s t r i c k e n   o r d e r e d   p r e c l u d e   a s s e r t   a f f i r m a t i v e   d e f e n s e   f a i l   j o i n   i n d i s p e n s a b l e   u n l e s s   d e m o n s t r a t e   d e f e n s e   b a s e   s u b s e q u e n t l y   a c q u i r e   p r o m p t l y   a d v i s e
+s t a t u s _ r e p o r t   s t a t u s   i d e n t i f i c a t i o n   p r o d u c t i o n   g u i d e l i n e   s a m p l e
 
 
-order ten deposition group except deposition group deposition limit order collectively deposition credit union deposition deposition limit except collectively twoday deposition deponent credit union
 
 
-letter_address motion_limine
+o r d e r   t e n   d e p o s i t i o n   g r o u p   e x c e p t   d e p o s i t i o n   g r o u p   d e p o s i t i o n   l i m i t   o r d e r   c o l l e c t i v e l y   d e p o s i t i o n   c r e d i t   u n i o n   d e p o s i t i o n   d e p o s i t i o n   l i m i t   e x c e p t   c o l l e c t i v e l y   t w o d a y   d e p o s i t i o n   d e p o n e n t   c r e d i t   u n i o n
 
 
+l e t t e r _ a d d r e s s   m o t i o n _ l i m i n e
 
-order order status_report collection group sample order status_report collection group sample
 
 
+o r d e r   o r d e r   s t a t u s _ r e p o r t   c o l l e c t i o n   g r o u p   s a m p l e   o r d e r   s t a t u s _ r e p o r t   c o l l e c t i o n   g r o u p   s a m p l e
 
 
 
@@ -1599,73 +1597,73 @@ order order status_report collection group sample order status_report collection
 
 
 
-order order next status_report reunderwriting due subsequent status_report due every week thereafter
 
 
+o r d e r   o r d e r   n e x t   s t a t u s _ r e p o r t   r e u n d e r w r i t i n g   d u e   s u b s e q u e n t   s t a t u s _ r e p o r t   d u e   e v e r y   w e e k   t h e r e a f t e r
 
-letter_address discovery dispute involve production
-letter_address letter discovery dispute involve production
 
 
+l e t t e r _ a d d r e s s   d i s c o v e r y   d i s p u t e   i n v o l v e   p r o d u c t i o n
+l e t t e r _ a d d r e s s   l e t t e r   d i s c o v e r y   d i s p u t e   i n v o l v e   p r o d u c t i o n
 
 
-endorsed_letter_address endorsement grant
 
 
-letter_address confirmation
-letter_address letter
+e n d o r s e d _ l e t t e r _ a d d r e s s   e n d o r s e m e n t   g r a n t
 
-letter_address reunderwriting
 
+l e t t e r _ a d d r e s s   c o n f i r m a t i o n
+l e t t e r _ a d d r e s s   l e t t e r
 
-letter_address letter
+l e t t e r _ a d d r e s s   r e u n d e r w r i t i n g
 
 
-order order identify cdo lawsuit involve rmbs coordinate officer employee extent entity sponsor underwriter cdo lawsuit identity deponent cdo lawsuit also custodian coordinated number deponent cdo lawsuit ordered meet confer disclosure bring dispute attention procedure
-letter_address joint status_report disclosure
+l e t t e r _ a d d r e s s   l e t t e r
 
 
+o r d e r   o r d e r   i d e n t i f y   c d o   l a w s u i t   i n v o l v e   r m b s   c o o r d i n a t e   o f f i c e r   e m p l o y e e   e x t e n t   e n t i t y   s p o n s o r   u n d e r w r i t e r   c d o   l a w s u i t   i d e n t i t y   d e p o n e n t   c d o   l a w s u i t   a l s o   c u s t o d i a n   c o o r d i n a t e   n u m b e r   d e p o n e n t   c d o   l a w s u i t   o r d e r e d   m e e t   c o n f e r   d i s c l o s u r e   b r i n g   d i s p u t e   a t t e n t i o n   p r o c e d u r e
+l e t t e r _ a d d r e s s   j o i n t   s t a t u s _ r e p o r t   d i s c l o s u r e s
 
 
 
 
 
-order disclose sample within securitization intend reunderwrite identify securitizations draw purpose reunderwriting order
 
 
+o r d e r   d i s c l o s e   s a m p l e   w i t h i n   s e c u r i t i z a t i o n   i n t e n d   r e u n d e r w r i t e   i d e n t i f y   s e c u r i t i z a t i o n s   d r a w   p u r p o s e   r e u n d e r w r i t i n g   o r d e r
 
 
-order motion pertaining coordinate implicate motion convey judicial officer motion stand ready willing accept transfer motion also convey transfer motion effect transfer motion hon southern whereafter rule upon consultation among cote andor order promptly transfer discovery coordinate litigation motion dispute ordered also convey judicial officer motion address discovery order coordinated mechanisms place resolve dispute arise advance deposition
 
 
+o r d e r   m o t i o n   p e r t a i n i n g   c o o r d i n a t e   i m p l i c a t e   m o t i o n   c o n v e y   j u d i c i a l   o f f i c e r   m o t i o n   s t a n d   r e a d y   w i l l i n g   a c c e p t   t r a n s f e r   m o t i o n   a l s o   c o n v e y   t r a n s f e r   m o t i o n   e f f e c t   t r a n s f e r   m o t i o n   h o n   s o u t h e r n   w h e r e a f t e r   r u l e   u p o n   c o n s u l t a t i o n   a m o n g   c o t e   o r d e r   p r o m p t l y   t r a n s f e r   d i s c o v e r y   c o o r d i n a t e   l i t i g a t i o n   m o t i o n   d i s p u t e   o r d e r e d   a l s o   c o n v e y   j u d i c i a l   o f f i c e r   m o t i o n   a d d r e s s   d i s c o v e r y   o r d e r   c o o r d i n a t e d   m e c h a n i s m s   p l a c e   r e s o l v e   d i s p u t e   a r i s e   a d v a n c e   d e p o s i t i o n
 
 
 
 
 
 
-order produce demand compensation current former compensation loveless demand compensation order produce loveless thirty minute deposition
 
 
+o r d e r   p r o d u c e   d e m a n d   c o m p e n s a t i o n   c u r r e n t   f o r m e r   c o m p e n s a t i o n   l o v e l e s s   d e m a n d   c o m p e n s a t i o n   o r d e r   p r o d u c e   l o v e l e s s   t h i r t y   m i n u t e   d e p o s i t i o n
 
-letter_address schedule kansas
 
-letter_address requesting order adopt propose schedule kansa appendix
 
+l e t t e r _ a d d r e s s   s c h e d u l e   k a n s a s
 
+l e t t e r _ a d d r e s s   r e q u e s t i n g   o r d e r   a d o p t   p r o p o s e   s c h e d u l e   k a n s a   a p p e n d i x
 
 
 
 
-ordered u central deposition deny
-order grant fifteen minute deposition consider order produce loveless total fortyfive minute deposition
 
 
+o r d e r   u   c e n t r a l   d e p o s i t i o n   d e n y
+o r d e r   g r a n t   f i f t e e n   m i n u t e   d e p o s i t i o n   c o n s i d e r   o r d e r   p r o d u c e   l o v e l e s s   t o t a l   f o r t y f i v e   m i n u t e   d e p o s i t i o n
 
-order relevant pm edt today corelogic meet confer noon edt event corelogic contend unable comply otherwise object subpoena letter pm edt
-schedule order responsive letter edt
 
 
+o r d e r   r e l e v a n t   p   e d t   t o d a y   c o r e l o g i c   m e e t   c o n f e r   n o o n   e d t   e v e n t   c o r e l o g i c   c o n t e n d   u n a b l e   c o m p l y   o t h e r w i s e   o b j e c t   s u b p o e n a   l e t t e r   p   e d t
+s c h e d u l e   o r d e r   r e s p o n s i v e   l e t t e r   e d t
 
 
 
@@ -1673,9 +1671,9 @@ schedule order responsive letter edt
 
 
 
-joint letter_address schedule entry
 
 
+j o i n t   l e t t e r _ a d d r e s s   s c h e d u l e   e n t r y
 
 
 
@@ -1713,49 +1711,49 @@ joint letter_address schedule entry
 
 
 
-order accept without hard reflect original ink signature initial agent applicable motion deem timely
 
 
-letter_address memo_endorsement brief schedule
+o r d e r   a c c e p t   w i t h o u t   h a r d   r e f l e c t   o r i g i n a l   i n k   s i g n a t u r e   i n i t i a l   a g e n t   a p p l i c a b l e   m o t i o n   d e e m   t i m e l y
 
-deficient entry rule
 
+l e t t e r _ a d d r e s s   m e m o _ e n d o r s e m e n t   b r i e f   s c h e d u l e
 
-rule
+d e f i c i e n t   e n t r y   r u l e
 
 
-rule
+r u l e
 
 
-rule
+r u l e
 
 
+r u l e
 
 
-rule
 
 
+r u l e
 
 
-rule
-rule
 
 
-rule
+r u l e
+r u l e
 
 
+r u l e
 
 
 
 
-delete delete number rule incorrectly
 
 
+d e l e t e   d e l e t e   n u m b e r   r u l e   i n c o r r e c t l y
 
 
-rule
 
 
+r u l e
 
 
 
@@ -1766,74 +1764,74 @@ rule
 
 
 
-rule
 
 
+r u l e
 
 
 
 
 
 
-rule
 
 
-rule
+r u l e
 
-rule
 
-rule
+r u l e
 
+r u l e
 
-rule
+r u l e
 
 
-rule
+r u l e
 
-duplicate entry rule
-rule
 
+r u l e
 
-rule
+d u p l i c a t e   e n t r y   r u l e
+r u l e
 
 
-rule
+r u l e
 
-rule
 
+r u l e
 
-rule
+r u l e
 
 
+r u l e
 
-rule
 
 
+r u l e
 
-rule
 
 
-rule
+r u l e
 
-letter_address order
-endorsed_letter_address continue meet confer fee cost pay status update endorsement order
 
+r u l e
 
+l e t t e r _ a d d r e s s   o r d e r
+e n d o r s e d _ l e t t e r _ a d d r e s s   c o n t i n u e   m e e t   c o n f e r   f e e   c o s t   p a y   s t a t u s   u p d a t e   e n d o r s e m e n t   o r d e r
 
-letter_address fee cost
-endorsed_letter_address rom fee cost endorsement
 
 
-possibly
-certain underwriter
+l e t t e r _ a d d r e s s   f e e   c o s t
+e n d o r s e d _ l e t t e r _ a d d r e s s   r o m   f e e   c o s t   e n d o r s e m e n t
 
 
-decline decline assignment
+p o s s i b l y
+c e r t a i n   u n d e r w r i t e r
 
 
-gc pc
+d e c l i n e   d e c l i n e   a s s i g n m e n t
 
 
+g   c   p   c
 
 
 
@@ -1846,9 +1844,9 @@ gc pc
 
 
 
-accept
 
 
+a c c e p t
 
 
 
@@ -1862,36 +1860,36 @@ accept
 
 
 
-accept
 
 
+a c c e p t
 
 
 
 
 
-longer
 
 
+l o n g e r
 
 
 
 
 
-ambassador inc
 
 
+a m b a s s a d o r   i n c
 
 
-inc
 
 
+i n c
 
 
 
-pc office pc
 
 
+p   c   o f f i c e   p   c
 
 
 
@@ -1904,27 +1902,27 @@ pc office pc
 
 
 
-inc
 
 
+i n c
 
-lp inc
 
 
-inc
+l _ p   i n c
 
 
+i n c
 
 
 
-inc
 
 
+i n c
 
 
-inc
 
 
+i n c
 
 
 
@@ -1949,30 +1947,30 @@ inc
 
 
 
-consent change ambassador inc
-endorsed_letter_address rule local rule parte letter advice proceed rule
-order new mc caption property business loss litigation create currently part mc transfer new mc say order reorganization ptffs committee reorganization defts committee miscellaneous herein original doc
-accept
-consolidated member consolidate
 
 
+c o n s e n t   c h a n g e   a m b a s s a d o r   i n c
+e n d o r s e d _ l e t t e r _ a d d r e s s   r u l e   l o c a l   r u l e   p a r t e   l e t t e r   a d v i c e   p r o c e e d   r u l e
+o r d e r   n e w   m c   c a p t i o n   p r o p e r t y   b u s i n e s s   l o s s   l i t i g a t i o n   c r e a t e   c u r r e n t l y   p a r t   m c   t r a n s f e r   n e w   m c   s a y   o r d e r   r e o r g a n i z a t i o n   p t f f s   c o m m i t t e e   r e o r g a n i z a t i o n   d e f t s   c o m m i t t e e s   m i s c e l l a n e o u s   h e r e i n   o r i g i n a l   d o c
+a c c e p t
+c o n s o l i d a t e d   m e m b e r   c o n s o l i d a t e
 
 
 
-motion crossclaims rule
 
 
+m o t i o n   c r o s s c l a i m s   r u l e
 
 
 
 
 
 
-llp
 
-order regulate discovery instruction brief schedule
 
+l   l _ p
 
+o r d e r   r e g u l a t e   d i s c o v e r y   i n s t r u c t i o n   b r i e f   s c h e d u l e
 
 
 
@@ -1987,9 +1985,9 @@ order regulate discovery instruction brief schedule
 
 
 
-correct hold
 
 
+c o r r e c t   h o l d   r e p o r t e r   t r a n s c r i b e r
 
 
 
@@ -2001,17 +1999,17 @@ correct hold
 
 
 
-note refile nonecf note manually refile motion reargument
 
 
+n o t e   r e f i l e   n o n e c f   n o t e   m a n u a l l y   r e f i l e   m o t i o n   r e a r g u m e n t
 
 
 
 
 
-management order establishment structure efficient prosecution underlie caption litigation handle involve world trade center ground separate discovery procedure within schedule pleading discovery involve world trade center say order wtc ground litigation aviation discovery wtc ground liaison schedule
 
 
+m a n a g e m e n t   o r d e r   e s t a b l i s h m e n t   s t r u c t u r e   e f f i c i e n t   p r o s e c u t i o n   u n d e r l i e   c a p t i o n   l i t i g a t i o n   h a n d l e   i n v o l v e   w o r l d   t r a d e   c e n t e r   g r o u n d   s e p a r a t e   d i s c o v e r y   p r o c e d u r e   w i t h i n   s c h e d u l e   p l e a d i n g   d i s c o v e r y   i n v o l v e   w o r l d   t r a d e   c e n t e r   s a y   o r d e r   w t c   g r o u n d   l i t i g a t i o n   a v i a t i o n   d i s c o v e r y   w t c   g r o u n d   l i a i s o n   s c h e d u l e   a s s o c i a t e
 
 
 
@@ -2061,16 +2059,16 @@ management order establishment structure efficient prosecution underlie caption 
 
 
 
-order admission practice pro_hac_vice purs local civil rule admit pro_hac_vice bar purpose represent nonparty subpoena recipient consolidated relates cv_cv_cv_cv cv_cv_cv_cv cv_cv_cv_cv cv_cv_cv_cv cv_cv cv
 
 
+o r d e r   a d m i s s i o n   p r a c t i c e   p r o _ h a c _ v i c e   p u r s   l o c a l   c i v i l   r u l e   a d m i t t e d   p r o _ h a c _ v i c e   b a r   p u r p o s e   r e p r e s e n t   n o n p a r t y   s u b p o e n a   r e c i p i e n t   c o n s o l i d a t e d   c v _ c v _ c v _ c v   c v _ c v _ c v _ c v   c v _ c v _ c v _ c v   c v _ c v _ c v _ c v   c v _ c v   c v
 
 
 
 
-note nonecf note manually refile per order longer ecf original manually
 
 
+n o t e   n o n e c f   n o t e   m a n u a l l y   r e f i l e   p e r   o r d e r   l o n g e r   e c f   o r i g i n a l   m a n u a l l y
 
 
 
@@ -2081,9 +2079,9 @@ note nonecf note manually refile per order longer ecf original manually
 
 
 
-admission transmit memo_endorsement admission update
 
 
+a d m i s s i o n   t r a n s m i t   m e m o _ e n d o r s e m e n t   a d m i s s i o n   u p d a t e
 
 
 
@@ -2122,20 +2120,20 @@ admission transmit memo_endorsement admission update
 
 
 
-hold pm
 
 
+h o l d   p
 
 
 
-counter
 
 
+c o u n t e r
 
 
-cross motion sever punitive lpfiled associate
 
 
+c r o s s   m o t i o n   s e v e r   p u n i t i v e   l _ p
 
 
 
@@ -2176,11 +2174,11 @@ cross motion sever punitive lpfiled associate
 
 
 
-deadlineshearings oral_argument pm
 
-order intend fix discovery schedule dispositive motion
 
+d e a d l i n e   h e a r i n g   o r a l _ a r g u m e n t   p m
 
+o r d e r   i n t e n d   f i x   d i s c o v e r y   s c h e d u l e   d i s p o s i t i v e   m o t i o n
 
 
 
@@ -2199,33 +2197,33 @@ order intend fix discovery schedule dispositive motion
 
 
 
-development corp
 
 
-corp
+d e v e l o p m e n t   c o r p
 
 
+c o r p
 
 
 
 
-motion protective order preclude deposition former chairman ceo incfiled
 
 
+m o t i o n   p r o t e c t i v e   o r d e r   p r e c l u d e   d e p o s i t i o n   f o r m e r   c h a i r m a n   c e o   i n c
 
-deficient entry rule lp associate
 
 
+d e f i c i e n t   e n t r y   r u l e   l _ p   a s s o c i a t e
 
-rule lp associate
 
 
+r u l e   l _ p   a s s o c i a t e
 
-hold
 
-rule ho
 
+h o l d
 
+r u l e   h
 
 
 
@@ -2233,37 +2231,37 @@ rule ho
 
 
 
-counter rule inc
 
-counter rule inc
 
+c o u n t e r   r u l e   i n c
 
+c o u n t e r   r u l e   i n c
 
 
 
 
-letter rogatory inc
 
 
+l e t t e r   r o g a t o r y   i n c
 
 
-deadlineshearings deposition due
 
 
-order admit pro_hac_vice admitted pro_hac_vice
-admission transmit order admit pro_hac_vice admission update
+d e a d l i n e   h e a r i n g   d e p o s i t i o n   d u e
 
 
+o r d e r   a d m i t   p r o _ h a c _ v i c e   a d m i t t e d   p r o _ h a c _ v i c e
+a d m i s s i o n   t r a n s m i t   o r d e r   a d m i t   p r o _ h a c _ v i c e   a d m i s s i o n   u p d a t e   a s s o c i a t e
 
 
-rule lp
 
 
+r u l e   l _ p
 
 
-rule
 
 
+r u l e
 
 
 
@@ -2283,16 +2281,16 @@ rule
 
 
 
-counter rule
-counter rule
 
 
+c o u n t e r   r u l e
+c o u n t e r   r u l e
 
 
 
-rule inc
 
 
+r u l e   i n c
 
 
 
@@ -2311,9 +2309,9 @@ rule inc
 
 
 
-order assert specific crossclaims contribution contractual andor common law indemnity within thirty order failure assert result dismissal prejudice
 
 
+o r d e r   a s s e r t   s p e c i f i c   c r o s s c l a i m s   c o n t r i b u t i o n   c o n t r a c t u a l   c o m m o n   l a w   i n d e m n i t y   w i t h i n   t h i r t y   o r d e r   f a i l u r e   a s s e r t   r e s u l t   d i s m i s s a l   p r e j u d i c e
 
 
 
@@ -2324,11 +2322,11 @@ order assert specific crossclaims contribution contractual andor common law inde
 
 
 
-endorsed_letter_address joint individual rule endorsement argument motion proceed schedule pm
 
-hold pm
 
+e n d o r s e d _ l e t t e r _ a d d r e s s   j o i n t   i n d i v i d u a l   r u l e   e n d o r s e m e n t   a r g u m e n t   m o t i o n   p r o c e e d   s c h e d u l e   p m
 
+h o l d   p
 
 
 
@@ -2351,20 +2349,20 @@ hold pm
 
 
 
-bill cost inc
 
 
+b i l l   c o s t   i n c
 
 
 
 
 
 
-bill cost lp
 
-motion hold
 
+b i l l   c o s t   l _ p
 
+m o t i o n   h o l d
 
 
 
@@ -2373,19 +2371,19 @@ motion hold
 
 
 
-cost tax usca mandate usca number favor favor appellee office pc favor
 
 
+c o s t   t a x   u s c a _ m a n d a t e   u s c a   n u m b e r   f a v o r   f a v o r   a p p e l l e e   o f f i c e   p   c   f a v o r
 
 
-civil_cover_sheet
 
 
+c i v i l _ c o v e r _ s h e e t
 
 
-usc section r p notify consent proceed united wish consent access necessary link http nysduscourtsgovformsphp
 
 
+u _ c   s e c t i o n   r   p   n o t i f y   c o n s e n t   p r o c e e d   u n i t e d   w i s h   c o n s e n t   a c c e s s   n e c e s s a r y   l i n k   h t t p   n y s d   u s c o u r t s _ g o v   p h p
 
 
 
@@ -2421,9 +2419,9 @@ usc section r p notify consent proceed united wish consent access necessary link
 
 
 
-confidentiality order procedure_govern treatment disclose
 
 
+c o n f i d e n t i a l i t y   o r d e r   p r o c e d u r e _ g o v e r n   t r e a t m e n t   d i s c l o s e
 
 
 
@@ -2432,125 +2430,122 @@ confidentiality order procedure_govern treatment disclose
 
 
 
-rule
 
 
+r u l e
 
-rule
 
 
+r u l e
 
 
 
 
-counter rule
 
 
+c o u n t e r   r u l e
 
 
 
-rule
 
 
+r u l e
 
 
 
-rule
 
 
+r u l e
 
 
-counter rule
 
 
+c o u n t e r   r u l e
 
 
-counter rule
 
 
+c o u n t e r   r u l e
 
 
-jury_trial
 
 
-hold
+j u r y _ t r i a l
 
-brief support motion strike jury demand
-brief support motion strike jury demand
 
+h o l d
 
+b r i e f   s u p p o r t   m o t i o n   s t r i k e   j u r y   d e m a n d
+b r i e f   s u p p o r t   m o t i o n   s t r i k e   j u r y   d e m a n d
 
 
 
 
 
 
-rule disclosuredocument
-rule disclosuredocument
-motion_limine
 
 
-motion_limine preclude introduce evidence contract
 
 
-motion_limine preclude introduce evidence contradict position corporate designee depose rule
+m o t i o n _ l i m i n e
 
 
-motion_limine preclude testimony
+m o t i o n _ l i m i n e   p r e c l u d e   i n t r o d u c e   e v i d e n c e   c o n t r a c t
 
 
+m o t i o n _ l i m i n e   p r e c l u d e   i n t r o d u c e   e v i d e n c e   c o n t r a d i c t   p o s i t i o n   c o r p o r a t e   d e s i g n e e   d e p o s e   r u l e
 
 
+m o t i o n _ l i m i n e   p r e c l u d e   t e s t i m o n y
 
-motion_limine preclude introduce evidence pertain reinsurers
 
 
-motion_limine
 
 
+m o t i o n _ l i m i n e   p r e c l u d e   i n t r o d u c e   e v i d e n c e   p e r t a i n   r e i n s u r e r s
 
-order camera confidentiality decision award point reach procedural order forthwith furnish confidentiality decision award reason term list herein
 
+m o t i o n _ l i m i n e
 
 
 
-propose jury instruction
+o r d e r   c a m e r a   c o n f i d e n t i a l i t y   d e c i s i o n   a w a r d   p o i n t   r e a c h   p r o c e d u r a l   o r d e r   f o r t h w i t h   f u r n i s h   c o n f i d e n t i a l i t y   d e c i s i o n   a w a r d   r e a s o n   t e r m   l i s t   h e r e i n
 
 
 
 
+p r o p o s e   j u r y   i n s t r u c t i o n
 
 
 
 
 
 
-propose jury instruction
 
-propose voir dire question
-propose voir dire question
 
 
-jury_trial begin
 
+p r o p o s e   j u r y   i n s t r u c t i o n
 
-trial
+p r o p o s e   v o i r   d i r e   q u e s t i o n
+p r o p o s e   v o i r   d i r e   q u e s t i o n
 
-continue
 
+j u r y _ t r i a l   b e g i n
 
 
+t r i a l
 
+c o n t i n u e
 
 
-jury instruction
 
-jury verdict 30th jury verdict contest yes
 
-ruling deposition objectionsdocument
 
 
+j u r y   i n s t r u c t i o n
 
+j u r y   v e r d i c t   3 0 t h   j u r y   v e r d i c t   c o n t e s t   y e s
 
 
 
@@ -2566,22 +2561,22 @@ ruling deposition objectionsdocument
 
 
 
-supersedeas bond post
 
 
 
 
 
+s u p e r s e d e a s   b o n d   p o s t
 
-hold
 
-hold
-hold
 
 
 
 
+h o l d
 
+h o l d
+h o l d
 
 
 
@@ -2602,34 +2597,34 @@ hold
 
 
 
-usca_mandateorder usca mandate
 
 
 
 
 
+u s c a _ m a n d a t e   o r d e r   u s c a _ m a n d a t e
 
 
 
 
 
-hand deliver certified finding_conclusion
-assistant transmit finding_conclusion_law assistant processing
 
 
 
-usca_mandateorder usca mandate
 
 
-hold
+h a n d   d e l i v e r   c e r t i f i e d   f i n d i n g _ c o n c l u s i o n
+a s s i s t a n t   t r a n s m i t   f i n d i n g _ c o n c l u s i o n _ l a w   a s s i s t a n t   p r o c e s s i n g
 
 
-motion taxation cost
 
+u s c a _ m a n d a t e   o r d e r   u s c a _ m a n d a t e
 
 
+h o l d
 
 
+m o t i o n   t a x a t i o n   c o s t
 
 
 
@@ -2646,12 +2641,12 @@ motion taxation cost
 
 
 
-stand order pilot_project management technique complex civil southern inclusion_pilot_project management technique unless determines otherwise inclusion_pilot_project mdl nature suit category preside otherwise qualify inclusion_pilot_project nevertheless inclusion_pilot_project order pilot_project description pilot_project procedure order
 
 
 
 
 
+s t a n d   o r d e r   p i l o t _ p r o j e c t   m a n a g e m e n t   t e c h n i q u e   c o m p l e x   c i v i l   s o u t h e r n   i n c l u s i o n _ p i l o t _ p r o j e c t   m a n a g e m e n t   t e c h n i q u e   u n l e s s   d e t e r m i n e s   o t h e r w i s e   i n c l u s i o n _ p i l o t _ p r o j e c t   m d l   f o l l o w i n g   n a t u r e   s u i t   c a t e g o r i e s   p r e s i d e   o t h e r w i s e   q u a l i f y   i n c l u s i o n _ p i l o t _ p r o j e c t   n e v e r t h e l e s s   i n c l u s i o n _ p i l o t _ p r o j e c t   o r d e r   p i l o t _ p r o j e c t   d e s c r i p t i o n   p i l o t _ p r o j e c t   p r o c e d u r e   a t t a c h e d   o r d e r
 
 
 
@@ -2676,13 +2671,13 @@ stand order pilot_project management technique complex civil southern inclusion_
 
 
 
-letter_address background abovereferenced transfer
-letter_address jr responding letter send ostensibly background
 
 
 
 
 
+l e t t e r _ a d d r e s s   b a c k g r o u n d   a b o v e r e f e r e n c e d   t r a n s f e r
+l e t t e r _ a d d r e s s   j r   r e s p o n d   l e t t e r   s e n d   o s t e n s i b l y   b a c k g r o u n d
 
 
 
@@ -2735,18 +2730,18 @@ letter_address jr responding letter send ostensibly background
 
 
 
-retrieve retrieve
-dispose destroy since retrieve within indicate sealed destroy
 
 
 
 
-order grant ifp cropse ave apt brooklyn
 
+r e t r i e v e   r e t r i e v e
+d i s p o s e   d e s t r o y e d   s i n c e   r e t r i e v e   w i t h i n   i n d i c a t e   s e a l e d   d e s t r o y
 
 
 
 
+o r d e r   g r a n t   i f p   c r o p s e   a v e   a p t   b r o o k l y n
 
 
 
@@ -2784,12 +2779,12 @@ order grant ifp cropse ave apt brooklyn
 
 
 
-letter_address clarify last order wellington
 
 
 
 
 
+l e t t e r _ a d d r e s s   c l a r i f y   l a s t   o r d e r   w e l l i n g t o n
 
 
 
@@ -2801,26 +2796,26 @@ letter_address clarify last order wellington
 
 
 
-assistant transmit order assistant processing
 
 
 
 
 
+a s s i s t a n t   t r a n s m i t   o r d e r   a s s i s t a n t   p r o c e s s i n g
 
 
 
-assistant transmit order assistant processing
-order cropse ave apt brooklyn
 
 
-assistant transmit order assistant processing
-order deadline cropse ave apt brooklyn
 
 
 
+a s s i s t a n t   t r a n s m i t   o r d e r   a s s i s t a n t   p r o c e s s i n g
+o r d e r   c r o p s e   a v e   a p t   b r o o k l y n
 
 
+a s s i s t a n t   t r a n s m i t   o r d e r   a s s i s t a n t   p r o c e s s i n g
+o r d e r   d e a d l i n e   c r o p s e   a v e   a p t   b r o o k l y n
 
 
 
@@ -2829,32 +2824,31 @@ order deadline cropse ave apt brooklyn
 
 
 
-letter_address remove email address list n't computer wellington
 
 
 
 
-letter_address requesting pause discovery order mediation wellington
 
-letter_address order
+l e t t e r _ a d d r e s s   r e m o v e   e m a i l   a d d r e s s   l i s t   n   c o m p u t e r   w e l l i n g t o n
 
 
 
 
 
 
+l e t t e r _ a d d r e s s   o r d e r
 
 
 
 
 
-letter_address propose discovery schedule
 
 
 
 
 
 
+l e t t e r _ a d d r e s s   p r o p o s e   d i s c o v e r y   s c h e d u l e
 
 
 
@@ -2869,24 +2863,24 @@ letter_address propose discovery schedule
 
 
 
-demand jury_trial
 
 
-pm
 
 
 
 
+d e m a n d   j u r y _ t r i a l
 
-order produce financial statments tax returnes period eye basis
-order number consolidate lead number purpose subsequent lead number number
-consolidated lead
 
+p
 
 
 
 
 
+o r d e r   p r o d u c e   f i n a n c i a l   s t a t m e n t s   t a x   r e t u r n e s   p e r i o d   e y e s   b a s i s
+o r d e r   n u m b e r   c o n s o l i d a t e   l e a d   n u m b e r   p u r p o s e   s u b s e q u e n t   l e a d   n u m b e r   n u m b e r
+c o n s o l i d a t e d   l e a d
 
 
 
@@ -2897,117 +2891,117 @@ consolidated lead
 
 
 
-affidavit support motion order grant motion exclude v us579 testimony purport motion alternative daubert hear prior trial
-propose_finding_conclusion_law
-propose conclusion_law
-propose_finding_conclusion_law
 
 
 
-bench_trial conclude
-propose_finding_conclusion_law
 
-correct finding_conclusion_law pltff
 
-propose conclusion_law
 
+a f f i d a v i t   s u p p o r t   m o t i o n   o r d e r   g r a n t   m o t i o n   e x c l u d e   v   u   t e s t i m o n y   p u r p o r t   m o t i o n   a l t e r n a t i v e   s e t t i n g   d a u b e r t   h e a r   p r i o r   t r i a l
+p r o p o s e _ f i n d i n g _ c o n c l u s i o n _ l a w
+p r o p o s e   c o n c l u s i o n _ l a w
+p r o p o s e _ f i n d i n g _ c o n c l u s i o n _ l a w
 
 
 
+b e n c h _ t r i a l   c o n c l u d e
+p r o p o s e _ f i n d i n g _ c o n c l u s i o n _ l a w
 
+c o r r e c t   f i n d i n g _ c o n c l u s i o n _ l a w   p l t f f
 
+p r o p o s e   c o n c l u s i o n _ l a w
 
 
-propose conclusion_law phase trial
-propose_finding phase trial
-bench_trial begin continued
-bench_trial hold continued
-bench_trial hold continued
-bench_trial hold continue
-bench_trial hold conclude total trial
 
 
 
-amend propose_finding_conclusion_law phase trial
-amend propose_finding_conclusion_law
-supplemental propose_finding_conclusion_law w enclose compendium cite supplemental propose_finding conclusion
 
-excepts deposition
 
-correct amend propose_finding_conclusion_law
 
-appendix amend propose conclusion_law phase trial
+p r o p o s e   c o n c l u s i o n _ l a w   p h a s e   t r i a l
+p r o p o s e _ f i n d i n g   p h a s e   t r i a l
+b e n c h _ t r i a l   b e g i n   c o n t i n u e
+b e n c h _ t r i a l   h o l d   c o n t i n u e
+b e n c h _ t r i a l   h o l d   c o n t i n u e
+b e n c h _ t r i a l   h o l d   c o n t i n u e
+b e n c h _ t r i a l   h o l d   c o n c l u d e   t o t a l   t r i a l
 
 
 
+a m e n d   p r o p o s e _ f i n d i n g _ c o n c l u s i o n _ l a w   p h a s e   t r i a l
+a m e n d   p r o p o s e _ f i n d i n g _ c o n c l u s i o n _ l a w
+s u p p l e m e n t a l   p r o p o s e _ f i n d i n g _ c o n c l u s i o n _ l a w   w   e n c l o s e   c o m p e n d i u m   c i t e   s u p p l e m e n t a l   p r o p o s e _ f i n d i n g   c o n c l u s i o n
 
+e x c e p t s   d e p o s i t i o n
 
+c o r r e c t   a m e n d   p r o p o s e _ f i n d i n g _ c o n c l u s i o n _ l a w
 
+a p p e n d i x   a m e n d   p r o p o s e   c o n c l u s i o n _ l a w   p h a s e   t r i a l
 
 
 
 
-bond sum
 
 
 
-correct bond sum
 
 
 
+b o n d   s u m
 
 
-correct supersedeas bond sum
 
+c o r r e c t   b o n d   s u m
 
 
 
 
 
+c o r r e c t   s u p e r s e d e a s   b o n d   s u m
 
 
 
-usca_mandateorder
 
-usca_mandateorder usca order
 
 
 
 
 
+u s c a _ m a n d a t e   o r d e r
 
-hold
+u s c a _ m a n d a t e   o r d e r   u s c a   o r d e r
 
 
 
 
 
 
+h o l d
 
 
 
-identifying
 
 
 
 
 
 
+i d e n t i f y
 
 
 
-inc
 
 
 
 
-hold
 
 
+i n c
 
 
 
 
+h o l d
 
 
 
@@ -3017,64 +3011,64 @@ hold
 
 
 
-endorsed_letter_address agree enclose stipulated confidentiality protective order thenature discovery agree certain modification model stipulate confidentiality protective order modification illustrate attached redline compare enclose order model order please let u know question enclose order werespectfully approval endorsement concerned para proposed order amend extend confidentiality testimony deposition testimony understanding confidential use course trial lose prior protection either para need reword someone need explain understanding wrong
-stipulate confidentiality protective order procedure_govern_handle_confidential
 
 
-hold
 
 
 
 
-hold
+e n d o r s e d _ l e t t e r _ a d d r e s s   a g r e e   e n c l o s e   s t i p u l a t e d   c o n f i d e n t i a l i t y   p r o t e c t i v e   o r d e r   t h e n a t u r e   d i s c o v e r y   a g r e e   c e r t a i n   m o d i f i c a t i o n   m o d e l   s t i p u l a t e   c o n f i d e n t i a l i t y   p r o t e c t i v e   o r d e r   m o d i f i c a t i o n   i l l u s t r a t e   a t t a c h e d   r e d l i n e   c o m p a r e   e n c l o s e   o r d e r   m o d e l   o r d e r   p l e a s e   l e t   u   k n o w   q u e s t i o n   e n c l o s e   o r d e r   w e r e s p e c t f u l l y   a p p r o v a l   e n d o r s e m e n t   p r o p o s e   o r d e r   a m e n d   e x t e n d s   c o n f i d e n t i a l i t y   t e s t i m o n y   d e p o s i t i o n   t e s t i m o n y   u n d e r s t a n d   c o n f i d e n t i a l   u s e   c o u r s e   t r i a l   l o s e   p r i o r   p r o t e c t i o n   e i t h e r   p a r a   n e e d   r e w o r d   s o m e o n e   n e e d   e x p l a i n   u n d e r s t a n d i n g   w r o n g
+s t i p u l a t e   c o n f i d e n t i a l i t y   p r o t e c t i v e   o r d e r   p r o c e d u r e _ g o v e r n _ h a n d l e _ c o n f i d e n t i a l
 
-hold pm
 
+h o l d
 
 
 
 
+h o l d
 
-hold pm
+h o l d   p
 
 
 
 
 
-hold
 
+h o l d   p
 
 
 
 
 
-hold
+h o l d
 
 
 
 
 
 
-hold
+h o l d
 
 
 
 
 
 
+h o l d
 
 
 
 
-hold
 
-hold
 
 
 
 
 
+h o l d
 
+h o l d
 
 
 
@@ -3106,13 +3100,13 @@ hold
 
 
 
-order exchange proposed deposition list depose thirty fifteen hour deposition order send
 
 
 
 
 
 
+o r d e r   e x c h a n g e   p r o p o s e d   d e p o s i t i o n   l i s t   d e p o s e   t h i r t y   f i f t e e n   h o u r   d e p o s i t i o n   o r d e r   s e n d
 
 
 
@@ -3146,28 +3140,28 @@ order exchange proposed deposition list depose thirty fifteen hour deposition or
 
 
 
-endorsed_letter_address subject approval agree schedule deposition april2012 cutoff endorsement proposal acceptable
 
 
 
 
 
 
+e n d o r s e d _ l e t t e r _ a d d r e s s   s u b j e c t   a p p r o v a l   a g r e e   s c h e d u l e   d e p o s i t i o n   a p r i l 2 0 1 2   c u t o f f   e n d o r s e m e n t   p r o p o s a l   a c c e p t a b l e
 
 
 
-supplemental stipulate confidentiality protective order procedure_govern_handle_confidential
 
 
 
 
-discovery order camera minute meet hold previouslyredacted portion disclose herein fax
 
 
+s u p p l e m e n t a l   s t i p u l a t e   c o n f i d e n t i a l i t y   p r o t e c t i v e   o r d e r   p r o c e d u r e _ g o v e r n _ h a n d l e _ c o n f i d e n t i a l
 
 
 
 
+d i s c o v e r y   o r d e r   c a m e r a   m i n u t e   m e e t   h o l d   p r e v i o u s l y r e d a c t e d   p o r t i o n   d i s c l o s e   h e r e i n   f a x
 
 
 
@@ -3175,61 +3169,61 @@ discovery order camera minute meet hold previouslyredacted portion disclose here
 
 
 
-revise_schedule order complete discovery complete deposition discovery complete
-endorsed_letter_address clarification rule ability continue deposition messrs endorsement point ii clearer win !
 
 
 
 
 
-discovery order letterrequest produce rule testify deny
 
+r e v i s e _ s c h e d u l e   o r d e r   c o m p l e t e   d i s c o v e r y   c o m p l e t e   d e p o s i t i o n   d i s c o v e r y   c o m p l e t e
+e n d o r s e d _ l e t t e r _ a d d r e s s   c l a r i f i c a t i o n   r u l e   a b i l i t y   c o n t i n u e   d e p o s i t i o n   m e s s r s   e n d o r s e m e n t   p o i n t   i i   c l e a r e r   w i n
 
 
 
 
 
+d i s c o v e r y   o r d e r   l e t t e r r e q u e s t   p r o d u c e   r u l e   t e s t i f y   d e n y
 
 
 
 
-revise_schedule order revise_schedule order amends relevant provision civil management plan schedule order revise_schedule order ordered deposition due discovery due discovery due
-setreset deadline discovery due
 
 
 
 
 
 
+r e v i s e _ s c h e d u l e   o r d e r   r e v i s e _ s c h e d u l e   o r d e r   a m e n d s   r e l e v a n t   p r o v i s i o n   c i v i l   m a n a g e m e n t   p l a n   s c h e d u l e   o r d e r   r e v i s e _ s c h e d u l e   o r d e r   o r d e r   d e p o s i t i o n   d u e   d i s c o v e r y   d u e   d i s c o v e r y   d u e
+r e s e t   d e a d l i n e   d i s c o v e r y   d u e
 
 
 
 
 
 
-third revise_schedule order disclosure_federal rule civil_procedure_serve disclosure_federal rule civil_procedure_serve rebuttal report serve discovery due
 
 
 
-fourth revise_schedule order fourth revise_schedule order fourth revise_schedule order amends relevant provision civil management plan schedule order revise_schedule order third revise_schedule order disclosure_federal rule civil_procedure_serve disclosure_federal rule civil_procedure_serve rebuttal report serve discovery complete demonstrative use illustrate testimony need disclose report disclose agree upon partied order
 
 
-fifth revise_schedule order fifth revise_schedule order fifth revise_schedule order amends relevant provision ofthe civil management plan schedule order revise_schedule order third revise_schedule order fourth revise_schedule order disclosure_federal rule civil_procedure_serve disclosure_federal rule civil_procedure_serve rebuttal report serve discovery complete demonstrative use illustrate testimony need disclose report disclose agree upon order discovery due
 
+t h i r d   r e v i s e _ s c h e d u l e   o r d e r   d i s c l o s u r e _ f e d e r a l   r u l e   c i v i l _ p r o c e d u r e _ s e r v e   d i s c l o s u r e _ f e d e r a l   r u l e   c i v i l _ p r o c e d u r e _ s e r v e   r e b u t t a l   r e p o r t   s e r v e   d i s c o v e r y   d u e
 
 
 
+f o u r t h   r e v i s e _ s c h e d u l e   o r d e r   f o u r t h   r e v i s e _ s c h e d u l e   o r d e r   f o u r t h   r e v i s e _ s c h e d u l e   o r d e r   a m e n d s   r e l e v a n t   p r o v i s i o n   c i v i l   m a n a g e m e n t   p l a n   s c h e d u l e   o r d e r   r e v i s e _ s c h e d u l e   o r d e r   t h i r d   r e v i s e _ s c h e d u l e   o r d e r   d i s c l o s u r e _ f e d e r a l   r u l e   c i v i l _ p r o c e d u r e _ s e r v e   d i s c l o s u r e _ f e d e r a l   r u l e   c i v i l _ p r o c e d u r e _ s e r v e   r e b u t t a l   r e p o r t   s e r v e   d i s c o v e r y   c o m p l e t e   d e m o n s t r a t i v e   u s e d   i l l u s t r a t e   t e s t i m o n y   n e e d   d i s c l o s e   r e p o r t   d i s c l o s e   a g r e e   u p o n   p a r t i e d   o r d e r
 
 
+f i f t h   r e v i s e _ s c h e d u l e   o r d e r   f i f t h   r e v i s e _ s c h e d u l e   o r d e r   f i f t h   r e v i s e _ s c h e d u l e   o r d e r   a m e n d s   r e l e v a n t   p r o v i s i o n   o f t h e   c i v i l   m a n a g e m e n t   p l a n   s c h e d u l e   o r d e r   r e v i s e _ s c h e d u l e   o r d e r   t h i r d   r e v i s e _ s c h e d u l e   o r d e r   f o u r t h   r e v i s e _ s c h e d u l e   o r d e r   d i s c l o s u r e _ f e d e r a l   r u l e   c i v i l _ p r o c e d u r e _ s e r v e   d i s c l o s u r e _ f e d e r a l   r u l e   c i v i l _ p r o c e d u r e _ s e r v e   r e b u t t a l   r e p o r t   s e r v e   d i s c o v e r y   c o m p l e t e   d e m o n s t r a t i v e   u s e d   i l l u s t r a t e   t e s t i m o n y   n e e d   d i s c l o s e   r e p o r t   d i s c l o s e   a g r e e   u p o n   o r d e r   d i s c o v e r y   d u e
 
 
-please advise abrams courtroom move thurgood marshall united courthouse locate foley square effective immediately place courtroom locate room foley square contact individual rule practice available http wwwnysduscourtsgovjudgeabrams remains
 
 
 
 
 
 
+p l e a s e   a d v i s e   a b r a m s   c o u r t r o o m   m o v e   t h u r g o o d   m a r s h a l l   u n i t e d   c o u r t h o u s e   l o c a t e   f o l e y   s q u a r e   e f f e c t i v e   i m m e d i a t e l y   p l a c e   c o u r t r o o m   l o c a t e   r o o m   f o l e y   s q u a r e   c o n t a c t   i n d i v i d u a l   r u l e   p r a c t i c e   a v a i l a b l e   h t t p   w w w   n y s d   u s c o u r t s _ g o v   a b r a m s
 
 
 
@@ -3238,7 +3232,13 @@ please advise abrams courtroom move thurgood marshall united courthouse locate f
 
 
 
-terminate deadline
 
 
-retrieve retrieve
+
+
+
+
+t e r m i n a t e   d e a d l i n e
+
+
+r e t r i e v e   r e t r i e v e
