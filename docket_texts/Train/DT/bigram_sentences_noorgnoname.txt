@@ -302,18 +302,9 @@ schedule order responsive letter edt
 joint letter_address schedule entry
 place_vault
 place_vault
-place_vault
-place_vault
-place_vault
-place_vault
-place_vault
 order accept without hard reflect original ink signature initial agent applicable motion deem timely
 letter_address memo_endorsement brief schedule
 deficient entry rule
-rule
-rule
-rule
-rule
 rule
 rule
 rule
@@ -324,21 +315,12 @@ rule
 place_vault
 place_vault
 place_vault
-place_vault
-rule
-rule
 rule
 rule
 rule
 rule
 rule
 duplicate entry rule
-rule
-rule
-rule
-rule
-rule
-rule
 rule
 rule
 letter_address order
@@ -392,7 +374,6 @@ deficient entry rule l_p associate et_al
 rule l_p associate et_al
 hold
 rule h
-counter rule inc
 counter rule inc
 letter rogatory inc
 deadline hearing deposition due
@@ -474,9 +455,6 @@ place_vault
 place_vault
 letter_address background abovereferenced transfer
 letter_address jr respond letter send ostensibly background
-place_vault
-place_vault
-place_vault
 place_vault
 place_vault
 place_vault

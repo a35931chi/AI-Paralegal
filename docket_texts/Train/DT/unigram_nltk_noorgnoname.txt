@@ -126,7 +126,6 @@ schedule order hear order show cause reschedule courtroom south deadline effect 
 
 
 
-
 reassign chief mag longer please download locate website responsible courtesy individual practice
 
 
@@ -219,8 +218,6 @@ status report
 
 
 
-
-
 unsigned order show cause
 please download locate website responsible courtesy individual practice
 
@@ -288,7 +285,6 @@ motion substitute letter support inc
 
 
 
-
 please download locate website responsible courtesy individual practice
 
 
@@ -319,7 +315,6 @@ report mediation unsettled mediation report find https www nyed uscourts gov adr
 
 
 
-
 status report
 
 rule
@@ -327,7 +322,6 @@ rule
 
 
 letter
-
 
 
 
@@ -507,7 +501,6 @@ possibly
 
 
 memoendorsement letter address grant insofar seeks production insuarance policy otherwise deny
-
 
 
 
@@ -698,14 +691,12 @@ civil cover sheet
 
 
 
-
 rule corporate disclosure corporate parent inc
 rule corporate disclosure corporate parent inc
 
 
 
 memo endorsement letter endorsement order
-
 
 
 
@@ -763,7 +754,6 @@ memo endorsement letter aim exploration inc endorsement deny
 civil cover sheet
 
 rule corporate disclosure corporate parent
-
 
 
 
@@ -1707,11 +1697,6 @@ joint letter address schedule entry
 
 place vault
 place vault
-place vault
-place vault
-place vault
-place vault
-place vault
 
 order accept without hard reflect original ink signature initial agent applicable motion deem timely
 
@@ -1724,7 +1709,6 @@ deficient entry rule
 rule
 
 
-rule
 
 
 rule
@@ -1737,11 +1721,8 @@ rule
 
 
 
-rule
-rule
 
 
-rule
 
 
 
@@ -1761,7 +1742,6 @@ place vault
 
 
 place vault
-place vault
 
 
 
@@ -1780,9 +1760,7 @@ rule
 
 rule
 
-rule
 
-rule
 
 
 rule
@@ -1791,15 +1769,6 @@ rule
 rule
 
 duplicate entry rule
-rule
-
-
-rule
-
-
-rule
-
-rule
 
 
 rule
@@ -1810,10 +1779,13 @@ rule
 
 
 
-rule
 
 
-rule
+
+
+
+
+
 
 letter address order
 endorsed letter address continue meet confer fee cost pay status update endorsement order
@@ -1923,10 +1895,6 @@ rule disclosure inc
 
 
 rule disclosure inc
-
-
-
-
 
 
 
@@ -2235,7 +2203,6 @@ rule h
 
 counter rule inc
 
-counter rule inc
 
 
 
@@ -2707,10 +2674,6 @@ place vault
 
 
 
-
-
-
-place vault
 place vault
 
 
@@ -2721,10 +2684,6 @@ place vault
 
 
 
-
-
-place vault
-place vault
 place vault
 
 
