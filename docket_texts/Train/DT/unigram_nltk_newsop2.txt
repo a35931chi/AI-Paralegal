@@ -13,8 +13,6 @@ attorney case open file check quality control see attachment corrections make en
 
 
 
-propose schedule order llc kehrli enter date
-letter propose schedule order llc attachments exhibit exhibit b kehrli enter date
 
 
 
@@ -57,10 +55,12 @@ letter propose schedule order llc attachments exhibit exhibit b kehrli enter dat
 
 
 
-order direct plaintiff respond defendant letter order magistrate judge date enter date
 
-letter motion sanction llc enter date
-order direct defendant respond plaintiff letter motion date order magistrate judge enter date
+
+
+
+
+
 
 
 
@@ -94,7 +94,7 @@ letter llc attachments exhibit conversion exhibit b screen cap exhibit c july pr
 letter request oral argument llc kehrli enter date
 
 
-
+letter date judge inform honor company statutory representation service discontinue process send last know address record return undeliverable w enc enter date
 
 
 case assign judge magistrate judge please download review locate website attorneys responsible provide courtesy copy judge individual practice require enter date
@@ -109,7 +109,7 @@ attorney case open file check quality control see attachment corrections make en
 
 
 
-schedule order hear court order show cause reschedule april courtroom south deadlines shall remain effect order judge enter date
+
 
 
 
@@ -130,7 +130,7 @@ schedule order hear court order show cause reschedule april courtroom south dead
 case reassign magistrate judge chief mag judge longer assign case please download review locate website attorneys responsible provide courtesy copy judge individual practice require marziliano august enter date
 
 
-order refer case mediation party express desire reach amicable resolution case case refer assistance question mediation process selection mediator counsel invite contact edny adr administrator mediation shall complete selection mediator due date order magistrate judge enter date
+
 
 
 
@@ -148,7 +148,7 @@ attorney case open file check quality control see attachment corrections make se
 
 
 
-
+letter defendant submit court request defendant llc kehrli enter date
 corporate disclosure statement enter date
 
 
@@ -160,7 +160,7 @@ corporate disclosure statement enter date
 
 
 
-propose schedule order submit jointly llc kehrli enter date
+
 letter submit jointly pursuant court july minute entry llc kehrli enter date
 
 
@@ -191,7 +191,7 @@ status report propose brief schedule llc kehrli enter date
 
 
 
-letter nov status report order llc kehrli enter date
+
 
 status report llc kehrli enter date
 
@@ -226,9 +226,9 @@ case assign judge magistrate judge please download review locate website attorne
 
 
 attorney case open file check quality control see attachment corrections make enter date
-order show cause let deft flasr show cause judge order pursuant feed r civ p rule u c enter pending final determination action flsr see order detail show cause hear set august courtroom h north judge lashann dearcy hall order judge july enter date
 
-rule statement order show cause file llc enter date
+
+
 
 
 
@@ -269,12 +269,11 @@ letter dkt file exhibit llc attachments exhibit exhibit b email kehrli enter dat
 
 
 
-order plaintiff february motion contempt hereby respectfully refer unite state magistrate judge report recommendation order judge date winnethka enter date
+
 
 
 
 status report llc kehrli enter date
-motion substitute attorney letter support inc dandeneau enter date
 
 
 
@@ -282,7 +281,8 @@ motion substitute attorney letter support inc dandeneau enter date
 
 
 
-schedule order court shall hear argument plaintiff objections judge july report recommendation october p supplemental brief limit issue identify hear shall file later october order judge date winnethka enter date
+
+
 
 
 
@@ -300,7 +300,7 @@ attorney case open file check quality control see attachment corrections make en
 
 
 
-propose schedule order llc kehrli enter date
+
 
 
 
@@ -360,11 +360,11 @@ delete document delete document number endorse letter document incorrectly file 
 
 
 set reset deadlines responses due date reply due anc enter date
+request production document document file genesys id inc basile mark enter date
 
 
 
-
-
+set reset deadlines motion due date responses due date reply due date anc enter date
 
 
 
@@ -377,7 +377,7 @@ status report document file adar bay enter date
 
 
 status report document file adar bay enter date
-memo endorsement status report file adar bay endorsement application deny sign judge jr date rj enter date
+
 
 
 status report document file adar bay enter date
@@ -391,7 +391,7 @@ rule corporate disclosure statement corporate parent document file genesys id in
 
 
 
-
+set reset deadlines motion due date responses due date reply due date rj enter date
 
 
 
@@ -450,13 +450,13 @@ letter address judge date date basis diversity jurisdiction pursuant rule court 
 
 
 first set interrogatories llc document file inc walko enter date
+request production document document file inc walko enter date
 
 
 
 
 
 
-file error wrong event type select menu letter motion continue address judge date date document file inc modify ldi enter date
 
 
 
@@ -506,7 +506,7 @@ magistrate judge designate jjm enter date
 
 
 
-memo endorsement letter address judge date date plaintiffs application grant insofar seek production insuarance policies otherwise deny see date transcript sign judge kw enter date
+
 
 
 
@@ -592,7 +592,7 @@ rule disclosure statement document file corp pa enter date
 
 
 
-order deny motion certification pursuant u c section b question whether culpable participation allege control person must allege state claim section securities exchange act section sign judge date copy mail chamber date jsa enter date
+
 
 
 
@@ -607,7 +607,7 @@ transcript proceed hold date judge lma enter date
 
 
 
-protective order regard procedures follow shall govern handle confidential material sign judge date lb enter date
+
 
 
 affidavit document file alphaplus fund l p et al djc enter date
@@ -618,15 +618,15 @@ affidavit document file alphaplus fund l p et al djc enter date
 subpoena issue date document file cd enter date
 subpoena issue date pm document file cd enter date
 
-motion order stay discovery document file document relate civ sac enter date
 
 
 
 
-transmission attorney admissions clerk transmit memo endorsement attorney admissions clerk update attorney information lb enter date
 
 
-letter address judge date date plaintiffs take position respect motion stay discovery document file hedge strategy fund ibex absolute return fund l p magnum growth fund l p magnum special situations fund estate l alternative investments sgr spa stillwater market neutral fund l p balentine global hedge fund l p master account l p alternative assets l p balentine global hedge fund select l p luxembourg db enter date
+
+
+
 
 
 
@@ -668,25 +668,25 @@ set reset deadlines reply due date responses due lb enter date
 
 
 
-stipulate protective order regard procedures follow shall govern handle confidential material sign judge date file associate case cv lak cv lak cd enter date
-
-order whatever extent order april dismiss action insofar settlements await court approval vacate sign judge file associate case cv lak cv lak tro enter date
-
-motion entry order form attach hereto exhibit attach motion document file sumnicht money master fund l p sumnicht money master fund ii l p gilbraltar fund lp l alternative strategies balance growth hedge strategy fund ibex absolute return fund l p magnum growth fund l p magnum special situations fund estate l stillwater market neutral fund l p balentine global hedge fund l p master account l p alternative assets l p balentine global hedge fund select l p file associate case cv lak cv lak pl modify pl enter date
-motion entry order form attach hereto exhibit attach motion document file sumnicht money master fund l p sumnicht money master fund ii l p gilbraltar fund lp l alternative strategies balance growth hedge strategy fund ibex absolute return fund l p magnum growth fund l p magnum special situations fund estate l alternative investments sgr spa stillwater market neutral fund l p balentine global hedge fund l p master account l p alternative assets l p balentine global hedge fund select l p file associate case cv lak cv lak pl enter date
-
-
-memo endorsement cv lak cv lak motion entry order form attach hereto exhibit endorse grant extent indicate bar order date otherwise deny clerk shall close case order sign judge date file associate case cv lak cv lak jfe enter date
-memo endorsement cv lak cv lak motion entry order form attach hereto exhibit attach motion endorse grant order sign judge date file associate case cv lak cv lak jfe enter date
-
-bar order claim whether currently pending contribution cayman limit f k atc fund administrators cayman limit b v parent subsidiaries affiliate owners shareholders officer directors employees agents insurers reinsurers representatives trustees successor trustees beneficiaries heirs whether vest contingent executors administrators successors assign whether arise federal state law law include cause action base tort contract statute body law favor person entity action relate arise investments l p management oversight fund among others l p favor person entities hereby forever extinguish discharge satisfy bar enjoin court reserve jurisdiction attempt party assert claim extinguish discharge satisfy bar enjoin order sign judge date file associate case cv lak cv lak jfe enter date
-
-motion entry order form attach hereto exhibit document file djc enter date
 
 
 
 
-file error pdf error civil cover sheet file modify date jvs enter date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 rule corporate disclosure statement corporate parent document file enter date
 
 
@@ -731,8 +731,8 @@ attorney case open file check quality control see attachment corrections make tr
 
 
 
-decision order pursuant u c court hereby transfer matter case transfer original file certify copy transfer order docket sheet send file make transfer court docket case order judge ii date transfer new york eastern date enter date
-case transfer case number cv original file certify copy transfer order docket entries receive sjo enter date
+
+
 magistrate judge designate sjo enter date
 case designate sjo enter date
 note state attorneys please visit court website http url information regard admission n bar cm ecf rule file instructions sjo enter date
@@ -746,8 +746,8 @@ first rule corporate disclosure statement corporate parent document file aim exp
 
 
 
+first letter address judge esq date request extend length brief document file aim exploration inc basile mark enter date
 
-memo endorsement letter file aim exploration inc endorsement deny sign judge kgo enter date
 
 
 
@@ -843,7 +843,7 @@ counter statement rule statement document file inc enter date
 
 
 letter address judge date december development v almagarby et ano document file inc attachments exhibit enter date
-memo endorsement letter file endorsement hereby order plaintiff shall respond defendant letter monday december sign judge date ras enter date
+
 letter address judge date december defendant submission document file llc enter date
 
 
@@ -852,9 +852,9 @@ set reset deadlines responses due date anc enter date
 
 
 
-letter address judge date january joint letter per january order document file llc enter date
 
 
+set reset deadlines motion due responses due reply due ras enter date
 
 
 
@@ -909,20 +909,20 @@ magistrate judge designate em enter date
 
 
 
-memo endorsement letter address judge date date reset oral argument motion presently schedule date date sign judge copy mail lam modify date enter date
 
 
 
 
-memo endorsement letter address judge date date reset plntf brief page due date sign judge copy mail cd enter date
 
 
 
 
-order substitute place llp counsel sign judge copy mail kw enter date
 
 
-order date opinion order issue case undersign cover page opinion order hereby change read form attach exhibit sign judge copy mail tp enter date
+
+
+
+
 
 
 
@@ -961,17 +961,17 @@ defendant initial disclosures pursuant rule frcp db enter date
 
 
 
-memo endorsement letter address judge date date refer discovery dispute matter mag judge party shall contact judge chamber instructions proceed sign judge copy mail cd enter date
-
-order case refer assignment magistrate judge discovery dispute refer magistrate judge sign judge jco enter date
-
-confidentiality agreeement order regard procedures govern handle confidential materials sign judge copy mail pl enter date
 
 
 
 
-order date plaintiffs shall submit defendants swear statement mr principal treat physician address issue whether mr depose circumstances newvest shall promptly update production transaction register february sign magistrate judge copy forward djc enter date
-memo endorsement letter address judge date reset discovery due date sign judge copy fax kw enter date
+
+
+
+
+
+
+
 
 
 
@@ -1058,8 +1058,8 @@ letter address judge iii date date plaintiffs waive claim potential conflict int
 
 
 
-motion protective order motion entry protective order document file enter date
-order term stipulate confidentiality order enter mdl shall apply full force effect instant case sign judge date dle enter date
+
+
 
 
 
@@ -1078,21 +1078,21 @@ redaction defendants statement undisputed facts enter date
 transcript proceed hold date judge es enter date
 
 
-file error electronic file non ecf case demand trial jury document file merrill modify date gf enter date
-schedule order discovery due ready trial date see document schedule deadlines sign judge date sac enter date
 
-
-
-
-transcript proceed hold date judge es enter date
 
 
 
 
 
 transcript proceed hold date judge es enter date
-schedule order expert discovery due date status report due date sign judge date jco enter date
 
+
+
+
+
+transcript proceed hold date judge es enter date
+
+endorse letter address judge date date request action continue set electronic file endorsement application deny sign judge date kco enter date
 enty withdrawal appearance behalf jco enter date
 
 
@@ -1107,12 +1107,13 @@ enty withdrawal appearance behalf jco enter date
 
 
 transcript proceed hold judge lma enter date
-schedule order oral argument set judge sign judge date lb enter date
-schedule order oral argument set date pm judge sign judge date djc enter date
+
+
 transcript proceed hold date p judge lb enter date
 
 
 
+letter address judge date propose settlement also file mdl rag enter date
 
 
 
@@ -1123,19 +1124,18 @@ transcript proceed hold date p judge lb enter date
 
 
 
-transmission usca mandate order district judge usca mandate non dismissal nd enter date
+
+statement regard prposed settlement mdl document file djc enter date
 
 
 
 
-transmission usca mandate order district judge usca mandate nd enter date
 
 
-consent order change attorneys hereby order pursuant rule civil rule court upon annex affidavit swear january consent set forth worldwide plaza eighth avenue new york ny substitute attorneys record defendants entitle action place avenue americas th floor new york ny sign judge iii date mme enter date
 
-affidavit support propose order permit substitution fo place atty dfts action document file pl enter date
 
-order admit attorney pro hac vice attorney admit pro hac vice sign judge iii date jmi enter date
+
+
 
 transcript proceed hold date judge iii jmi enter date
 
@@ -1156,13 +1156,12 @@ transcript proceed hold date judge iii tve enter date
 
 
 
-order concern use discovery produce american express relate case ross et al v bank america n et al cv whp n regard procedures follow shall govern handle discovery produce relate case ross etal v n etal whp set forth sign judge iii date file associate case md whp cv whp cv whp rjm enter date
+
 
 
 
 transcript proceed hold judge iii file associate civil case cv tro enter date
 
-schedule order oral argument plaintiffs motion consolidate action v civ schedule may p oral argument set date pm judge sign judge iii date file associate case md whp cv whp rjm enter date
 
 
 
@@ -1173,14 +1172,15 @@ schedule order oral argument plaintiffs motion consolidate action v civ schedule
 
 
 
-order view importance issue court schedule hear invite comment supplemental special master report accordingly court order follow class counsel shall serve copy supplemental special master report exhibit order counsel record pro se party shall post electronic copy supplemental report order claim administrator website conduct hear concern issue raise supplemental report courtroom pearl street ny ny individual wish address court hear must notify write sign judge iii file associate case md whp cv whp cv whp cv whp cv whp copy send chamber cd enter date
 
 
 
 
-set reset deadlines cv whp motion certify class cv whp motion amend correct motion hear set date pm judge associate case md whp cv whp rjm enter date
 
-note attorney file document non ecf case error note attorney manually file document objector write comment supplemental special master report case file associate case md whp cv whp cv whp cv whp cv whp jar enter date
+endorse letter address judge iii date date mr kind enough accommodate schedule problem develop agree conduct schedule arguments caption matter july instead july endorsement application grant part court hear argument motion september pm sign judge iii date file associate case md whp cv whp rjm enter date
+
+
+
 
 
 
@@ -1197,7 +1197,7 @@ transcript proceed hold date judge iii orig docket cv document pl enter date
 
 
 
-transmission transmit cv whp cv whp md whp cv whp cv whp order seal record clerk seal unseal document case file associate case md whp cv whp cv whp cv whp cv whp rjm enter date
+
 
 
 transcript proceed hold march pm judge iii eef enter date
@@ -1212,7 +1212,7 @@ seal document place vault nm enter date
 
 statement pursuant local civil rule document file mro enter date
 
-schedule order oral argument schedule july reschedule august sign judge iii date jpo enter date
+
 
 
 
@@ -1241,18 +1241,18 @@ seal document place vault cb enter date
 
 
 
-motion defendants document file mro enter date
+
 
 
 
 set reset hear fairness hear set date courtroom pearl street new york ny judge cd enter date
 
 
-motion certification pursuant u c b document file inc ft enter date
 
 
 
-letter address judge date date counsel write behalf party propose motion schedule document file mro enter date
+
+
 
 
 
@@ -1274,10 +1274,23 @@ affidavit jr c p regard claim administration document file file associate case m
 
 compendium class counsel lodestar expense declarations document file file associate case md whp cv whp ft enter date
 
-motion final approval allocation plan document file wachsmuth file associate case md whp cv whp ft enter date
+
 
 affidavit jr c p regard claim administration document file file associate case md whp cv whp ft enter date
-motion award attorney fee expense document file wachsmuth file associate case md whp cv whp ft enter date
+
+
+
+
+endorse letter address judge date accordingly plaintiffs defendants jointly respectfully request court grant party additional week report back court endorsement application grant order sign judge iii file associate case md whp cv whp cv whp thk js enter date
+
+
+
+
+
+
+
+
+letter address judge paralegal date date mr write request court refer document date march march legitimate claim even assign claim number counsel legally obligate recoup money despite mr mr attempt claim say merit reject false mr go say claim important request reimbursement expense file associate case md whp cv whp js enter date
 
 
 
@@ -1287,19 +1300,6 @@ motion award attorney fee expense document file wachsmuth file associate case md
 
 
 
-order authorize attorneys bring list electronic equipment trial begin date sign judge iii date cd enter date
-
-order court receive attach letter date april order court docket attach forward party sign judge iii date file associate case md whp cv whp js enter date
-
-
-
-
-
-
-
-
-
-order receive party submissions class plaintiffs motion empanel ofan advisory jury determine oral argument matter unnecessary accordingly oral argument schedule june cancel take motion submission sign judge iii date file associate case md whp cv whp cv whp thk cv whp cv whp djc enter date
 
 
 
@@ -1308,24 +1308,7 @@ order receive party submissions class plaintiffs motion empanel ofan advisory ju
 
 endorse letter address judge iii date date pay week june need pay time due bill endorsement application deny order sign judge iii file associate case md whp cv whp cv whp thk cv whp cv whp rjm enter date
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-order follow establish file subject claim privilege discovery produce otherwise originate et al v n usa et al docket mdl master file v bank ofamerica et al v et al docket mdl v currency conversion fee antitrust litig master file mdl include without limitation document responses interrogatories request admissions affidavits declarations expert report deposition testimony shall make available discover subject term april stipulate confidentiality order term march stipulate confidentiality order v party right reserve respect admissibility evidence discovery materials nothing order alter affect right sign judge iii file associate case md whp cv whp cv whp jcf rjm enter date
-
+set reset deadlines motion due date responses due date reply due date mro enter date
 
 
 
@@ -1346,7 +1329,24 @@ order follow establish file subject claim privilege discovery produce otherwise 
 
 
 
-motion omnibus limine document file cd enter date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1362,34 +1362,10 @@ motion omnibus limine document file cd enter date
 case designate djc enter date
 
 endorse letter address judge iii date date yesterday meet confer call defendants inform plaintiffs intend file brief page friday pursuant honor paragraph vi b iv total page could honor indicate copy letter file clerk endorsement application grant sign judge iii date file associate case md whp cv whp cv whp jcf ft enter date
-memo endorse exhibit hereby authorize follow attorneys bring general purpose compute device cell phone laptop computers sign judge iii date js enter date
 
 
-
-
-
-
-
-
-
-
-
-
-motion admit evidence certain summaries prepare pursuant federal rule evidence rule document file langer enter date
-
-
-
-
-
-
-motion limine refiled via per order date dec dkt document file attachments text propose order goodwin enter date
-
-
-
-
-
-
-note attorney file document non ecf document error note attorney document exhibit document file via exhibit file attachments support oppose document ldi enter date
+pretrial statement document file inc enter date
+pretrial memorandum document file inc enter date
 
 
 
@@ -1410,8 +1386,32 @@ note attorney file document non ecf document error note attorney document exhibi
 
 
 
-order trial matter conclude february follow schedule establish party shall submit propose find fact conclusions law post trial memoranda march party shall submit responsive find fact conclusions law oppose memoranda april close arguments hear april oral argument set date judge sign judge iii date rjm enter date
-revise schedule order party shall submit propose find fact conclusions law post trial memoranda date party shall submit responsive find fact conclusions law oppose memoranda date close arguments hear judge sign judge iii tro enter date
+
+
+
+
+
+
+
+
+
+
+
+
+
+pretrial memorandum document file attachments appendix merrill enter date
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 propose find fact conclusions law document file langer enter date
@@ -1420,8 +1420,8 @@ propose find fact conclusions law document file inc enter date
 
 
 
-schedule order close arguments matter adjourn may close arguments set judge sign judge iii date rjm modify date rjm enter date
 
+status report regard status distribution aggregate net settlement fund september document file attachments affidavit cpa regard status administration september langer enter date
 
 
 
@@ -1440,7 +1440,6 @@ terminate transcript deadlines lmb enter date
 
 
 
-order direct class member pollins cease desist communications plaintiffs lead counsel grant motion order direct class member cease desist plaintiffs lead counsel case md whp hereby order court jurisdiction subject matter plaintiffs lead counsel motion party court include without limitation class member set forth order find good cause exist entry order pursuant rule b federal rule civil procedure direct mr cease desist communications plaintiffs lead counsel mr shall cease desist demand additional payment fx fee settlements ii contact plaintiffs lead counsel concern fx fee settlements improper payment demand reason order necessary preserve orderly efficient administration fx fee settlements sign judge iii date file associate case md whp et al copy send lmb enter date
 
 
 
@@ -1450,16 +1449,17 @@ order direct class member pollins cease desist communications plaintiffs lead co
 
 
 
+status report completion fourth final settlement distribution request reissue distribution check one claimant document file attachments exhibit affidavit jr cpa langer enter date
 
 
 
 case refer judge possibly relate cv jom enter date
 case designate jom enter date
-stand order pilot project regard case management techniques complex civil case southern district new york see order file november case hereby designate inclusion pilot project regard case management techniques pilot project unless judge case assign determine otherwise case designate inclusion pilot project class action mdl action one follow nature suit categories preside judge case otherwise qualify inclusion pilot project may nevertheless designate case inclusion pilot project issue order direct case include pilot project description pilot project include procedures follow attach order sign judge date jom enter date
+
 
 
 magistrate judge designate pgu enter date
-stand order stay sign judge original stand order docket case mc lap document tro enter date
+
 
 letter address judge date october designation lead case document file enter date
 endorse letter address judge date nine pending matter propose designate lead case designate lead case would therefore promote efficiency adjudicate issue raise complaints approach benefit party court endorsement defendants shall respond proposal friday october sign judge date gr enter date
@@ -1485,16 +1485,16 @@ letter address judge date date defendants joint letter date date document file e
 
 
 
-file error electronic file non ecf document status report joint electronic discovery submission propose order document file haas modify ka enter date
-note attorney file document non ecf document error note attorney e mail judgments url document propose order document file via ka enter date
 
 
 
-letter address judge date december propose protective order document file attachments exhibit exhibit b haas enter date
-letter address judge date december propose protective order document file attachments enter date
+
+
+
+
 
 letter address judge party date december schedule production loan tap document file haas enter date
-protective order regard procedures follow shall govern handle confidential material sign judge gr enter date
+
 
 
 endorse letter address judge date accordance november party caption action write inform court reach agreement regard schedule production loan tap schedule set forth letter endorsement approve sign judge gr enter date
@@ -1511,24 +1511,24 @@ joint letter address judge party date january loan tape discovery document file 
 
 
 
-certify true copy mdl order mdl panel deny transfer motion pursuant c transfer action hereby deny sign date sjo enter date
+
 letter address judge date february rule subpoena document file haas enter date
 
+endorse letter address judge counsel date date request permission serve rule subpoena endorsement defendants advise court take position application application approve sign judge date gr enter date
 
-certify true copy mdl order mdl panel deny transfer motion pursuant c transfer action district kansas hereby deny sign date sjo enter date
 letter address judge date march coordination discovery schedule document file attachments exhibit exhibit b exhibit c haas enter date
 letter address judge date march coordination discovery schedule document file attachments exhibit clary enter date
 
-order ny submission relate issue coordination among new york kansas california action include specifically submissions file accordance schedule order march new york action shall submit concurrently judicial officer list order communication regard discovery dispute new york kansas california action shall exceed two page length shall submit concurrently judicial officer list order unless otherwise specify e g two page limit discovery dispute party shall file aforementioned paper accordance individual practice judicial officer sign judge date gr enter date
 
 
-letter address judge date date file propose order document file attachments text propose order master discovery protocol text propose order protective order text propose order esi protocol text propose order loan file protocol enter date
+
+
 brief letter defendants submission regard coordination discovery across action document file enter date
 status report defendants submission regard coordination discovery across action document file enter date
 letter address judge date date protocol document file enter date
 letter address judge date date extend deadlines regard search term custodians repositories document file attachments exhibit march sdny hear transcript excerpt enter date
-letter address judge date date protective order across case document file attachments exhibit march sdny hear transcript excerpt enter date
-brief letter propose master discovery protocol document file attachments exhibit march sdny hear transcript excerpt exhibit b march ltr attachments exhibit c coordination discussion email mar pm exhibit e email mar pm exhibit f date order v exhibit g date order depo protocol fhfa exhibit h date fhfa transcript excerpt exhibit order v exhibit j date fhfa transcript excerpt v exhibit k date expert schedule order exhibit l date revise eso exhibit date exhibit n date fhfa transcript conf excerpt enter date
+
+
 endorse letter address judge letter behalf date date respectfully propose later april party submit report state reach agreement search protocols new york kansas california action necessary set forth areas agreement areas party impasse endorsement grant sign judge date gr enter date
 
 
@@ -1536,27 +1536,27 @@ endorse letter address judge letter behalf date date respectfully propose later 
 
 supplemental brief regard master discovery protocol document file attachments exhibit exhibit b exhibit c enter date
 
-letter address judge date date lfrp document file attachments text propose order enter date
+
 letter address judge date date lfrp document file enter date
 letter address judge date april loan file underwrite procedures document file enter date
-motion limine admit expert statistical sample testimony document file enter date
 
 
 
-order regard loan file reunderwriting protocol sign judge n judge c cal judge kan magistrate judge kan gr enter date
-order regard master discovery protocol sign judge n judge c cal judge kan magistrate judge kan gr enter date
-order regard protocol production data sign judge n judge c cal judge kan magistrate judge kan gr enter date
-master protective order sign judge n judge c cal judge kan magistrate judge kan gr enter date
+
+
+
+
+
 status report report informal discovery document file attachments exhibit exhibit b exhibit c exhibit haas enter date
 status report party negotiations respect discovery credit suisse document file attachments exhibit exhibit b exhibit c enter date
 letter address judge date april discovery dispute common defendants document file enter date
 
-order party shall continue meet confer process next two weeks seek resolve narrow outstanding dispute issue action report shall due may order defendant shall promptly engage meet confer process good faith effort reach agreement narrow areas disagreement may order may submissions shall supersede april submissions thus need refer april submissions order pursuant april master discovery protocol applications dispute regard discovery action file lead case pending currently civ application dispute apply fewer action submission file well action action apply sign judge coordination judge action date gr modify date gr enter date
-file error deficient docket entry original file civ document letter address judge date april clarification regard two provision master discovery protocol document file modify date ka enter date
 
-letter address judge date april defendants april letter regard motion limine admit expert statistical sample testimony document file haas enter date
 
-order admission expert statistical sample testimony sign judge date gr enter date
+
+
+
+
 
 
 
@@ -1566,47 +1566,47 @@ status report date may party negotiations respect discovery credit suisse docume
 
 
 
-order show cause defendants relate action present affirmative defense base allege failure name party may indispensable see order examples accordingly hereby order party may show cause june court set deadline july join party action order submissions shall limit page single space letter sign judge gr enter date
-order review may submissions see order sign judge n judge c cal judge kan magistrate judge kan gr modify gr enter date
-order shall confer regard least burdensome way still effective locate produce describe document relevant approximately loan underlie securitization question remain dispute shall present court june order shall file letter june without redactions sign judge n judge c cal judge kan magistrate judge kan date gr enter date
-letter address judge date date behalf defendants order show cause court set deadline july join party action document file enter date
-order date defendants must complete production third party transcripts extend june sign judge n judge c cal judge kan magistrate judge kan date gr enter date
+
+
+
+
+
 
 letter address judge date date behalf defendants update court production third party transcripts document file enter date
-order date defendants must complete production third party transcripts extend july sign judge n judge c cal judge kan magistrate judge kan gr enter date
+
 letter address judge date july advise court status order regard indispensible party document file haas enter date
 
-order defendants relate action plead affirmative defense base allege failure name party may indispensable order affirmative defenses assert caption action base allege failure name party may indispensable hereby stricken order defendant hereby preclude assert affirmative defense fail join indispensable party unless defendant demonstrate defense base subsequently acquire information case defendant must promptly advise accordingly sign judge gr enter date
+
 status report date july status identification production loan file guidelines sample loan document file enter date
 
-order receive status report august herebyordered shall august propose schedule resolve objections production loan file guidelines include date remain objections third party shall present court sign judge n judge c cal judge kan magistrate judge kan date gr enter date
+
 
 seal document place vault mps enter date
-order may take ten fact depositions defendant group except may take two fact depositions group depositions limit one day order defendants collectively may take five fact depositions four credit unions two fact depositions depositions limit one day except defendants may collectively take two day depositions two deponents credit union sign judge n judge c cal judge kan magistrate judge kan date gr enter date
-
-
-letter address judge date date motion limine document file attachments exhibit haas enter date
-
-
-
-order hereby order november plaintiff party shall submit status report concern collection defendant group sample loan file order november plaintiff party shall submit status report concern collection defendant group sample loan file sign judge sr enter date
 
 
 
 
 
-order shall advise court december whether make commitment produce request loan file roll basis final production occur later january sign judge n judge c cal judge kan magistrate judge kan gr enter date
 
 
 
-order hereby order next status report loan file reunderwriting protocol due january subsequent status report due every four weeks thereafter sign judge date sr enter date
+
+
+
+
+
+
+
+
+
+
 
 seal document place vault mps enter date
 
 letter address judge date date discovery dispute involve productions document file attachments exhibit exhibit b exhibit c exhibit exhibit e exhibit f exhibit g haas enter date
 letter address judge date january january letter regard discovery dispute involve productions document file attachments exhibit letter exhibit b letter exhibit c letter exhibit letter exhibit e letter exhibit f letter enter date
 
-order march pursuant g loan file reunderwriting protocol coordinate action party submit status report identification production defendant group third party loan file guidelines sample loan status stipulations order march party action involve shall submit detail status report describe efforts collect loan file sample loan remain hurdle must overcome complete collection url order march party action involve shall submit detail status report describe efforts confer regard loan file stipulations propose sign judge n judge c cal judge kan magistrate judge kan date gr enter date
+
 letter address judge date date interrogatory responses document file attachments exhibit exhibit b exhibit c exhibit haas enter date
 
 
@@ -1614,20 +1614,20 @@ letter address judge date date interrogatory responses document file attachments
 seal document place vault rz enter date
 
 letter address judge date march march letter document file attachments exhibit letter exhibit b letter exhibit c letter exhibit letter enter date
-order shall respond ncuas first set interrogatories within days provide information form request interrogatory instance securitization loan pool loan sign judge n judge c cal judge kan magistrate judge kan date gr enter date
+
 letter address judge date date k loan file underwrite protocol document file attachments exhibit exhibit b exhibit c exhibit haas enter date
 
 
 letter address judge date march march letter document file enter date
 
 
-order hereby order march shall identify cdo lawsuit involve rmbs coordinate action one officer employees party extent entity sponsor underwriter cdo lawsuit identity deponents cdo lawsuit also custodian coordinate action number additional deponents cdo lawsuit order party shall meet confer follow march disclosure may bring remain dispute attention court follow procedures sign judge date sr enter date
+
 letter address judge date date joint status report disclosures document file haas enter date
 
 
 
 
-order hereby order march request deny sign judge date sr enter date
+
 
 
 hereby order shall may disclose loan sample loan loan within securitization intend reunderwrite identify securitizations draw state purpose reunderwriting see document order sign judge date sr enter date
@@ -1635,7 +1635,7 @@ seal document place vault mps enter date
 
 
 
-order motion pertain coordinate action make court three court motion discuss ncuas may letter party implicate motion shall convey judicial officer motion assign court stand ready will accept transfer motion party shall also convey transfer motion effect transfer motion hon southern district new york whereafter shall rule upon follow consultation among judge cote judge judge order promptly transfer party seek discovery shall file district coordinate litigation copy motion paper relate dispute order party shall also convey judicial officer motion address pursuant master discovery protocol may order enter coordinate action court mechanisms place resolve dispute arise advance deposition sign judge n judge c cal judge kan magistrate judge kan date gr enter date
+
 
 
 
@@ -1650,7 +1650,7 @@ hereby order shall produce demand compensation current former compensation agree
 
 letter address judge date date case schedule action kansas document file attachments exhibit exhibit b exhibit c exhibit exhibit e exhibit f exhibit g exhibit h haas enter date
 
-letter address judge date june request court enter order adopt propose schedule new york kansas action set forth appendix document file attachments appendix appendix b appendix c appendix appendix e enter date
+
 
 
 
@@ -1658,19 +1658,19 @@ letter address judge date june request court enter order adopt propose schedule 
 
 
 hereby order defendants june application additional u central depositions deny sign judge date sr enter date
-order shall grant additional fifteen minutes deposition time consider court order june shall produce loveless total forty five additional minutes deposition sign judge n judge c cal judge kan magistrate judge kan date gr enter date
 
 
 
-order shall provide court copy relevant document p edt today corelogic shall meet confer noon edt july event corelogic contend unable comply july otherwise object subpoena shall submit court letter p edt july sign judge n judge c cal judge kan magistrate judge kan tg gray enter date
-schedule order responsive submissions july letter shall file july edt sign judge n judge c cal judge kan magistrate judge kan tg enter date
-
-
-order follow three exceptions fact discovery close action july since certificate reinstate action pending kansas period fact expert discovery action extend court confer regard schedule trials action see order sign judge n judge c cal judge kan magistrate judge kan date gr enter date
 
 
 
-order august submit application three court request order respond interrogatories august accordingly hereby order responsive submissions shall file august noon edt sign judge n judge c cal judge kan magistrate judge kan date gr enter date
+
+
+
+
+
+
+
 
 
 joint letter address judge date august schedule set forth docket entry document file enter date
@@ -1679,11 +1679,11 @@ joint letter address judge date august schedule set forth docket entry document 
 
 
 
-order september submit application three court request order produce deposition witness pursuant federal rule evidence b testify certain evidence accordingly hereby order responsive submissions shall file september p edt sign judge n judge c cal judge kan magistrate judge kan date gr enter date
 
-order october submit application court request order produce certain document assert attorney client privilege work product doctrine grind document relevant equitable estoppel issue reinstate certificate kansas action hereby order responsive submissions shall file october p edt sign judge n judge c cal judge kan magistrate judge kan date tg enter date
-order october submit application three court request preclude use previously undisclosed expert opinions support loss causation defense hereby order responsive submissions shall file october p edt sign judge n judge c cal judge kan magistrate judge kan date tg enter date
-order october submit application three court request preclude pursuant federal rule evidence use portion testimony expert witness support loss causation defense enclose excerpt jam august october expert report application october three court order responsive submission make october p edt hereby order responsive submission shall accompany copy complete august october expert report sign judge n judge c cal judge kan magistrate judge kan date tg enter date
+
+
+
+
 
 
 
@@ -1716,9 +1716,9 @@ seal document place vault mps enter date
 
 
 
-letter address judge date february pursuant court february memo endorsement regard brief schedule document file fumerton enter date
 
-file error deficient docket entry see document rule statement document file modify ldi enter date
+
+
 
 
 rule statement document file enter date
@@ -1747,7 +1747,7 @@ rule statement document file enter date
 
 
 seal document place vault mps enter date
-
+delete document delete document number memorandum law support document incorrectly file case lb enter date
 delete document delete document number rule statement document incorrectly file case lb enter date
 
 seal document place vault rz enter date
@@ -1790,20 +1790,16 @@ rule statement document file enter date
 
 rule statement document file enter date
 
-file error duplicate docket entry rule statement document file modify kj enter date
-rule statement document file enter date
-
 
 rule statement document file enter date
 
 
 rule statement document file enter date
 
-rule statement document file enter date
-
 
 rule statement document file enter date
 
+rule statement document file enter date
 
 
 rule statement document file enter date
@@ -1813,9 +1809,13 @@ rule statement document file enter date
 rule statement document file enter date
 
 
+
 rule statement document file enter date
 
-letter address judge date april court march order document file enter date
+
+rule statement document file enter date
+
+
 endorse letter address judge date april party continue meet confer regard amount attorneys fee cost pay action submit status update may endorsement order sign judge date gr enter date
 
 
@@ -1828,7 +1828,7 @@ case refer judge possibly relate cv jjm enter date
 rule disclosure statement document file certain underwriters syndicate jjm additional attachment add date jjm enter date
 case designate gf enter date
 
-
+case decline relate case refer relate cv decline judge return wheel assignment gf enter date
 magistrate judge designate gf enter date
 
 rule disclosure statement document file g c p c sigmond enter date
@@ -1919,7 +1919,7 @@ rule disclosure statement document file yv enter date
 
 rule disclosure statement document file inc ps enter date
 
-motion order pursuant federal rule civil procedure b civil practice law rule h order dismiss claim f k document file inc sac enter date
+
 
 
 rule disclosure statement document file inc sac enter date
@@ -1951,7 +1951,7 @@ rule disclosure statement document file inc sac enter date
 
 consent change attorney document file ambassador inc bank enter date
 endorse letter address judge date date rule local rule court provide ex parte letter seek advice defendant proceed provide rule sign judge date jsa enter date
-order new master docket mc akh caption september property damage business loss litigation hereby create follow case currently pending part mc transfer new mc akh master docket cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv set forth say order regard reorganization ptffs committees reorganization defts committees miscellaneous matter refer herein sign judge date original document file case mc doc kkc enter date
+
 case accept relate mc kkc enter date
 consolidate member case case consolidate mc rjm enter date
 
@@ -1959,7 +1959,7 @@ consolidate member case case consolidate mc rjm enter date
 
 
 
-motion cross claim pursuant rule b document file kw enter date
+
 
 
 
@@ -1970,7 +1970,7 @@ motion cross claim pursuant rule b document file kw enter date
 
 rule disclosure statement document file l l p jp enter date
 
-order regulate discovery instructions brief schedule sign judge pl enter date
+
 
 
 
@@ -2001,7 +2001,6 @@ transcript proceed correct transcript hold date judge court reporter transcriber
 
 
 
-note attorney file document non ecf case error note attorney manually file document motion reargument document case kg enter date
 
 
 
@@ -2009,7 +2008,6 @@ note attorney file document non ecf case error note attorney manually file docum
 
 
 
-case management order regard establishment structure efficient prosecution underlie action caption litigation handle action involve world trade center grind defendants separate discovery procedure within mc akh schedule file plead discovery matter action involve world trade center set forth say order regard wtc grind litigation aviation defendants discovery wtc grind defendants liaison counsel schedule matter document relate mc cv sign judge file associate case mc akh cv akh cv akh rjm enter date
 
 
 
@@ -2061,14 +2059,12 @@ case management order regard establishment structure efficient prosecution under
 
 
 
-order admission practice pro hac vice purs local civil rule c admit pro hac vice bar court purpose represent non party subpoena recipient proceed consolidate case sign judge date file associate case mc akh cv akh document relate cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv cv sn enter date
 
 
 
 
 
 
-note attorney non ecf case error note attorney attorneys record manually file document case per judge order date date document case longer designate ecf original document must file manually file anything electronically case relate case gf enter date
 
 
 
@@ -2081,7 +2077,11 @@ note attorney non ecf case error note attorney attorneys record manually file do
 
 
 
-transmission attorney admissions clerk transmit memo endorsement attorney admissions clerk update attorney information js enter date
+
+
+
+
+
 
 case designate rjm enter date
 
@@ -2124,7 +2124,7 @@ case designate rjm enter date
 
 transcript proceed hold date p judge aba enter date
 
-order regard document repository order date hereby vacate extent require establishment maintenance joint document repository order wtc grind litigation effect except payment requirements paragraph date order shall remain effect set forth regard procedures follow shall govern handle document repository document relate mc doc sign judge date file associate case mc akh cv akh cv akh rjm enter date
+
 
 
 
@@ -2179,7 +2179,7 @@ counter statement document file file associate case mc akh et al enter date
 set deadlines hear oral argument set date pm judge dle enter date
 
 
-endorse letter address judge date date counsel request court grant oral argument upon application portion local rule c prior make decisions endorsement motion oral argument dened unnecessary brief numerous previous discussions fully advise sign judge date file associate case mc akh cv akh cv akh cv akh djc enter date
+
 
 
 
@@ -2209,11 +2209,11 @@ rule corporate disclosure statement corporate parent document file corp enter da
 
 
 
-motion protective order preclude deposition former chairman ceo document file inc file associate case mc akh et al enter date
 
 
 
-file error deficient docket entry rule statement document file l p file associate case mc akh et al modify date jar enter date
+
+
 
 
 
@@ -2250,8 +2250,8 @@ application letter rogatory inc mark enter date
 set deadlines hear deposition due date associate case mc akh cv akh rjm enter date
 
 
-order admit attorney pro hac vice attorney new york admit pro hac vice sign judge date file associate case mc akh cv akh cv akh cv akh rjm enter date
-transmission attorney admissions clerk transmit mc akh cv akh cv akh cv akh order admit attorney pro hac vice attorney admissions clerk update attorney information file associate case mc akh cv akh cv akh cv akh rjm enter date
+
+
 
 
 
@@ -2311,7 +2311,6 @@ rule statement document file inc file associate case mc akh cv akh enter date
 
 
 
-order defendants shall assert specific cross claim contribution contractual common law indemnity within thirty days order failure assert file claim result dismissal prejudice claim sign judge date jpo enter date
 
 
 
@@ -2325,6 +2324,7 @@ order defendants shall assert specific cross claim contribution contractual comm
 
 
 
+endorse letter address judge date joint submission pursuant individual rule e endorsement argument pending motion proceed schedule date pm sign judge cd enter date
 
 transcript proceed hold date p judge rjm enter date
 
@@ -2342,7 +2342,7 @@ transcript proceed hold date p judge rjm enter date
 
 
 
-
+transmission judgments order clerk transmit mc akh cv akh memorandum opinion judgments order clerk file associate case mc akh cv akh ft enter date
 
 
 
@@ -2362,7 +2362,7 @@ bill cost date october document file inc enter date
 
 bill cost document file l p wang enter date
 
-
+transcript proceed motion hold judge original document enter file mc doc tp enter date
 
 
 
@@ -2421,7 +2421,7 @@ case designate jmi enter date
 rule disclosure statement document file pennsylvania enter date
 
 
-confidentiality order regard procedures shall govern treatment document information disclose plaintiff defendants pennsylvania sign judge date djc enter date
+
 
 
 
@@ -2474,10 +2474,10 @@ minute entry proceed hold judge jury trial set date judge mbe enter date
 
 
 transcript proceed hold date judge jp enter date
+brief support request jury trial document file keely enter date
 
-brief support motion strike jury demand document file pennsylvania cotton enter date
-brief support motion strike jury demand document file pennsylvania enter date
 
+brief support request jury trial document file keely enter date
 
 
 
@@ -2487,7 +2487,6 @@ brief support motion strike jury demand document file pennsylvania enter date
 
 rule disclosure document file attachments exhibit exhibit b keely enter date
 rule disclosure document file pennsylvania attachments errata enter date
-motion limine document file return date set date keely enter date
 
 
 
@@ -2509,7 +2508,8 @@ motion limine document file return date set date keely enter date
 
 
 
-order court review camera confidentiality agreement decision award point reach procedural issue hereby order counsel forthwith furnish confidentiality agreement decision award counsel reason follow term list herein sign judge date tro enter date
+
+
 
 
 
@@ -2526,10 +2526,10 @@ propose jury instructions document file pennsylvania enter date
 
 
 propose jury instructions document file keely enter date
-
+request charge document file keely enter date
 propose voir dire question document file cyr enter date
 propose voir dire question document file pennsylvania enter date
-order follow representatives party action may bring courthouse cell phone remote email devices ie blackberry use break trial us request permit individuals list bring cell phone remote email devices courthouse build begin duration trial expect three weeks sign judge date cd enter date
+
 
 minute entry proceed hold judge jury trial begin date ja enter date
 minute entry proceed hold judge jury trial hold date ja enter date
@@ -2545,7 +2545,7 @@ minute entry proceed hold judge jury trial hold date ja enter date
 minute entry proceed hold judge jury trial hold date ja enter date
 jury instructions court exhibit number djc enter date
 minute entry proceed hold judge jury trial hold date ja enter date
-
+jury verdict january th jury return follow verdict see attach contest issue yes ja enter date
 
 court exhibit court rule deposition objections document file djc enter date
 court exhibit court rule deposition objections document file djc enter date
@@ -2602,7 +2602,7 @@ transcript proceed hold judge ama enter date
 
 
 
-transmission usca mandate order district judge usca mandate nd enter date
+
 
 
 
@@ -2618,7 +2618,7 @@ transmission docket assistant clerk transmit find fact conclusions law docket as
 
 
 
-transmission usca mandate order district judge usca mandate nd enter date
+
 
 
 transcript proceed hold judge dnd enter date
@@ -2646,7 +2646,7 @@ transcript proceed hold judge dnd enter date
 
 magistrate judge designate mro enter date
 case designate mro enter date
-stand order pilot project regard case management techniques complex civil case southern district new york see order file november case hereby designate inclusion pilot project regard case management techniques pilot project unless judge case assign determine otherwise case designate inclusion pilot project class action mdl action one follow nature suit categories preside judge case otherwise qualify inclusion pilot project may nevertheless designate case inclusion pilot project issue order direct case include pilot project description pilot project include procedures follow attach order sign judge date mro enter date
+
 seal document place vault mps enter date
 
 
@@ -2717,12 +2717,12 @@ seal document place vault mps enter date
 
 
 
+endorse letter address judge jr date accordance request receive honor law clerk ms earlier today write respectfully request court allow cm ecf clerk remove contact information docket attorney matter mr longer partner k l gate llp endorsement grant attorney terminate sign judge lmb enter date
 
 
 
 
-
-
+endorse letter address judge date date represent respectfully request honor permit page file propose revise redactions endorsement approve sign judge date gr enter date
 seal document place vault mps enter date
 seal document place vault mps enter date
 seal document place vault mps enter date
@@ -2730,18 +2730,18 @@ seal document place vault mps enter date
 
 
 
-transmission judgments order clerk transmit opinion order judgments order clerk tn enter date
+
 
 
 
 
 seal materials retrieve document retrieve rz enter date
 seal materials dispose document destroy since file party retrieve material within days date indicate seal record destroy rz enter date
-
+request proceed forma pauperis document file wellington rdz enter date
 
 case designate rdz enter date
 
-mail copy order grant ifp application cropse ave apt c brooklyn ny ca enter date
+
 
 magistrate judge designate wb enter date
 
@@ -2784,7 +2784,7 @@ magistrate judge designate wb enter date
 
 
 
-letter address judge date date clarify judge last order document file wellington sc enter date
+
 
 
 
@@ -2801,7 +2801,6 @@ set reset deadlines responses due date reply due date kgo enter date
 
 
 
-transmission docket assistant clerk transmit order docket assistant clerk case process cf enter date
 
 
 
@@ -2810,12 +2809,13 @@ transmission docket assistant clerk transmit order docket assistant clerk case p
 
 
 
-transmission docket assistant clerk transmit order docket assistant clerk case process cf enter date
-mail copy order cropse ave apt c brooklyn ny rro enter date
 
 
-transmission docket assistant clerk transmit order docket assistant clerk case process cf enter date
-mail copy order set deadlines cropse ave apt c brooklyn ny rro enter date
+
+
+
+
+
 
 
 
@@ -2836,7 +2836,7 @@ letter address judge date remove email address list n computer document file wel
 
 letter address magistrate judge date date request judge pause discovery order mediation document file wellington sc enter date
 
-letter address magistrate judge date december court order date december document file reiter enter date
+
 
 
 
@@ -2864,7 +2864,7 @@ magistrate judge designate bm enter date
 
 
 
-affidavit connection motion order purs rule frcp dismiss stay action sac enter date
+
 
 
 
@@ -2878,7 +2878,7 @@ transcript record proceed judge date date p ae enter date
 
 
 
-order shall produce financial statments tax return period attorneys eye basis sign magistrate judge iv copy mail pl enter date
+
 
 consolidate lead case pl enter date
 
@@ -2891,13 +2891,13 @@ transcript record proceed judge date date gmo enter date
 
 
 
-
+trial memorandum law rec night deposit box date pm sn enter date
 
 transcript record proceed judge date date moc enter date
 transcript record proceed judge date date moc enter date
 
 
-affidavit support motion order grant plaintiff motion exclude pursuant v u testimony defendants purport motion alternative set daubert hear prior trial receive night deposit box date p tp enter date
+
 propose find fact conclusions law receive night deposit box date p tp enter date
 propose conclusions law receive night deposit box date p tp modify date enter date
 propose find fact conclusions law receive night deposit box date p tp enter date
@@ -2906,9 +2906,9 @@ propose find fact conclusions law receive night deposit box date p tp enter date
 
 bench trial conclude judge bai enter date
 propose find fact conclusions law file plaintiffs kkc modify date enter date
-
+post trial memorandum law compendium unreported case attach kkc modify date enter date
 correct find fact conclusions law file pltff jp enter date
-
+correct post trial memorandum law file pltff jp enter date
 additional propose conclusions law djc enter date
 
 
@@ -2925,19 +2925,19 @@ bench trial hold continue judge ae modify date enter date
 bench trial hold continue judge ae modify date enter date
 bench trial hold continue date judge ae enter date
 bench trial hold conclude date judge total trial days ae enter date
-
-
+memorandum docket clerk bench trial hold date date judge ae enter date
+post trial memorandum law second phase trial pl enter date
 
 
 
 supplemental propose find fact conclusions law w enclose compendium case cite supplemental propose find fact conclusions pl enter date
-
+post trial memorandum law pl enter date
 except deposition pl enter date
 
 
+correct post trial memorandum yv enter date
 
-
-
+post trial memorandum law yv enter date
 transcript record proceed judge date gf enter date
 
 
@@ -2967,9 +2967,9 @@ correct supersedeas bond sum enter ae enter date
 
 
 
-transmission usca mandate order district judge pr enter date
 
-transmission usca mandate order district judge usca order pr enter date
+
+
 
 
 
@@ -2979,8 +2979,8 @@ transmission usca mandate order district judge usca order pr enter date
 transcript proceed hold date judge jp enter date
 
 
-
-
+endorse letter address judge date defendant request hereby grant time either party may restore action extend sign judge db enter date
+endorse letter address judge date defendant request hereby grant time either party may restore action hereby extend sign judge sac enter date
 
 
 
@@ -3018,7 +3018,7 @@ minute entry proceed hold magistrate judge discovery hear hold date mro enter da
 minute entry proceed hold magistrate judge discovery hear hold date tro enter date
 
 
-stipulate confidentiality agreement protective order regard procedures follow shall govern handle confidential material sign magistrate judge date cd enter date
+
 minute entry proceed hold magistrate judge discovery hear hold date mro enter date
 
 transcript proceed hold date magistrate judge ama enter date
@@ -3054,7 +3054,7 @@ transcript proceed hold date judge jw enter date
 
 
 
-civil case management plan schedule order demand jury shall comply rule federal rule civil procedure file within days last responsive plead party must complete fact discovery later march complete document discovery except reasonable follow request august complete depositions fact witness march serve request admit later days prior close fact discovery counsel party confer present best estimate length trial weeks deposition due date discovery due date sign magistrate judge date jar enter date
+
 transcript proceed hold magistrate judge jpo enter date
 
 
@@ -3156,12 +3156,12 @@ endorse letter address magistrate judge date date subject approval party agree s
 
 
 
-supplemental stipulate confidentiality agreement protective order regard procedures follow shall govern handle confidential material sign magistrate judge date mro enter date
 
 
 
 
-discovery order review camera minutes meet hold september direct follow previously redact portion disclose plaintiff set forth herein sign magistrate judge date copy fax chamber djc enter date
+
+
 
 
 
@@ -3174,8 +3174,8 @@ minute entry proceed hold magistrate judge discovery hear hold date ft enter dat
 
 
 
-endorse letter address magistrate judge date date respectfully request court extend deadline brookfield submission document camera review monday april friday april endorsement approve sign magistrate judge date lmb enter date
-revise schedule order party must complete fact discovery later july party shall complete depositions fact witness july expert discovery shall complete february sign magistrate judge date mro modify date mro enter date
+
+
 endorse letter address magistrate judge date date counsel write behalf party seek clarification honor rule concern brookfield ability continue depositions messrs endorsement point ii clearer brookfield win sign magistrate judge date mro enter date
 
 
@@ -3193,7 +3193,7 @@ endorse letter address magistrate judge date date counsel write behalf party see
 
 
 
-second revise schedule order second revise schedule order amend relevant provision civil case management plan schedule order date february revise schedule order date april follow order deposition due date fact discovery due date expert discovery due date sign magistrate judge date ama modify date ama enter date
+
 set reset deadlines expert discovery due date ama enter date
 
 
@@ -3207,14 +3207,14 @@ set reset deadlines expert discovery due date ama enter date
 
 
 
-third revise schedule order plaintiffs expert disclosures require federal rule civil procedure shall serve october defendants expert disclosures require federal rule civil procedure shall serve january plaintiffs rebuttal expert report shall serve march expert discovery due date sign magistrate judge date ft enter date
+
 minute entry proceed hold magistrate judge discovery hear hold date djc enter date
 
 
-fourth revise schedule order party action hereby submit fourth revise schedule order fourth revise schedule order fourth revise schedule order amend relevant provision civil case management plan schedule order date february second revise schedule order date july third revise schedule order date september follow plaintiffs expert disclosures require federal rule civil procedure shall serve november defendants expert disclosures require federal rule civil procedure shall serve march plaintiffs rebuttal expert report shall serve april expert discovery shall complete june demonstrative exhibit include use illustrate testimony experts need disclose time expert report submit shall disclose time agree upon partied order expert discovery due sign magistrate judge date ago enter date
 
 
-fifth revise schedule order party action hereby submit fifth revise schedule order fifth revise schedule order fifth revise schedule order amend relevant provision ofthe civil case management plan schedule order date february second revise schedule order date july third revise schedule order date september fourth revise schedule order date october follow plaintiffs expert disclosures require federal rule civil procedure shall serve december defendants expert disclosures require federal rule civil procedure shall serve april plaintiffs rebuttal expert report shall serve may expert discovery shall complete july demonstrative exhibit include use illustrate testimony experts need disclose time expert report submit shall disclose time agree upon party order expert discovery due date sign magistrate judge date ago enter date
+
+
 
 
 
