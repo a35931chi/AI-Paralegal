@@ -1,0 +1,764 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=windows-1252"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 5.2.7.2 (Windows)"/>
+	<meta name="created" content="2018-05-21T10:45:59"/>
+	<meta name="changed" content="2018-06-02T03:31:15"/>
+	<style type="text/css">
+		@page { margin: 0.79in }
+		p { margin-bottom: 0.1in; direction: ltr; color: #00000a; line-height: 120%; text-align: left; orphans: 2; widows: 2 }
+		p.western { font-family: "Liberation Serif", serif; font-size: 12pt; so-language: en-US }
+		p.cjk { font-family: "SimSun"; font-size: 12pt; so-language: zh-CN }
+		p.ctl { font-family: "Arial"; font-size: 12pt; so-language: hi-IN }
+		h1 { margin-bottom: 0.08in; direction: ltr; color: #00000a; text-align: left; orphans: 2; widows: 2 }
+		h1.western { font-family: "Liberation Serif", sans-serif; so-language: en-US }
+		h1.cjk { font-family: "SimSun"; font-size: 24pt; so-language: zh-CN }
+		h1.ctl { font-family: "Arial"; font-size: 24pt; so-language: hi-IN }
+		h2 { direction: ltr; color: #00000a; text-align: left; orphans: 2; widows: 2 }
+		h2.western { font-family: "Liberation Serif", sans-serif; so-language: en-US }
+		h2.cjk { font-family: "SimSun"; so-language: zh-CN }
+		h2.ctl { font-family: "Arial"; so-language: hi-IN }
+		h3 { direction: ltr; color: #00000a; text-align: left; orphans: 2; widows: 2 }
+		h3.western { font-family: "Liberation Serif", sans-serif; so-language: en-US }
+		h3.cjk { font-family: "SimSun"; so-language: zh-CN }
+		h3.ctl { font-family: "Arial"; so-language: hi-IN }
+		a:link { so-language: zxx }
+	</style>
+</head>
+<body lang="en-US" text="#00000a" dir="ltr">
+<ol>
+	<li/>
+<h1 class="western">Legal Verbiage and Topic Modeling</h1>
+</ol>
+<p class="western">Anthony Chi &amp; Chris Han</p>
+<p class="western"><font size="3" style="font-size: 12pt"><b>Last
+Updated: May 21</b></font><sup><font size="3" style="font-size: 12pt"><b>st</b></font></sup><font size="3" style="font-size: 12pt"><b>,
+2018</b></font></p>
+<ol>
+	<ol>
+		<li/>
+<h2 class="western"><a name="user-content-i-definition"></a>I.
+		Definition</h2>
+		<ol>
+			<li/>
+<h3 class="western"><a name="user-content-project-overview"></a>
+			Project Overview</h3>
+		</ol>
+	</ol>
+</ol>
+<p class="western"><em><font color="#00000a"><font size="3" style="font-size: 12pt"><span lang="en-US"><span style="font-style: normal"><span style="text-decoration: none">Docket
+texts are public court records that detail legal case events in a
+chronological order. New texts/records are available when the case
+status has been updated by the court. These new texts are sent to the
+responsible attorneys, often via email. It may be necessary to
+respond or react to these new records, meaning for law practices, it
+is a business as usual task. To help medium to small practices
+attorneys efficiently handle these records, ideally, we want to
+automate the docket text handling processes for law practices.</span></span></span></font></font></em></p>
+<p class="western"><em><font color="#00000a"><font size="3" style="font-size: 12pt"><span lang="en-US"><span style="font-style: normal"><span style="text-decoration: none">The
+As-Is process for many law practices, especially smaller practices:
+Lawyers spend time reading through docket text emails, and determine
+whether or not it&rsquo;s necessary to respond and react to the
+docket texts, as well as how to respond and react.</span></span></span></font></font></em></p>
+<p class="western"><em><font color="#00000a"><font size="3" style="font-size: 12pt"><span lang="en-US"><span style="font-style: normal"><span style="text-decoration: none">The
+To-Be process: an algorithm scans the newly received docket texts and
+determine whether or not to respond and react. If response is
+necessary, the algorithm would also make the appropriate response
+such as draft emails, schedule appointments with the clients, etc.</span></span></span></font></font></em></p>
+<ol>
+	<ol>
+		<ol start="2">
+			<li/>
+<h3 class="western"><a name="user-content-problem-statement"></a>
+			Problem Statement</h3>
+		</ol>
+	</ol>
+</ol>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">Ideally,
+this should be a supervised classification exercise, as in for every
+docket text, we would have corresponding targets telling us how an
+attorney would respond. However, unless we have historical data
+recording responses, or ask attorneys to go through our dataset and
+provide responses, we can&rsquo;t proceed with the supervised
+classification exercise. </span></span></em>
+</p>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">Instead
+of a supervised classification exercise, we can first try an
+unsupervised classification exercise. More specifically, we can try
+topic modeling. If we determine how many topics the docket texts can
+be classified into, the algorithm will identify the most likely
+topics each text belongs to. Therefore, instead of using brute force
+to classify each docket text, attorneys can identify the responses
+more efficiently based on the topics assigned.</span></span></em></p>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">There
+are many difficulties with this exercise:</span></span></em></p>
+<ol>
+	<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">Difficult
+	to acquire a large database: even though the docket texts are
+	publicly available, they are only available with a fee. The process
+	of acquiring data means someone with access to the government court
+	website would have to log in, search for cases that may or may not
+	be relevant, and download the docket texts.</span></span></em></p>
+	<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">This
+	is an unsupervised modeling exercise: there is no target for this
+	dataset, meaning the dataset does not come with answers on whether a
+	lawyer should respond and react, or how to respond or react.
+	Therefore, unless someone is willing to go through each texts to
+	determine the targets, this is an unsupervised classification (topic
+	modeling) exercise. </span></span></em>
+	</p>
+	<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">SME
+	is required: to perform NLP or topic modeling for this exercise, we
+	need to avoid GIGO (garbage in, garbage out). This meant that at
+	each step, we needed experts to interpret our input and output
+	results:</span></span></em></p>
+	<ol type="a">
+		<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">During
+		NLP, we need to clean enough to remove all the unwanted texts, but
+		not too much so the meanings or relevant keywords are lost.</span></span></em></p>
+		<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">After
+		NLP, is there an easy way to filter the features to provide the
+		correct targets? </span></span></em>
+		</p>
+		<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">During
+		Topic Modeling, we need to determine the optimal number of topics,
+		as well as interpret each topics correctly.</span></span></em></p>
+		<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">Testing:
+		we require SMEs to tell us whether our model is assigning topics
+		correctly for the test dataset.</span></span></em></p>
+		<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">After
+		Topic Modeling, we need SMEs to tell us if any action needs to be
+		taken, and what type of actions are relevant.</span></span></em></p>
+	</ol>
+	<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">If
+	topic modeling does not work, how should we proceed?</span></span></em></p>
+	<ol type="a">
+		<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">We
+		can collect more data. But this comes with a price.</span></span></em></p>
+		<li/>
+<p class="western"><em><span style="font-style: normal"><span style="text-decoration: none">Make
+		this exercise a supervised classification exercise by asking the
+		SMEs to provide targets for each feature.</span></span></em></p>
+	</ol>
+</ol>
+<ol>
+	<ol>
+		<ol start="3">
+			<li/>
+<h3 class="western"><a name="user-content-metrics"></a>Metrics</h3>
+		</ol>
+	</ol>
+</ol>
+<p class="western">Since this is an unsupervised exercise, we rely on
+our SMEs to determine the correctness of our classifications.
+Accuracy will be the metric that we measure/compare our modeling
+results.</p>
+<h2 class="western"><br/>
+<br/>
+
+</h2>
+<ol>
+	<ol start="2">
+		<li/>
+<h2 class="western" style="page-break-before: always"><a name="user-content-ii-analysis"></a>
+		II. Methodology</h2>
+		<ol>
+			<li/>
+<h3 class="western">NLP (Natural Language Processing) &ndash;
+			Cleaning</h3>
+		</ol>
+	</ol>
+</ol>
+<p class="western"><font size="3" style="font-size: 12pt"><u><span style="font-weight: normal">Organization
+and Name identification</span></u></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Oftentimes
+names and organizations are irrelevant in topic modeling, as names
+and organizations are too specific on the case bases. Therefore, I&rsquo;m
+using the tagger (Stanford NER) that Stanford developed to identify
+and remove names and organizations out of the docket texts.</span></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">However,
+we&rsquo;ll later find that Stanford NER didn&rsquo;t do a thorough
+job in this task. This means we&rsquo;ll iterate through the NLP and
+modeling process to find more irrelevant object in our docket texts
+for removal.</span></font></p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><font size="3" style="font-size: 12pt"><u><span style="font-weight: normal">Lemmatization
+and POS Identification</span></u></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Lemmatization
+is a process to return words back to its original form. For example,
+plural back to singular, and past tense into present. This will help
+us simplify our texts without changing the meaning of the texts.</span></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Parts
+of speech identifiers help us identify structure of sentences and
+words that should be removed. Numbers, dates, and pronouns are
+examples of things to be removed without changing the meaning of the
+texts. Our goal is to make our cleaned texts as simplified as
+possible without loosing meaning or keywords.</span></font></p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><font size="3" style="font-size: 12pt"><u><span style="font-weight: normal">Stop
+Words Identification</span></u></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Stop
+words are words that we often use and do not have particular meaning.
+These are also removed from the docket texts.</span></font></p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><font size="3" style="font-size: 12pt"><u><span style="font-weight: normal">Punctuation
+Identification</span></u></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Many
+ready-to-use NLP libraries have difficulties identifying punctuation
+and symbols that are used for specific context in a particular
+industry. We have identified punctuation and symbols that needed to
+be removed because the NLTK library didn&rsquo;t.</span></font></p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><font size="3" style="font-size: 12pt"><u><span style="font-weight: normal">Misc
+Identification</span></u></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">There
+are many legal and clerical jargon that adds no meaning to the docket
+texts. For example, contents in brackets &ldquo;()&rdquo; are always
+initials or dates. These occurrences should be removed during the NLP
+process.</span></font></p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><font size="3" style="font-size: 12pt"><u><span style="font-weight: normal">Phrase
+Modeling</span></u></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">A
+phrase is combination of words that have meaning that is different
+from each individual constituents. It is important to identify
+phrases going into topic modeling, as the model will examine phrase
+frequencies instead of word frequencies. </span></font>
+</p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><font size="3" style="font-size: 12pt"><b>Keyword/Topic
+Pairs</b></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">It
+may be difficult for topic modeling to produce results that are
+relevant. Therefore, another thought is that we would identify
+relevant topics in the docket texts if they contain specific
+keywords. This may be a good way to filter the docket texts for low
+hanging fruits, then allow topic modeling to handle texts with
+miscellaneous topics. </span></font>
+</p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><font size="3" style="font-size: 12pt"><b>Topic
+Modeling</b></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">We
+are using the gensim library to perform LDA (Latent Dirichlet
+Allocation).  LDA assumes that documents are probability distribution
+over latent topics. Topics are probability distribution over words.
+LDA looks at a number of documents and assumes that the words in each
+document are related. It then tries to figure out the 'recipe' for
+how each document could have been created. We just need to tell the
+model how many topics to construct and it uses that 'recipe' to
+generate topic and word distributions over a corpus. Based on that
+output, we can identify similar documents within the corpus.</span></font></p>
+<ol>
+	<ol>
+		<ol>
+			<li/>
+<h3 class="western"><a name="In-order-to-understand-the-LDA-process,-we-have-to-know-how-LDA-assumes-topics-are-generated:"></a>
+			<font size="3" style="font-size: 12pt"><span style="font-weight: normal">In
+			order to understand the LDA process, we have to know how LDA
+			assumes topics are generated:</span></font></h3>
+		</ol>
+	</ol>
+</ol>
+<ol>
+	<li/>
+<p class="western" style="margin-bottom: 0in">determine the
+	number of words in the document 
+	</p>
+	<li/>
+<p class="western" style="margin-bottom: 0in">choose a topic
+	mixture for the document over a fixed set of topics (ie. topic A
+	20%, topic B 50%, etc) 
+	</p>
+	<li/>
+<p class="western" style="margin-bottom: 0in">generate words
+	in the document by:</p>
+	<ul>
+		<li/>
+<p class="western" style="margin-bottom: 0in">pick a topic
+		based on the document's multinomial distribution 
+		</p>
+		<li/>
+<p class="western">pick a word based on the topic's
+		multinomial distribution 
+		</p>
+	</ul>
+</ol>
+<h3 class="western"><a name="Working-backwards"></a><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Working
+backwards</span></font></h3>
+<p class="western"><a name="2-Topics:"></a>Suppose you have a corpus
+of documents, and you want LDA to learn the topic representation of
+K<font color="#000080"><span lang="zxx"><u><a href="http://localhost:8888/notebooks/Docket%20Text%20Topic%20Modeling%20-%20Building%20Model%20(Spacy%20and%20LDA)%20v4.ipynb#2-Topics:">&para;</a></u></span></font></p>
+<p class="western"> topics in each document and the word distribution
+of each topic. LDA would backtrack from the document level to
+identify topics that are likely to have generated the corpus.</p>
+<ol>
+	<ol>
+		<ol start="2">
+			<li/>
+<h3 class="western"><a name="LDA's-Magic"></a><font size="3" style="font-size: 12pt"><span style="font-weight: normal">LDA's
+			Magic</span></font></h3>
+		</ol>
+	</ol>
+</ol>
+<ol>
+	<li/>
+<p class="western" style="margin-bottom: 0in">randomly assign
+	each word in each document to one of the K topics 
+	</p>
+	<li/>
+<p class="western" style="margin-bottom: 0in">for each
+	document</p>
+	<ul>
+		<li/>
+<p class="western" style="margin-bottom: 0in">assume that all
+		topic assignments except for the current one are correct 
+		</p>
+		<li/>
+<p class="western" style="margin-bottom: 0in">claculate two
+		proportions:</p>
+		<ol>
+			<li/>
+<p class="western" style="margin-bottom: 0in">proportion of
+			words in document d that are currently assigned to topic t =
+			p(topic t | document d) 
+			</p>
+			<li/>
+<p class="western" style="margin-bottom: 0in">proportion of
+			assignments to topic t over all documents that come from this word
+			w = p(word w | topic t) 
+			</p>
+		</ol>
+		<li/>
+<p class="western" style="margin-bottom: 0in">multiply those
+		two proportions and assign w a new topic based on that probability.
+		p(topic t | document d) * p(word w | topic t) 
+		</p>
+	</ul>
+	<li/>
+<p class="western">eventually we'll reach a steady state where
+	assignments make sense 
+	</p>
+</ol>
+<p class="western"><font size="3" style="font-size: 12pt"><b>Topic
+Modeling Visualization</b></font></p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><br/>
+<br/>
+
+</p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">The
+goal here was to examine the available data, and achieve the
+following objectives: </span></font>
+</p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Compare
+Data Sources: many data sources are becoming unavailable, turned into
+paid services, or only available on proprietary platforms. Many APIs
+were also inactivated, and webpages were inactivated or unable to be
+scrapped. I was only able to access three data sources: Quandl API,
+NASDAQ, and finance.yahoo.com.</span></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">After
+I compared the three data sources, there were apparent differences in
+Adjusted Closing Price and Adjusted Volume. There were also
+occasional missing data from Quandl API; the NASDAQ maximum
+historical data only spanned 10 years. With these difficulties, I
+relied soley on finance.yahoo.com&rsquo;s data. </span></font>
+</p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">&lt;insert
+the difference in data chart&gt;</span></font></p>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Using
+the available features, including open, close, high, low, volume and
+adj. close, I generated additional features:</span></font></p>
+<ul>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">High-Low
+	Range, as a percentage of previous day&rsquo;s close: this described
+	how volatile the day&rsquo;s movements were</span></font></p>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Open-Close
+	Range, as percentage of same day&rsquo;s open: this described the
+	general movement of the day&rsquo;s activities</span></font></p>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Moving
+	average (adjusted close &amp; volume) for a specific time period.</span></font></p>
+</ul>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">The
+new and old features needed to answer the following questions or
+explore ideas:</span></font></p>
+<ul>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">What
+	am I trying to predict: specific price, change in price, simple
+	direction, or general trend/direction? This will determine if this
+	is a classification (bi or multi) or a regression exercise.</span></font></p>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Were
+	there any relationship between the independent and dependent
+	features?</span></font></p>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">What
+	did the feature distributions look like? Did I need to make any
+	transformation?</span></font></p>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Were
+	there any missing or outliers that I needed to look into?</span></font></p>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Did
+	I needed to use scalers, or other feature engineering techniques
+	such as PCA?</span></font></p>
+	<li/>
+<p class="western"><em><font color="#00000a"><font size="3" style="font-size: 12pt"><span lang="en-US"><span style="font-style: normal"><span style="font-weight: normal">Was
+	there a model that can be applied to all equities? Or did I need to
+	train for each equity?</span></span></span></font></font></em></p>
+</ul>
+<ol>
+	<ol>
+		<ol start="2">
+			<li/>
+<h3 class="western"><a name="user-content-exploratory-visualization"></a>
+			Exploratory Visualization</h3>
+		</ol>
+	</ol>
+</ol>
+<p class="western"><b>Outliers</b></p>
+<p class="western"><span style="font-weight: normal">&lt;insert
+distribution plots for features&gt;</span></p>
+<p class="western"><b>Missing Data</b></p>
+<p class="western">&lt;insert chart for missing feature&gt;</p>
+<p class="western"><b>New Features created</b></p>
+<p class="western"><br/>
+<br/>
+
+</p>
+<p class="western"><b>Target</b></p>
+<p class="western"><span style="font-weight: normal">&lt;insert
+target distribution and transformation chart&gt;</span></p>
+<p class="western"><b>Features Transformed</b></p>
+<p class="western"><br/>
+<br/>
+
+</p>
+<p class="western"><b>PCA</b></p>
+<p class="western"><br/>
+<br/>
+
+</p>
+<ul>
+	<li/>
+<p class="western"></p>
+</ul>
+<p class="western"><br/>
+<br/>
+
+</p>
+<ol>
+	<ol>
+		<ol start="3">
+			<li/>
+<h3 class="western"><a name="user-content-benchmark"></a>Benchmark</h3>
+		</ol>
+	</ol>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">I
+	used two benchmark models, namely XGBoost Classifier and Lasso
+	Regression. The ultimate goal was to use LSTM to beat these
+	benchmark models. Supposedly, LSTM should be able to incorporate
+	long and short term memories to generate additional insights, and
+	further improve the predictive power of resulting models.</span></font></p>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">During
+	the LSTM optimization exercise, I attempted to explore how the
+	hyperparameters such as window, epoch, batch size, and LSTM
+	constructs affected the model performances. This surely helped me
+	tune the model for better performances. </span></font>
+	</p>
+	<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Also
+	note this was a regression, as well as, a classification exercise. </span></font>
+	</p>
+	<ol>
+		<ol>
+			<li/>
+<p class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">As
+			the exercise became computationally expensive, I moved
+			computational and storage needs onto AWS.</span></font></p>
+		</ol>
+	</ol>
+</ol>
+<p class="western" style="page-break-before: always"><a name="user-content-iii-methodology"></a>
+<font color="#00000a"><font size="5" style="font-size: 18pt"><span lang="en-US"><b>III.
+Methodology</b></span></font></font></p>
+<p class="western"><a name="user-content-data-preprocessing"></a><b>Data
+Preprocessing</b></p>
+<p class="western">scalers</p>
+<p class="western"><b>Target</b></p>
+<p class="western"><br/>
+<br/>
+
+</p>
+<p class="western"><b>Outliers</b></p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><b>Missing Data</b></p>
+<p class="western"><br/>
+<br/>
+
+</p>
+<p class="western"><b>Delete Feature</b></p>
+<p class="western"><br/>
+<br/>
+
+</p>
+<p class="western"><b>Feature Types Transformed</b></p>
+<p class="western"><br/>
+<br/>
+
+</p>
+<p class="western"><b>One-hot Features</b></p>
+<p class="western"><br/>
+<br/>
+
+</p>
+<p class="western"><b>New Features created</b></p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><b>Features Transformed</b></p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<p class="western"><b>PCA</b></p>
+<p class="western" style="font-weight: normal"><br/>
+<br/>
+
+</p>
+<ol>
+	<ol>
+		<ol start="2">
+			<li/>
+<h3 class="western"><a name="user-content-implementation"></a>
+			Implementation</h3>
+		</ol>
+	</ol>
+</ol>
+<p class="western"><br/>
+<br/>
+
+</p>
+<ol>
+	<ol>
+		<ol start="3">
+			<li/>
+<h3 class="western"><a name="user-content-refinement"></a>Refinement</h3>
+			<li/>
+<p class="western" style="font-weight: normal"></p>
+			<li/>
+<h3 class="western"><a name="__DdeLink__244_573279810"></a><font size="3" style="font-size: 12pt"><b>Lasso
+			Regression (benchmark)</b></font></h3>
+			<li/>
+<h3 class="western"></h3>
+			<li/>
+<h3 class="western"><font size="3" style="font-size: 12pt"><b>XGBoost
+			(benchmark)</b></font></h3>
+			<li/>
+<h3 class="western"></h3>
+		</ol>
+	</ol>
+</ol>
+<ol>
+	<li/>
+<h3 class="western"><font size="3" style="font-size: 12pt"><b>LSTM</b></font></h3>
+</ol>
+<ol>
+	<ol>
+		<ol>
+			<li/>
+<h3 class="western" style="font-weight: normal"></h3>
+		</ol>
+	</ol>
+</ol>
+<ol>
+	<ol>
+		<ol>
+			<li/>
+<h3 class="western"></h3>
+		</ol>
+	</ol>
+</ol>
+<ol>
+	<ol>
+		<li/>
+<h2 class="western" style="page-break-before: always"><a name="user-content-iv-results"></a>
+		IV. Results</h2>
+		<ol>
+			<li/>
+<h3 class="western"><a name="user-content-model-evaluation-and-validation"></a>
+			Model Evaluation and Validation</h3>
+		</ol>
+	</ol>
+</ol>
+<p class="western"><br/>
+<br/>
+
+</p>
+<ol>
+	<ol>
+		<ol start="2">
+			<li/>
+<h3 class="western"><a name="user-content-justification"></a>
+			Justification</h3>
+		</ol>
+	</ol>
+</ol>
+<p class="western"><br/>
+<br/>
+
+</p>
+<h2 class="western"><br/>
+<br/>
+
+</h2>
+<ol>
+	<ol start="2">
+		<li/>
+<h2 class="western" style="page-break-before: always"><a name="user-content-v-conclusion"></a>
+		V. Conclusion</h2>
+		<li/>
+<p class="western"></p>
+		<ol>
+			<li/>
+<h3 class="western"><a name="user-content-free-form-visualization"></a>
+			Free-Form Visualization</h3>
+		</ol>
+	</ol>
+</ol>
+<p class="western"><br/>
+<br/>
+
+</p>
+<ol>
+	<ol>
+		<ol start="2">
+			<li/>
+<h3 class="western"><a name="user-content-reflection"></a>Reflection</h3>
+		</ol>
+	</ol>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Findings
+	and questions</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Questions:</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Predicting
+	next day price may not be the best thing to do. We may want to
+	predict price in 5 days, or even much more ahead? What&rsquo;s a
+	reasonable window to predict price before randomness takes over?</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Should
+	I predict volume?</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Should
+	I include other features to predict price?</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Does
+	dropout improve performance?</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Does
+	multiple layers improve performance?</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Should
+	we actually try to predict price? Or should we predict a range? For
+	example, -1~1% is neutral, 1~5% is good, 5%+ is excellent, etc.</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Findings:</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Best
+	results is with window 15 (about 3 weeks), epoch 2000, and
+	batch-size 50-250.</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">There
+	may be upward bias, meaning all that we have seen is upward trend
+	(most of the time).</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">When
+	selecting hyperparameters, training predict time, testing predict
+	time, training error eval time, and testing error eval time are
+	negligible. </span></font>
+	</h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">The
+	larger the window, the longer the training time. The higher the
+	epoch, and the smaller the batch size, the longer the training time.</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Best
+	training error achieved is with window 15, batch size 10, epoch 500:
+	2.5616e-06</span></font></h1>
+	<li/>
+<h1 class="western"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">Best
+	testing error achieved is with window 10, batch size 500, epoch
+	2000: 7.58083e-05</span></font></h1>
+	<ol>
+		<ol>
+			<li/>
+<h3 class="western" style="font-weight: normal"></h3>
+			<li/>
+<h3 class="western">Citation and Sources</h3>
+		</ol>
+	</ol>
+</ol>
+<p class="western" style="font-style: normal"><br/>
+<br/>
+
+</p>
+<p class="western" style="font-style: normal"><br/>
+<br/>
+
+</p>
+<p class="western" style="line-height: 120%"><em><span style="font-style: normal"><b>Relevant
+Files and Folders</b></span></em></p>
+</body>
+</html>
