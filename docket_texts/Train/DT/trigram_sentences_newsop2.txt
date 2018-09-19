@@ -20,10 +20,10 @@ rule corporate_disclosure statement corporate_parent document file enter date
 rule corporate_disclosure statement inc document file inc enter date
 first set interrogatories llc document file inc walko enter date
 case refer judge possibly relate cv laq enter date
-ernst young llp srule disclosure statement document file l l p jmi enter date
+ernst young llp srule disclosure statement document file l l_p jmi enter date
 rule disclosure statement document file cayman islands ps enter date
 rule disclosure statement document file corp pa enter date
-affidavit document file alphaplus fund l p et al djc enter date
+affidavit document file alphaplus fund l_p et al djc enter date
 subpoena issue date document file cd enter date
 subpoena issue date pm document file cd enter date
 rule disclosure statement document file djc enter date
@@ -42,6 +42,7 @@ rule corporate_disclosure statement corporate_parent document file inc enter dat
 rule statement document file llc enter date
 counter statement rule statement document file inc enter date
 pre conferene statement newvest portfolio newvest b receive night_deposit_box p yv modify date enter date
+defendant initial disclosures pursuant rule frcp db enter date
 case close kw enter date
 civil_cover_sheet file scileppi enter date
 case refer judge possibly relate mdl gf enter date
@@ -93,7 +94,7 @@ rule disclosure statement document file p c office p c cd enter date
 rule disclosure statement document file enter date
 rule disclosure statement document file inc jmi enter date
 rule disclosure statement document file jco enter date
-rule disclosure statement document file l p inc jmi enter date
+rule disclosure statement document file l_p inc jmi enter date
 rule disclosure statement document file jmi enter date
 rule disclosure statement document file inc enter date
 rule disclosure statement document file yv enter date
@@ -103,22 +104,22 @@ rule disclosure statement document file inc sac enter date
 consent change attorney document file ambassador inc bank enter date
 case accept relate mc kkc enter date
 consolidate member case case consolidate mc rjm enter date
-rule disclosure statement document file l l p jp enter date
+rule disclosure statement document file l l_p jp enter date
 rule disclosure statement document file yv enter date
 counter statement document file file associate case mc akh et al enter date
 rule corporate_disclosure statement corporate_parent document file development corp kent enter date
 rule corporate_disclosure statement corporate_parent document file corp enter date
-rule statement document file l p file associate case mc akh et al enter date
+rule statement document file l_p file associate case mc akh et al enter date
 rule statement document file h enter date
 counter statement rule statement document file inc mark enter date
 counter statement rule statement document file inc mark enter date
-rule statement document file l p file associate case mc akh cv akh enter date
+rule statement document file l_p file associate case mc akh cv akh enter date
 rule statement document file enter date
 counter statement rule statement document file enter date
 counter statement rule statement document file enter date
 rule statement document file inc file associate case mc akh cv akh enter date
 bill cost date october document file inc enter date
-bill cost document file l p wang enter date
+bill cost document file l_p wang enter date
 civil_cover_sheet file sava enter date
 first rule corporate_disclosure statement corporate_parent document file sava enter date
 rule disclosure statement document file pennsylvania enter date
