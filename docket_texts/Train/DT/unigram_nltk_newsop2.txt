@@ -75,7 +75,7 @@
 
 
 
-status report llc kehrli enter date
+status report llc kehrli
 
 
 
@@ -149,7 +149,7 @@ status report llc kehrli enter date
 
 
 
-corporate disclosure statement enter date
+corporate disclosure statement
 
 
 
@@ -172,7 +172,7 @@ corporate disclosure statement enter date
 
 
 
-status report propose brief schedule llc kehrli enter date
+status report propose brief schedule llc kehrli
 
 
 
@@ -193,7 +193,7 @@ status report propose brief schedule llc kehrli enter date
 
 
 
-status report llc kehrli enter date
+status report llc kehrli
 
 
 
@@ -235,7 +235,7 @@ status report llc kehrli enter date
 
 
 
-propose find fact llc kehrli enter date
+propose find fact llc kehrli
 
 
 
@@ -251,7 +251,7 @@ propose find fact llc kehrli enter date
 
 
 
-witness list llc kehrli enter date
+witness list llc kehrli
 
 
 
@@ -273,7 +273,7 @@ witness list llc kehrli enter date
 
 
 
-status report llc kehrli enter date
+status report llc kehrli
 
 
 
@@ -320,9 +320,9 @@ status report llc kehrli enter date
 
 
 
-status report llc kehrli enter date
+status report llc kehrli
 
-rule statement file llc enter date
+rule statement file llc
 
 
 
@@ -335,8 +335,8 @@ rule statement file llc enter date
 
 
 
-civil cover sheet file enter date
-rule corporate disclosure statement corporate parent document file adar bay enter date
+civil cover sheet file
+rule corporate disclosure statement corporate parent document file adar bay
 
 
 
@@ -373,16 +373,16 @@ rule corporate disclosure statement corporate parent document file adar bay ente
 
 
 
-status report document file adar bay enter date
+status report document file adar bay
 
 
-status report document file adar bay enter date
-memo endorsement status report file adar bay endorsement application deny sign judge jr date rj enter date
+status report document file adar bay
+memo endorsement status report file adar bay endorsement application deny sign judge jr date rj
 
 
-status report document file adar bay enter date
+status report document file adar bay
 
-rule corporate disclosure statement corporate parent document file genesys id inc basile mark enter date
+rule corporate disclosure statement corporate parent document file genesys id inc basile mark
 
 
 
@@ -398,7 +398,7 @@ rule corporate disclosure statement corporate parent document file genesys id in
 
 
 
-rule statement document file adar bay enter date
+rule statement document file adar bay
 
 
 
@@ -410,8 +410,8 @@ rule statement document file adar bay enter date
 
 
 
-civil cover sheet file enter date
-rule corporate disclosure statement corporate parent document file enter date
+civil cover sheet file
+rule corporate disclosure statement corporate parent document file
 
 
 
@@ -434,7 +434,7 @@ rule corporate disclosure statement corporate parent document file enter date
 
 
 
-rule corporate disclosure statement inc document file inc enter date
+rule corporate disclosure statement inc document file inc
 
 
 
@@ -449,7 +449,7 @@ rule corporate disclosure statement inc document file inc enter date
 
 
 
-first set interrogatories llc document file inc walko enter date
+first set interrogatories llc document file inc walko
 
 
 
@@ -469,7 +469,7 @@ first set interrogatories llc document file inc walko enter date
 
 
 
-case refer judge possibly relate cv laq enter date
+case refer judge possibly relate cv laq
 
 
 
@@ -547,16 +547,16 @@ case refer judge possibly relate cv laq enter date
 
 
 
-ernst young llp srule disclosure statement document file l l p jmi enter date
+ernst young llp srule disclosure statement document file l l p jmi
 
 
 
 
 
-rule disclosure statement document file cayman islands ps enter date
+rule disclosure statement document file cayman islands ps
 
 
-rule disclosure statement document file corp pa enter date
+rule disclosure statement document file corp pa
 
 
 
@@ -610,13 +610,13 @@ rule disclosure statement document file corp pa enter date
 
 
 
-affidavit document file alphaplus fund l p et al djc enter date
+affidavit document file alphaplus fund l p et al djc
 
 
 
 
-subpoena issue date document file cd enter date
-subpoena issue date pm document file cd enter date
+subpoena issue date document file cd
+subpoena issue date pm document file cd
 
 
 
@@ -636,9 +636,9 @@ subpoena issue date pm document file cd enter date
 
 
 
-rule disclosure statement document file djc enter date
+rule disclosure statement document file djc
 
-rule disclosure statement document file cd enter date
+rule disclosure statement document file cd
 
 
 
@@ -687,20 +687,20 @@ rule disclosure statement document file cd enter date
 
 
 
-rule corporate disclosure statement corporate parent document file enter date
+rule corporate disclosure statement corporate parent document file
 
 
 
 
 
-civil cover sheet file enter date
+civil cover sheet file
 
 
 
 
 
-rule corporate disclosure statement corporate parent document file inc enter date
-rule corporate disclosure statement corporate parent document file inc enter date
+rule corporate disclosure statement corporate parent document file inc
+rule corporate disclosure statement corporate parent document file inc
 
 
 
@@ -735,11 +735,11 @@ rule corporate disclosure statement corporate parent document file inc enter dat
 
 
 
-note state attorneys please visit court website http url information regard admission n bar cm ecf rule file instructions sjo enter date
+note state attorneys please visit court website http url information regard admission n bar cm ecf rule file instructions sjo
 
 
 
-first rule corporate disclosure statement corporate parent document file aim exploration inc basile mark enter date
+first rule corporate disclosure statement corporate parent document file aim exploration inc basile mark
 
 
 
@@ -760,9 +760,9 @@ first rule corporate disclosure statement corporate parent document file aim exp
 
 
 
-civil cover sheet file enter date
+civil cover sheet file
 
-rule corporate disclosure statement corporate parent document file llc enter date
+rule corporate disclosure statement corporate parent document file llc
 
 
 
@@ -785,9 +785,9 @@ rule corporate disclosure statement corporate parent document file llc enter dat
 
 
 
-civil cover sheet file han enter date
+civil cover sheet file han
 
-rule corporate disclosure statement corporate parent document file llc han enter date
+rule corporate disclosure statement corporate parent document file llc han
 
 
 
@@ -806,7 +806,7 @@ rule corporate disclosure statement corporate parent document file llc han enter
 
 
 
-rule corporate disclosure statement corporate parent document file inc enter date
+rule corporate disclosure statement corporate parent document file inc
 
 
 
@@ -829,11 +829,11 @@ rule corporate disclosure statement corporate parent document file inc enter dat
 
 
 
-rule statement document file llc enter date
+rule statement document file llc
 
 
 
-counter statement rule statement document file inc enter date
+counter statement rule statement document file inc
 
 
 
@@ -939,7 +939,7 @@ counter statement rule statement document file inc enter date
 
 
 
-pre conferene statement newvest portfolio newvest b receive night deposit box p yv modify date enter date
+pre conferene statement newvest portfolio newvest b receive night deposit box p yv modify date
 
 
 
@@ -948,7 +948,7 @@ pre conferene statement newvest portfolio newvest b receive night deposit box p 
 
 
 
-defendant initial disclosures pursuant rule frcp db enter date
+defendant initial disclosures pursuant rule frcp db
 
 
 
@@ -979,9 +979,9 @@ defendant initial disclosures pursuant rule frcp db enter date
 
 
 
-case close kw enter date
+case close kw
 
-civil cover sheet file scileppi enter date
+civil cover sheet file scileppi
 
 
 
@@ -1025,7 +1025,7 @@ civil cover sheet file scileppi enter date
 
 
 
-case refer judge possibly relate mdl gf enter date
+case refer judge possibly relate mdl gf
 
 
 
@@ -1036,7 +1036,7 @@ case refer judge possibly relate mdl gf enter date
 
 
 
-rule disclosure statement document file inc djc enter date
+rule disclosure statement document file inc djc
 
 
 
@@ -1067,7 +1067,7 @@ rule disclosure statement document file inc djc enter date
 
 
 
-redaction defendants statement undisputed facts enter date
+redaction defendants statement undisputed facts
 
 
 
@@ -1139,7 +1139,7 @@ redaction defendants statement undisputed facts enter date
 
 
 
-consolidate member case create association md whp rjm enter date
+consolidate member case create association md whp rjm
 
 
 
@@ -1210,7 +1210,7 @@ consolidate member case create association md whp rjm enter date
 
 
 
-statement pursuant local civil rule document file mro enter date
+statement pursuant local civil rule document file mro
 
 
 
@@ -1219,7 +1219,7 @@ statement pursuant local civil rule document file mro enter date
 
 
 
-redact rule statement document file tro enter date
+redact rule statement document file tro
 
 
 
@@ -1245,7 +1245,7 @@ redact rule statement document file tro enter date
 
 
 
-set reset hear fairness hear set date courtroom pearl street new york ny judge cd enter date
+set reset hear fairness hear set date courtroom pearl street new york ny judge cd
 
 
 
@@ -1268,7 +1268,7 @@ set reset hear fairness hear set date courtroom pearl street new york ny judge c
 
 
 
-affidavit jr c p regard claim administration document file file associate case md whp cv whp ft enter date
+affidavit jr c p regard claim administration document file file associate case md whp cv whp ft
 
 
 
@@ -1276,7 +1276,7 @@ affidavit jr c p regard claim administration document file file associate case m
 
 
 
-affidavit jr c p regard claim administration document file file associate case md whp cv whp ft enter date
+affidavit jr c p regard claim administration document file file associate case md whp cv whp ft
 
 
 
@@ -1364,7 +1364,7 @@ affidavit jr c p regard claim administration document file file associate case m
 
 
 
-pretrial statement document file inc enter date
+pretrial statement document file inc
 
 
 
@@ -1414,8 +1414,8 @@ pretrial statement document file inc enter date
 
 
 
-propose find fact conclusions law document file langer enter date
-propose find fact conclusions law document file inc enter date
+propose find fact conclusions law document file langer
+propose find fact conclusions law document file inc
 
 
 
@@ -1453,7 +1453,7 @@ propose find fact conclusions law document file inc enter date
 
 
 
-case refer judge possibly relate cv jom enter date
+case refer judge possibly relate cv jom
 
 
 
@@ -1473,7 +1473,7 @@ case refer judge possibly relate cv jom enter date
 
 
 
-rule corporate disclosure statement affiliate document file enter date
+rule corporate disclosure statement affiliate document file
 
 
 
@@ -1721,39 +1721,39 @@ rule corporate disclosure statement affiliate document file enter date
 
 
 
-rule statement document file enter date
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
 
 
 
-rule statement document file fumerton enter date
+rule statement document file fumerton
 
 
 
 
-rule statement document file enter date
-rule statement document file enter date
+rule statement document file
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
 
 
 
 
 
-delete document delete document number rule statement document incorrectly file case lb enter date
+delete document delete document number rule statement document incorrectly file case lb
 
 
 
 
-rule statement document file enter date
+rule statement document file
 
 
 
@@ -1766,7 +1766,7 @@ rule statement document file enter date
 
 
 
-rule statement document file enter date
+rule statement document file
 
 
 
@@ -1775,45 +1775,45 @@ rule statement document file enter date
 
 
 
-rule statement document file enter date
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
-rule statement document file enter date
+rule statement document file
 
-rule statement document file enter date
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
-rule statement document file enter date
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
 
 
-rule statement document file enter date
+rule statement document file
 
 
 
-rule statement document file enter date
+rule statement document file
 
 
-rule statement document file enter date
+rule statement document file
 
 
 
@@ -1824,14 +1824,14 @@ rule statement document file enter date
 
 
 
-case refer judge possibly relate cv jjm enter date
+case refer judge possibly relate cv jjm
 
 
 
-case decline relate case refer relate cv decline judge return wheel assignment gf enter date
+case decline relate case refer relate cv decline judge return wheel assignment gf
 
 
-rule disclosure statement document file g c p c sigmond enter date
+rule disclosure statement document file g c p c sigmond
 
 
 
@@ -1846,7 +1846,7 @@ rule disclosure statement document file g c p c sigmond enter date
 
 
 
-case accept relate cv gf enter date
+case accept relate cv gf
 
 
 
@@ -1862,7 +1862,7 @@ case accept relate cv gf enter date
 
 
 
-case accept relate mc gf enter date
+case accept relate mc gf
 
 
 
@@ -1878,24 +1878,24 @@ case accept relate mc gf enter date
 
 
 
-rule disclosure statement document file ambassador inc jp enter date
+rule disclosure statement document file ambassador inc jp
 
 
 
 
-rule disclosure statement document file inc sac enter date
+rule disclosure statement document file inc sac
 
 
 
 
 
-rule disclosure statement document file p c office p c cd enter date
+rule disclosure statement document file p c office p c cd
 
 
 
 
 
-rule disclosure statement document file enter date
+rule disclosure statement document file
 
 
 
@@ -1904,25 +1904,25 @@ rule disclosure statement document file enter date
 
 
 
-rule disclosure statement document file inc jmi enter date
-rule disclosure statement document file jco enter date
+rule disclosure statement document file inc jmi
+rule disclosure statement document file jco
 
 
-rule disclosure statement document file l p inc jmi enter date
+rule disclosure statement document file l p inc jmi
 
-rule disclosure statement document file jmi enter date
-rule disclosure statement document file inc enter date
+rule disclosure statement document file jmi
+rule disclosure statement document file inc
 
-rule disclosure statement document file yv enter date
-rule disclosure statement document file yv enter date
+rule disclosure statement document file yv
+rule disclosure statement document file yv
 
 
-rule disclosure statement document file inc ps enter date
+rule disclosure statement document file inc ps
 
 
 
 
-rule disclosure statement document file inc sac enter date
+rule disclosure statement document file inc sac
 
 
 
@@ -1949,11 +1949,11 @@ rule disclosure statement document file inc sac enter date
 
 
 
-consent change attorney document file ambassador inc bank enter date
+consent change attorney document file ambassador inc bank
 
 
-case accept relate mc kkc enter date
-consolidate member case case consolidate mc rjm enter date
+case accept relate mc kkc
+consolidate member case case consolidate mc rjm
 
 
 
@@ -1968,7 +1968,7 @@ consolidate member case case consolidate mc rjm enter date
 
 
 
-rule disclosure statement document file l l p jp enter date
+rule disclosure statement document file l l p jp
 
 
 
@@ -1986,7 +1986,7 @@ rule disclosure statement document file l l p jp enter date
 
 
 
-rule disclosure statement document file yv enter date
+rule disclosure statement document file yv
 
 
 
@@ -2128,7 +2128,7 @@ rule disclosure statement document file yv enter date
 
 
 
-counter statement document file file associate case mc akh et al enter date
+counter statement document file file associate case mc akh et al
 
 
 
@@ -2199,10 +2199,10 @@ counter statement document file file associate case mc akh et al enter date
 
 
 
-rule corporate disclosure statement corporate parent document file development corp kent enter date
+rule corporate disclosure statement corporate parent document file development corp kent
 
 
-rule corporate disclosure statement corporate parent document file corp enter date
+rule corporate disclosure statement corporate parent document file corp
 
 
 
@@ -2217,13 +2217,13 @@ rule corporate disclosure statement corporate parent document file corp enter da
 
 
 
-rule statement document file l p file associate case mc akh et al enter date
+rule statement document file l p file associate case mc akh et al
 
 
 
 
 
-rule statement document file h enter date
+rule statement document file h
 
 
 
@@ -2233,9 +2233,9 @@ rule statement document file h enter date
 
 
 
-counter statement rule statement document file inc mark enter date
+counter statement rule statement document file inc mark
 
-counter statement rule statement document file inc mark enter date
+counter statement rule statement document file inc mark
 
 
 
@@ -2256,12 +2256,12 @@ counter statement rule statement document file inc mark enter date
 
 
 
-rule statement document file l p file associate case mc akh cv akh enter date
+rule statement document file l p file associate case mc akh cv akh
 
 
 
 
-rule statement document file enter date
+rule statement document file
 
 
 
@@ -2283,14 +2283,14 @@ rule statement document file enter date
 
 
 
-counter statement rule statement document file enter date
-counter statement rule statement document file enter date
+counter statement rule statement document file
+counter statement rule statement document file
 
 
 
 
 
-rule statement document file inc file associate case mc akh cv akh enter date
+rule statement document file inc file associate case mc akh cv akh
 
 
 
@@ -2351,7 +2351,7 @@ rule statement document file inc file associate case mc akh cv akh enter date
 
 
 
-bill cost date october document file inc enter date
+bill cost date october document file inc
 
 
 
@@ -2360,7 +2360,7 @@ bill cost date october document file inc enter date
 
 
 
-bill cost document file l p wang enter date
+bill cost document file l p wang
 
 
 
@@ -2378,8 +2378,8 @@ bill cost document file l p wang enter date
 
 
 
-civil cover sheet file sava enter date
-first rule corporate disclosure statement corporate parent document file sava enter date
+civil cover sheet file sava
+first rule corporate disclosure statement corporate parent document file sava
 
 
 
@@ -2418,7 +2418,7 @@ first rule corporate disclosure statement corporate parent document file sava en
 
 
 
-rule disclosure statement document file pennsylvania enter date
+rule disclosure statement document file pennsylvania
 
 
 
@@ -2432,18 +2432,18 @@ rule disclosure statement document file pennsylvania enter date
 
 
 
-rule statement document file pennsylvania cotton enter date
+rule statement document file pennsylvania cotton
 
 
 
-rule statement document file cyr enter date
+rule statement document file cyr
 
 
 
 
 
 
-counter statement rule statement document file pennsylvania cotton enter date
+counter statement rule statement document file pennsylvania cotton
 
 
 
@@ -2455,17 +2455,17 @@ counter statement rule statement document file pennsylvania cotton enter date
 
 
 
-rule statement document file cyr enter date
+rule statement document file cyr
 
 
 
 
-counter statement rule statement document file keely enter date
+counter statement rule statement document file keely
 
 
 
 
-counter statement rule statement document file pennsylvania cotton enter date
+counter statement rule statement document file pennsylvania cotton
 
 
 
@@ -2474,10 +2474,10 @@ counter statement rule statement document file pennsylvania cotton enter date
 
 
 
-brief support request jury trial document file keely enter date
+brief support request jury trial document file keely
 
 
-brief support request jury trial document file keely enter date
+brief support request jury trial document file keely
 
 
 
@@ -2514,7 +2514,7 @@ brief support request jury trial document file keely enter date
 
 
 
-propose jury instructions document file pennsylvania enter date
+propose jury instructions document file pennsylvania
 
 
 
@@ -2525,16 +2525,16 @@ propose jury instructions document file pennsylvania enter date
 
 
 
-propose jury instructions document file keely enter date
-request charge document file keely enter date
-propose voir dire question document file cyr enter date
-propose voir dire question document file pennsylvania enter date
+propose jury instructions document file keely
+request charge document file keely
+propose voir dire question document file cyr
+propose voir dire question document file pennsylvania
 
 
 
 
 
-court exhibit trial document file djc enter date
+court exhibit trial document file djc
 
 
 
@@ -2543,13 +2543,13 @@ court exhibit trial document file djc enter date
 
 
 
-jury instructions court exhibit number djc enter date
+jury instructions court exhibit number djc
 
 
 
 
 
-court exhibit document file djc enter date
+court exhibit document file djc
 
 
 
@@ -2566,7 +2566,7 @@ court exhibit document file djc enter date
 
 
 
-supersedeas bond amount post pennsylvania ml enter date
+supersedeas bond amount post pennsylvania ml
 
 
 
@@ -2613,7 +2613,7 @@ supersedeas bond amount post pennsylvania ml enter date
 
 
 
-hand deliver certify copy find conclusions eef enter date
+hand deliver certify copy find conclusions eef
 
 
 
@@ -2650,7 +2650,7 @@ hand deliver certify copy find conclusions eef enter date
 
 
 
-rule corporate disclosure statement corporate parent document file enter date
+rule corporate disclosure statement corporate parent document file
 
 
 
@@ -2737,7 +2737,7 @@ rule corporate disclosure statement corporate parent document file enter date
 
 
 
-request proceed forma pauperis document file wellington rdz enter date
+request proceed forma pauperis document file wellington rdz
 
 
 
@@ -2869,7 +2869,7 @@ request proceed forma pauperis document file wellington rdz enter date
 
 
 
-demand jury trial sac enter date
+demand jury trial sac
 
 
 
@@ -2880,7 +2880,7 @@ demand jury trial sac enter date
 
 
 
-consolidate lead case pl enter date
+consolidate lead case pl
 
 
 
@@ -2898,18 +2898,18 @@ consolidate lead case pl enter date
 
 
 
-propose find fact conclusions law receive night deposit box date p tp enter date
-propose conclusions law receive night deposit box date p tp modify date enter date
-propose find fact conclusions law receive night deposit box date p tp enter date
+propose find fact conclusions law receive night deposit box date p tp
+propose conclusions law receive night deposit box date p tp modify date
+propose find fact conclusions law receive night deposit box date p tp
 
 
 
-bench trial conclude judge bai enter date
-propose find fact conclusions law file plaintiffs kkc modify date enter date
+bench trial conclude judge bai
+propose find fact conclusions law file plaintiffs kkc modify date
 
-correct find fact conclusions law file pltff jp enter date
+correct find fact conclusions law file pltff jp
 
-additional propose conclusions law djc enter date
+additional propose conclusions law djc
 
 
 
@@ -2918,19 +2918,19 @@ additional propose conclusions law djc enter date
 
 
 
-propose conclusions law second phase trial rec night deposit box date kw modify date enter date
-propose find fact second phase trial rec night deposit box date kw enter date
-bench trial begin continue judge ae enter date
-bench trial hold continue judge ae modify date enter date
-bench trial hold continue judge ae modify date enter date
-bench trial hold continue date judge ae enter date
-bench trial hold conclude date judge total trial days ae enter date
+propose conclusions law second phase trial rec night deposit box date kw modify date
+propose find fact second phase trial rec night deposit box date kw
+bench trial begin continue judge ae
+bench trial hold continue judge ae modify date
+bench trial hold continue judge ae modify date
+bench trial hold continue date judge ae
+bench trial hold conclude date judge total trial days ae
 
 
 
 
 
-supplemental propose find fact conclusions law w enclose compendium case cite supplemental propose find fact conclusions pl enter date
+supplemental propose find fact conclusions law w enclose compendium case cite supplemental propose find fact conclusions pl
 
 
 
@@ -2941,23 +2941,23 @@ supplemental propose find fact conclusions law w enclose compendium case cite su
 
 
 
-case close djc enter date
+case close djc
 
 
 
 
 
-bond sum enter yv enter date
+bond sum enter yv
 
 
 
-correct bond sum enter sb enter date
+correct bond sum enter sb
 
 
 
 
 
-correct supersedeas bond sum enter ae enter date
+correct supersedeas bond sum enter ae
 
 
 
@@ -2986,7 +2986,7 @@ correct supersedeas bond sum enter ae enter date
 
 
 
-rule corporate disclosure statement identify corporate parent document file mro enter date
+rule corporate disclosure statement identify corporate parent document file mro
 
 
 
@@ -2996,7 +2996,7 @@ rule corporate disclosure statement identify corporate parent document file mro 
 
 
 
-rule corporate disclosure statement corporate parent document file inc enter date
+rule corporate disclosure statement corporate parent document file inc
 
 
 
@@ -3223,7 +3223,7 @@ rule corporate disclosure statement corporate parent document file inc enter dat
 
 
 
-please advise judge abrams courtroom chamber move thurgood marshall unite state courthouse locate foley square new york new york effective immediately proceed take place courtroom locate room foley square court contact information set forth court individual rule practice available http url remain arc enter date
+please advise judge abrams courtroom chamber move thurgood marshall unite state courthouse locate foley square new york new york effective immediately proceed take place courtroom locate room foley square court contact information set forth court individual rule practice available http url remain arc
 
 
 
